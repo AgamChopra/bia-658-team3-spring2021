@@ -1,0 +1,4000 @@
+,Title,Actor,Metascore
+0,Guardians of the Galaxy,Chris Pratt,76.0
+1,Guardians of the Galaxy,Vin Diesel,76.0
+2,Guardians of the Galaxy,Bradley Cooper,76.0
+3,Guardians of the Galaxy,Zoe Saldana,76.0
+4,Prometheus,Noomi Rapace,65.0
+5,Prometheus,Logan Marshall-Green,65.0
+6,Prometheus,Michael Fassbender,65.0
+7,Prometheus,Charlize Theron,65.0
+8,Split,James McAvoy,62.0
+9,Split,Anya Taylor-Joy,62.0
+10,Split,Haley Lu Richardson,62.0
+11,Split,Jessica Sula,62.0
+12,Sing,Matthew McConaughey,59.0
+13,Sing,Reese Witherspoon,59.0
+14,Sing,Seth MacFarlane,59.0
+15,Sing,Scarlett Johansson,59.0
+16,Suicide Squad,Will Smith,40.0
+17,Suicide Squad,Jared Leto,40.0
+18,Suicide Squad,Margot Robbie,40.0
+19,Suicide Squad,Viola Davis,40.0
+20,The Great Wall,Matt Damon,42.0
+21,The Great Wall,Tian Jing,42.0
+22,The Great Wall,Willem Dafoe,42.0
+23,The Great Wall,Andy Lau,42.0
+24,La La Land,Ryan Gosling,93.0
+25,La La Land,Emma Stone,93.0
+26,La La Land,Rosemarie DeWitt,93.0
+27,La La Land,J.K. Simmons,93.0
+28,Mindhorn,Essie Davis,71.0
+29,Mindhorn,Andrea Riseborough,71.0
+30,Mindhorn,Julian Barratt,71.0
+31,Mindhorn,Kenneth Branagh,71.0
+32,The Lost City of Z,Charlie Hunnam,78.0
+33,The Lost City of Z,Robert Pattinson,78.0
+34,The Lost City of Z,Sienna Miller,78.0
+35,The Lost City of Z,Tom Holland,78.0
+36,Passengers,Jennifer Lawrence,41.0
+37,Passengers,Chris Pratt,41.0
+38,Passengers,Michael Sheen,41.0
+39,Passengers,Laurence Fishburne,41.0
+40,Fantastic Beasts and Where to Find Them,Eddie Redmayne,66.0
+41,Fantastic Beasts and Where to Find Them,Katherine Waterston,66.0
+42,Fantastic Beasts and Where to Find Them,Alison Sudol,66.0
+43,Fantastic Beasts and Where to Find Them,Dan Fogler,66.0
+44,Hidden Figures,Taraji P. Henson,74.0
+45,Hidden Figures,Octavia Spencer,74.0
+46,Hidden Figures,Janelle Monáe,74.0
+47,Hidden Figures,Kevin Costner,74.0
+48,Rogue One,Felicity Jones,65.0
+49,Rogue One,Diego Luna,65.0
+50,Rogue One,Alan Tudyk,65.0
+51,Rogue One,Donnie Yen,65.0
+52,Moana,Auli'i Cravalho,81.0
+53,Moana,Dwayne Johnson,81.0
+54,Moana,Rachel House,81.0
+55,Moana,Temuera Morrison,81.0
+56,Colossal,Anne Hathaway,70.0
+57,Colossal,Jason Sudeikis,70.0
+58,Colossal,Austin Stowell,70.0
+59,Colossal,Tim Blake Nelson,70.0
+60,The Secret Life of Pets,Louis C.K.,61.0
+61,The Secret Life of Pets,Eric Stonestreet,61.0
+62,The Secret Life of Pets,Kevin Hart,61.0
+63,The Secret Life of Pets,Lake Bell,61.0
+64,Hacksaw Ridge,Andrew Garfield,71.0
+65,Hacksaw Ridge,Sam Worthington,71.0
+66,Hacksaw Ridge,Luke Bracey,71.0
+67,Hacksaw Ridge,Teresa Palmer,71.0
+68,Jason Bourne,Matt Damon,58.0
+69,Jason Bourne,Tommy Lee Jones,58.0
+70,Jason Bourne,Alicia Vikander,58.0
+71,Jason Bourne,Vincent Cassel,58.0
+72,Lion,Dev Patel,69.0
+73,Lion,Nicole Kidman,69.0
+74,Lion,Rooney Mara,69.0
+75,Lion,Sunny Pawar,69.0
+76,Arrival,Amy Adams,81.0
+77,Arrival,Jeremy Renner,81.0
+78,Arrival,Forest Whitaker,81.0
+79,Arrival,Michael Stuhlbarg,81.0
+80,Gold,Matthew McConaughey,49.0
+81,Gold,Edgar Ramírez,49.0
+82,Gold,Bryce Dallas Howard,49.0
+83,Gold,Corey Stoll,49.0
+84,Manchester by the Sea,Casey Affleck,96.0
+85,Manchester by the Sea,Michelle Williams,96.0
+86,Manchester by the Sea,Kyle Chandler,96.0
+87,Manchester by the Sea,Lucas Hedges,96.0
+88,Hounds of Love,Emma Booth,72.0
+89,Hounds of Love,Ashleigh Cummings,72.0
+90,Hounds of Love,Stephen Curry,72.0
+91,Hounds of Love,Susie Porter,72.0
+92,Trolls,Anna Kendrick,56.0
+93,Trolls,Justin Timberlake,56.0
+94,Trolls,Zooey Deschanel,56.0
+95,Trolls,Christopher Mintz-Plasse,56.0
+96,Independence Day: Resurgence,Liam Hemsworth,32.0
+97,Independence Day: Resurgence,Jeff Goldblum,32.0
+98,Independence Day: Resurgence,Bill Pullman,32.0
+99,Independence Day: Resurgence,Maika Monroe,32.0
+100,Paris pieds nus,Fiona Gordon,
+101,Paris pieds nus,Dominique Abel,
+102,Paris pieds nus,Emmanuelle Riva,
+103,Paris pieds nus,Pierre Richard,
+104,Bahubali: The Beginning,Prabhas,
+105,Bahubali: The Beginning,Rana Daggubati,
+106,Bahubali: The Beginning,Anushka Shetty,
+107,Bahubali: The Beginning,Tamannaah Bhatia,
+108,Dead Awake,Jocelin Donahue,
+109,Dead Awake,Jesse Bradford,
+110,Dead Awake,Jesse Borrego,
+111,Dead Awake,Lori Petty,
+112,Bad Moms,Mila Kunis,60.0
+113,Bad Moms,Kathryn Hahn,60.0
+114,Bad Moms,Kristen Bell,60.0
+115,Bad Moms,Christina Applegate,60.0
+116,Assassin's Creed,Michael Fassbender,36.0
+117,Assassin's Creed,Marion Cotillard,36.0
+118,Assassin's Creed,Jeremy Irons,36.0
+119,Assassin's Creed,Brendan Gleeson,36.0
+120,Why Him?,Zoey Deutch,39.0
+121,Why Him?,James Franco,39.0
+122,Why Him?,Tangie Ambrose,39.0
+123,Why Him?,Cedric the Entertainer,39.0
+124,Nocturnal Animals,Amy Adams,67.0
+125,Nocturnal Animals,Jake Gyllenhaal,67.0
+126,Nocturnal Animals,Michael Shannon,67.0
+127,Nocturnal Animals,Aaron Taylor-Johnson,67.0
+128,X-Men: Apocalypse,James McAvoy,52.0
+129,X-Men: Apocalypse,Michael Fassbender,52.0
+130,X-Men: Apocalypse,Jennifer Lawrence,52.0
+131,X-Men: Apocalypse,Nicholas Hoult,52.0
+132,Deadpool,Ryan Reynolds,65.0
+133,Deadpool,Morena Baccarin,65.0
+134,Deadpool,T.J. Miller,65.0
+135,Deadpool,Ed Skrein,65.0
+136,Resident Evil: The Final Chapter,Milla Jovovich,49.0
+137,Resident Evil: The Final Chapter,Iain Glen,49.0
+138,Resident Evil: The Final Chapter,Ali Larter,49.0
+139,Resident Evil: The Final Chapter,Shawn Roberts,49.0
+140,Captain America: Civil War,Chris Evans,75.0
+141,Captain America: Civil War,Robert Downey Jr.,75.0
+142,Captain America: Civil War,Scarlett Johansson,75.0
+143,Captain America: Civil War,Sebastian Stan,75.0
+144,Interstellar,Matthew McConaughey,74.0
+145,Interstellar,Anne Hathaway,74.0
+146,Interstellar,Jessica Chastain,74.0
+147,Interstellar,Mackenzie Foy,74.0
+148,Doctor Strange,Benedict Cumberbatch,72.0
+149,Doctor Strange,Chiwetel Ejiofor,72.0
+150,Doctor Strange,Rachel McAdams,72.0
+151,Doctor Strange,Benedict Wong,72.0
+152,The Magnificent Seven,Denzel Washington,54.0
+153,The Magnificent Seven,Chris Pratt,54.0
+154,The Magnificent Seven,Ethan Hawke,54.0
+155,The Magnificent Seven,Vincent D'Onofrio,54.0
+156,5- 25- 77,John Francis Daley,
+157,5- 25- 77,Austin Pendleton,
+158,5- 25- 77,Colleen Camp,
+159,5- 25- 77,Neil Flynn,
+160,Sausage Party,Seth Rogen,66.0
+161,Sausage Party,Kristen Wiig,66.0
+162,Sausage Party,Jonah Hill,66.0
+163,Sausage Party,Alistair Abell,66.0
+164,Moonlight,Mahershala Ali,99.0
+165,Moonlight,Shariff Earp,99.0
+166,Moonlight,Duan Sanderson,99.0
+167,Moonlight,Alex R. Hibbert,99.0
+168,Don't Fuck in the Woods,Brittany Blanton,
+169,Don't Fuck in the Woods,Ayse Howard,
+170,Don't Fuck in the Woods,Roman Jossart,
+171,Don't Fuck in the Woods,Nadia White,
+172,The Founder,Michael Keaton,66.0
+173,The Founder,Nick Offerman,66.0
+174,The Founder,John Carroll Lynch,66.0
+175,The Founder,Linda Cardellini,66.0
+176,Lowriders,Gabriel Chavarria,57.0
+177,Lowriders,Demián Bichir,57.0
+178,Lowriders,Theo Rossi,57.0
+179,Lowriders,Tony Revolori,57.0
+180,Pirates of the Caribbean: On Stranger Tides,Johnny Depp,45.0
+181,Pirates of the Caribbean: On Stranger Tides,Penélope Cruz,45.0
+182,Pirates of the Caribbean: On Stranger Tides,Ian McShane,45.0
+183,Pirates of the Caribbean: On Stranger Tides,Geoffrey Rush,45.0
+184,Miss Sloane,Jessica Chastain,64.0
+185,Miss Sloane,Mark Strong,64.0
+186,Miss Sloane,Gugu Mbatha-Raw,64.0
+187,Miss Sloane,Michael Stuhlbarg,64.0
+188,Fallen,Hermione Corfield,
+189,Fallen,Addison Timlin,
+190,Fallen,Joely Richardson,
+191,Fallen,Jeremy Irvine,
+192,Star Trek Beyond,Chris Pine,68.0
+193,Star Trek Beyond,Zachary Quinto,68.0
+194,Star Trek Beyond,Karl Urban,68.0
+195,Star Trek Beyond,Zoe Saldana,68.0
+196,The Last Face,Charlize Theron,16.0
+197,The Last Face,Javier Bardem,16.0
+198,The Last Face,Adèle Exarchopoulos,16.0
+199,The Last Face,Jared Harris,16.0
+200,Star Wars: Episode VII - The Force Awakens,Daisy Ridley,81.0
+201,Star Wars: Episode VII - The Force Awakens,John Boyega,81.0
+202,Star Wars: Episode VII - The Force Awakens,Oscar Isaac,81.0
+203,Star Wars: Episode VII - The Force Awakens,Domhnall Gleeson,81.0
+204,Underworld: Blood Wars,Kate Beckinsale,23.0
+205,Underworld: Blood Wars,Theo James,23.0
+206,Underworld: Blood Wars,Tobias Menzies,23.0
+207,Underworld: Blood Wars,Lara Pulver,23.0
+208,Mother's Day,Jennifer Aniston,18.0
+209,Mother's Day,Kate Hudson,18.0
+210,Mother's Day,Julia Roberts,18.0
+211,Mother's Day,Jason Sudeikis,18.0
+212,John Wick,Keanu Reeves,68.0
+213,John Wick,Michael Nyqvist,68.0
+214,John Wick,Alfie Allen,68.0
+215,John Wick,Willem Dafoe,68.0
+216,The Dark Knight,Christian Bale,82.0
+217,The Dark Knight,Heath Ledger,82.0
+218,The Dark Knight,Aaron Eckhart,82.0
+219,The Dark Knight,Michael Caine,82.0
+220,Silence,Andrew Garfield,79.0
+221,Silence,Adam Driver,79.0
+222,Silence,Liam Neeson,79.0
+223,Silence,Tadanobu Asano,79.0
+224,Don't Breathe,Stephen Lang,71.0
+225,Don't Breathe,Jane Levy,71.0
+226,Don't Breathe,Dylan Minnette,71.0
+227,Don't Breathe,Daniel Zovatto,71.0
+228,Me Before You,Emilia Clarke,51.0
+229,Me Before You,Sam Claflin,51.0
+230,Me Before You,Janet McTeer,51.0
+231,Me Before You,Charles Dance,51.0
+232,Their Finest,Gemma Arterton,76.0
+233,Their Finest,Sam Claflin,76.0
+234,Their Finest,Bill Nighy,76.0
+235,Their Finest,Jack Huston,76.0
+236,Sully,Tom Hanks,74.0
+237,Sully,Aaron Eckhart,74.0
+238,Sully,Laura Linney,74.0
+239,Sully,Valerie Mahaffey,74.0
+240,Batman v Superman: Dawn of Justice,Ben Affleck,44.0
+241,Batman v Superman: Dawn of Justice,Henry Cavill,44.0
+242,Batman v Superman: Dawn of Justice,Amy Adams,44.0
+243,Batman v Superman: Dawn of Justice,Jesse Eisenberg,44.0
+244,The Autopsy of Jane Doe,Brian Cox,65.0
+245,The Autopsy of Jane Doe,Emile Hirsch,65.0
+246,The Autopsy of Jane Doe,Ophelia Lovibond,65.0
+247,The Autopsy of Jane Doe,Michael McElhatton,65.0
+248,The Girl on the Train,Emily Blunt,48.0
+249,The Girl on the Train,Haley Bennett,48.0
+250,The Girl on the Train,Rebecca Ferguson,48.0
+251,The Girl on the Train,Justin Theroux,48.0
+252,Fifty Shades of Grey,Dakota Johnson,46.0
+253,Fifty Shades of Grey,Jamie Dornan,46.0
+254,Fifty Shades of Grey,Jennifer Ehle,46.0
+255,Fifty Shades of Grey,Eloise Mumford,46.0
+256,The Prestige,Christian Bale,66.0
+257,The Prestige,Hugh Jackman,66.0
+258,The Prestige,Scarlett Johansson,66.0
+259,The Prestige,Michael Caine,66.0
+260,Kingsman: The Secret Service,Colin Firth,58.0
+261,Kingsman: The Secret Service,Taron Egerton,58.0
+262,Kingsman: The Secret Service,Samuel L. Jackson,58.0
+263,Kingsman: The Secret Service,Michael Caine,58.0
+264,Patriots Day,Mark Wahlberg,69.0
+265,Patriots Day,Michelle Monaghan,69.0
+266,Patriots Day,J.K. Simmons,69.0
+267,Patriots Day,John Goodman,69.0
+268,Mad Max: Fury Road,Tom Hardy,90.0
+269,Mad Max: Fury Road,Charlize Theron,90.0
+270,Mad Max: Fury Road,Nicholas Hoult,90.0
+271,Mad Max: Fury Road,Zoë Kravitz,90.0
+272,Wakefield,Bryan Cranston,61.0
+273,Wakefield,Jennifer Garner,61.0
+274,Wakefield,Beverly D'Angelo,61.0
+275,Wakefield,Jason O'Mara,61.0
+276,Deepwater Horizon,Mark Wahlberg,68.0
+277,Deepwater Horizon,Kurt Russell,68.0
+278,Deepwater Horizon,Douglas M. Griffin,68.0
+279,Deepwater Horizon,James DuMont,68.0
+280,The Promise,Oscar Isaac,49.0
+281,The Promise,Charlotte Le Bon,49.0
+282,The Promise,Christian Bale,49.0
+283,The Promise,Daniel Giménez Cacho,49.0
+284,Allied,Brad Pitt,60.0
+285,Allied,Marion Cotillard,60.0
+286,Allied,Jared Harris,60.0
+287,Allied,Vincent Ebrahim,60.0
+288,A Monster Calls,Lewis MacDougall,76.0
+289,A Monster Calls,Sigourney Weaver,76.0
+290,A Monster Calls,Felicity Jones,76.0
+291,A Monster Calls,Toby Kebbell,76.0
+292,Collateral Beauty,Will Smith,23.0
+293,Collateral Beauty,Edward Norton,23.0
+294,Collateral Beauty,Kate Winslet,23.0
+295,Collateral Beauty,Michael Peña,23.0
+296,Zootopia,Ginnifer Goodwin,78.0
+297,Zootopia,Jason Bateman,78.0
+298,Zootopia,Idris Elba,78.0
+299,Zootopia,Jenny Slate,78.0
+300,Pirates of the Caribbean: At World's End,Johnny Depp,50.0
+301,Pirates of the Caribbean: At World's End,Orlando Bloom,50.0
+302,Pirates of the Caribbean: At World's End,Keira Knightley,50.0
+303,Pirates of the Caribbean: At World's End,Geoffrey Rush,50.0
+304,The Avengers,Robert Downey Jr.,69.0
+305,The Avengers,Chris Evans,69.0
+306,The Avengers,Scarlett Johansson,69.0
+307,The Avengers,Jeremy Renner,69.0
+308,Inglourious Basterds,Brad Pitt,69.0
+309,Inglourious Basterds,Diane Kruger,69.0
+310,Inglourious Basterds,Eli Roth,69.0
+311,Inglourious Basterds,Mélanie Laurent,69.0
+312,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp,53.0
+313,Pirates of the Caribbean: Dead Man's Chest,Orlando Bloom,53.0
+314,Pirates of the Caribbean: Dead Man's Chest,Keira Knightley,53.0
+315,Pirates of the Caribbean: Dead Man's Chest,Jack Davenport,53.0
+316,Ghostbusters,Melissa McCarthy,60.0
+317,Ghostbusters,Kristen Wiig,60.0
+318,Ghostbusters,Kate McKinnon,60.0
+319,Ghostbusters,Leslie Jones,60.0
+320,Inception,Leonardo DiCaprio,74.0
+321,Inception,Joseph Gordon-Levitt,74.0
+322,Inception,Ellen Page,74.0
+323,Inception,Ken Watanabe,74.0
+324,Captain Fantastic,Viggo Mortensen,72.0
+325,Captain Fantastic,George MacKay,72.0
+326,Captain Fantastic,Samantha Isler,72.0
+327,Captain Fantastic,Annalise Basso,72.0
+328,The Wolf of Wall Street,Leonardo DiCaprio,75.0
+329,The Wolf of Wall Street,Jonah Hill,75.0
+330,The Wolf of Wall Street,Margot Robbie,75.0
+331,The Wolf of Wall Street,Matthew McConaughey,75.0
+332,Gone Girl,Ben Affleck,79.0
+333,Gone Girl,Rosamund Pike,79.0
+334,Gone Girl,Neil Patrick Harris,79.0
+335,Gone Girl,Tyler Perry,79.0
+336,Furious Seven,Vin Diesel,67.0
+337,Furious Seven,Paul Walker,67.0
+338,Furious Seven,Dwayne Johnson,67.0
+339,Furious Seven,Jason Statham,67.0
+340,Jurassic World,Chris Pratt,59.0
+341,Jurassic World,Bryce Dallas Howard,59.0
+342,Jurassic World,Ty Simpkins,59.0
+343,Jurassic World,Judy Greer,59.0
+344,Live by Night,Ben Affleck,49.0
+345,Live by Night,Elle Fanning,49.0
+346,Live by Night,Brendan Gleeson,49.0
+347,Live by Night,Chris Messina,49.0
+348,Avatar,Sam Worthington,83.0
+349,Avatar,Zoe Saldana,83.0
+350,Avatar,Sigourney Weaver,83.0
+351,Avatar,Michelle Rodriguez,83.0
+352,The Hateful Eight,Samuel L. Jackson,68.0
+353,The Hateful Eight,Kurt Russell,68.0
+354,The Hateful Eight,Jennifer Jason Leigh,68.0
+355,The Hateful Eight,Walton Goggins,68.0
+356,The Accountant,Ben Affleck,51.0
+357,The Accountant,Anna Kendrick,51.0
+358,The Accountant,J.K. Simmons,51.0
+359,The Accountant,Jon Bernthal,51.0
+360,Prisoners,Hugh Jackman,74.0
+361,Prisoners,Jake Gyllenhaal,74.0
+362,Prisoners,Viola Davis,74.0
+363,Prisoners,Melissa Leo,74.0
+364,Warcraft,Travis Fimmel,32.0
+365,Warcraft,Paula Patton,32.0
+366,Warcraft,Ben Foster,32.0
+367,Warcraft,Dominic Cooper,32.0
+368,The Help,Emma Stone,62.0
+369,The Help,Viola Davis,62.0
+370,The Help,Octavia Spencer,62.0
+371,The Help,Bryce Dallas Howard,62.0
+372,War Dogs,Jonah Hill,57.0
+373,War Dogs,Miles Teller,57.0
+374,War Dogs,Steve Lantz,57.0
+375,War Dogs,Gregg Weiner,57.0
+376,Avengers: Age of Ultron,Robert Downey Jr.,66.0
+377,Avengers: Age of Ultron,Chris Evans,66.0
+378,Avengers: Age of Ultron,Mark Ruffalo,66.0
+379,Avengers: Age of Ultron,Chris Hemsworth,66.0
+380,The Nice Guys,Russell Crowe,70.0
+381,The Nice Guys,Ryan Gosling,70.0
+382,The Nice Guys,Angourie Rice,70.0
+383,The Nice Guys,Matt Bomer,70.0
+384,Kimi no na wa,Ryûnosuke Kamiki,79.0
+385,Kimi no na wa,Mone Kamishiraishi,79.0
+386,Kimi no na wa,Ryô Narita,79.0
+387,Kimi no na wa,Aoi Yuki,79.0
+388,The Void,Aaron Poole,62.0
+389,The Void,Kenneth Welsh,62.0
+390,The Void,Daniel Fathers,62.0
+391,The Void,Kathleen Munroe,62.0
+392,Personal Shopper,Kristen Stewart,77.0
+393,Personal Shopper,Lars Eidinger,77.0
+394,Personal Shopper,Sigrid Bouaziz,77.0
+395,Personal Shopper,Anders Danielsen Lie,77.0
+396,The Departed,Leonardo DiCaprio,85.0
+397,The Departed,Matt Damon,85.0
+398,The Departed,Jack Nicholson,85.0
+399,The Departed,Mark Wahlberg,85.0
+400,Legend,Tom Hardy,55.0
+401,Legend,Emily Browning,55.0
+402,Legend,Taron Egerton,55.0
+403,Legend,Paul Anderson,55.0
+404,Thor,Chris Hemsworth,57.0
+405,Thor,Anthony Hopkins,57.0
+406,Thor,Natalie Portman,57.0
+407,Thor,Tom Hiddleston,57.0
+408,The Martian,Matt Damon,80.0
+409,The Martian,Jessica Chastain,80.0
+410,The Martian,Kristen Wiig,80.0
+411,The Martian,Kate Mara,80.0
+412,Contratiempo,Mario Casas,
+413,Contratiempo,Ana Wagener,
+414,Contratiempo,José Coronado,
+415,Contratiempo,Bárbara Lennie,
+416,The Man from U.N.C.L.E.,Henry Cavill,56.0
+417,The Man from U.N.C.L.E.,Armie Hammer,56.0
+418,The Man from U.N.C.L.E.,Alicia Vikander,56.0
+419,The Man from U.N.C.L.E.,Elizabeth Debicki,56.0
+420,Hell or High Water,Chris Pine,88.0
+421,Hell or High Water,Ben Foster,88.0
+422,Hell or High Water,Jeff Bridges,88.0
+423,Hell or High Water,Gil Birmingham,88.0
+424,The Comedian,Robert De Niro,40.0
+425,The Comedian,Leslie Mann,40.0
+426,The Comedian,Danny DeVito,40.0
+427,The Comedian,Edie Falco,40.0
+428,The Legend of Tarzan,Alexander Skarsgård,44.0
+429,The Legend of Tarzan,Rory J. Saper,44.0
+430,The Legend of Tarzan,Christian Stevens,44.0
+431,The Legend of Tarzan,Christoph Waltz,44.0
+432,All We Had,Eve Lindley,48.0
+433,All We Had,Richard Kind,48.0
+434,All We Had,Mark Consuelos,48.0
+435,All We Had,Katherine Reis,48.0
+436,Ex Machina,Alicia Vikander,78.0
+437,Ex Machina,Domhnall Gleeson,78.0
+438,Ex Machina,Oscar Isaac,78.0
+439,Ex Machina,Sonoya Mizuno,78.0
+440,The Belko Experiment,John Gallagher Jr.,44.0
+441,The Belko Experiment,Tony Goldwyn,44.0
+442,The Belko Experiment,Adria Arjona,44.0
+443,The Belko Experiment,John C. McGinley,44.0
+444,12 Years a Slave,Chiwetel Ejiofor,96.0
+445,12 Years a Slave,Michael Kenneth Williams,96.0
+446,12 Years a Slave,Michael Fassbender,96.0
+447,12 Years a Slave,Brad Pitt,96.0
+448,The Bad Batch,Keanu Reeves,65.0
+449,The Bad Batch,Jason Momoa,65.0
+450,The Bad Batch,Jim Carrey,65.0
+451,The Bad Batch,Diego Luna,65.0
+452,300,Gerard Butler,52.0
+453,300,Lena Headey,52.0
+454,300,David Wenham,52.0
+455,300,Dominic West,52.0
+456,Harry Potter and the Deathly Hallows: Part 2,Daniel Radcliffe,87.0
+457,Harry Potter and the Deathly Hallows: Part 2,Emma Watson,87.0
+458,Harry Potter and the Deathly Hallows: Part 2,Rupert Grint,87.0
+459,Harry Potter and the Deathly Hallows: Part 2,Michael Gambon,87.0
+460,Office Christmas Party,Jason Bateman,42.0
+461,Office Christmas Party,Olivia Munn,42.0
+462,Office Christmas Party,T.J. Miller,42.0
+463,Office Christmas Party,Jennifer Aniston,42.0
+464,The Neon Demon,Elle Fanning,51.0
+465,The Neon Demon,Christina Hendricks,51.0
+466,The Neon Demon,Keanu Reeves,51.0
+467,The Neon Demon,Karl Glusman,51.0
+468,Dangal,Aamir Khan,
+469,Dangal,Sakshi Tanwar,
+470,Dangal,Fatima Sana Shaikh,
+471,Dangal,Sanya Malhotra,
+472,10 Cloverfield Lane,John Goodman,76.0
+473,10 Cloverfield Lane,Mary Elizabeth Winstead,76.0
+474,10 Cloverfield Lane,John Gallagher Jr.,76.0
+475,10 Cloverfield Lane,Douglas M. Griffin,76.0
+476,Finding Dory,Ellen DeGeneres,77.0
+477,Finding Dory,Albert Brooks,77.0
+478,Finding Dory,Ed O'Neill,77.0
+479,Finding Dory,Kaitlin Olson,77.0
+480,Miss Peregrine's Home for Peculiar Children,Eva Green,57.0
+481,Miss Peregrine's Home for Peculiar Children,Asa Butterfield,57.0
+482,Miss Peregrine's Home for Peculiar Children,Samuel L. Jackson,57.0
+483,Miss Peregrine's Home for Peculiar Children,Judi Dench,57.0
+484,Divergent,Shailene Woodley,48.0
+485,Divergent,Theo James,48.0
+486,Divergent,Kate Winslet,48.0
+487,Divergent,Jai Courtney,48.0
+488,Mike and Dave Need Wedding Dates,Zac Efron,51.0
+489,Mike and Dave Need Wedding Dates,Adam Devine,51.0
+490,Mike and Dave Need Wedding Dates,Anna Kendrick,51.0
+491,Mike and Dave Need Wedding Dates,Aubrey Plaza,51.0
+492,Boyka: Undisputed IV,Scott Adkins,
+493,Boyka: Undisputed IV,Teodora Duhovnikova,
+494,Boyka: Undisputed IV,Alon Aboutboul,
+495,Boyka: Undisputed IV,Julian Vergov,
+496,The Dark Knight Rises,Christian Bale,78.0
+497,The Dark Knight Rises,Tom Hardy,78.0
+498,The Dark Knight Rises,Anne Hathaway,78.0
+499,The Dark Knight Rises,Gary Oldman,78.0
+500,The Jungle Book,Neel Sethi,77.0
+501,The Jungle Book,Bill Murray,77.0
+502,The Jungle Book,Ben Kingsley,77.0
+503,The Jungle Book,Idris Elba,77.0
+504,Transformers: Age of Extinction,Mark Wahlberg,32.0
+505,Transformers: Age of Extinction,Nicola Peltz,32.0
+506,Transformers: Age of Extinction,Jack Reynor,32.0
+507,Transformers: Age of Extinction,Stanley Tucci,32.0
+508,Nerve,Emma Roberts,58.0
+509,Nerve,Dave Franco,58.0
+510,Nerve,Emily Meade,58.0
+511,Nerve,Miles Heizer,58.0
+512,Mamma Mia!,Meryl Streep,51.0
+513,Mamma Mia!,Pierce Brosnan,51.0
+514,Mamma Mia!,Amanda Seyfried,51.0
+515,Mamma Mia!,Stellan Skarsgård,51.0
+516,The Revenant,Leonardo DiCaprio,76.0
+517,The Revenant,Tom Hardy,76.0
+518,The Revenant,Will Poulter,76.0
+519,The Revenant,Domhnall Gleeson,76.0
+520,Fences,Denzel Washington,79.0
+521,Fences,Viola Davis,79.0
+522,Fences,Stephen Henderson,79.0
+523,Fences,Jovan Adepo,79.0
+524,Into the Woods,Anna Kendrick,69.0
+525,Into the Woods,Meryl Streep,69.0
+526,Into the Woods,Chris Pine,69.0
+527,Into the Woods,Emily Blunt,69.0
+528,The Shallows,Blake Lively,59.0
+529,The Shallows,Óscar Jaenada,59.0
+530,The Shallows,Angelo Josue Lozano Corzo,59.0
+531,The Shallows,Brett Cullen,59.0
+532,Whiplash,Miles Teller,88.0
+533,Whiplash,J.K. Simmons,88.0
+534,Whiplash,Melissa Benoist,88.0
+535,Whiplash,Paul Reiser,88.0
+536,Furious 6,Vin Diesel,61.0
+537,Furious 6,Paul Walker,61.0
+538,Furious 6,Dwayne Johnson,61.0
+539,Furious 6,Michelle Rodriguez,61.0
+540,The Place Beyond the Pines,Ryan Gosling,68.0
+541,The Place Beyond the Pines,Bradley Cooper,68.0
+542,The Place Beyond the Pines,Eva Mendes,68.0
+543,The Place Beyond the Pines,Craig Van Hook,68.0
+544,No Country for Old Men,Tommy Lee Jones,91.0
+545,No Country for Old Men,Javier Bardem,91.0
+546,No Country for Old Men,Josh Brolin,91.0
+547,No Country for Old Men,Woody Harrelson,91.0
+548,The Great Gatsby,Leonardo DiCaprio,55.0
+549,The Great Gatsby,Carey Mulligan,55.0
+550,The Great Gatsby,Joel Edgerton,55.0
+551,The Great Gatsby,Tobey Maguire,55.0
+552,Shutter Island,Leonardo DiCaprio,63.0
+553,Shutter Island,Emily Mortimer,63.0
+554,Shutter Island,Mark Ruffalo,63.0
+555,Shutter Island,Ben Kingsley,63.0
+556,Brimstone,Dakota Fanning,44.0
+557,Brimstone,Guy Pearce,44.0
+558,Brimstone,Kit Harington,44.0
+559,Brimstone,Carice van Houten,44.0
+560,Star Trek,Chris Pine,82.0
+561,Star Trek,Zachary Quinto,82.0
+562,Star Trek,Simon Pegg,82.0
+563,Star Trek,Leonard Nimoy,82.0
+564,Diary of a Wimpy Kid,Zachary Gordon,56.0
+565,Diary of a Wimpy Kid,Robert Capron,56.0
+566,Diary of a Wimpy Kid,Rachael Harris,56.0
+567,Diary of a Wimpy Kid,Steve Zahn,56.0
+568,The Big Short,Christian Bale,81.0
+569,The Big Short,Steve Carell,81.0
+570,The Big Short,Ryan Gosling,81.0
+571,The Big Short,Brad Pitt,81.0
+572,Room,Brie Larson,86.0
+573,Room,Jacob Tremblay,86.0
+574,Room,Sean Bridgers,86.0
+575,Room,Wendy Crewson,86.0
+576,Django Unchained,Jamie Foxx,81.0
+577,Django Unchained,Christoph Waltz,81.0
+578,Django Unchained,Leonardo DiCaprio,81.0
+579,Django Unchained,Kerry Washington,81.0
+580,Ah-ga-ssi,Min-hee Kim,84.0
+581,Ah-ga-ssi,Jung-woo Ha,84.0
+582,Ah-ga-ssi,Jin-woong Jo,84.0
+583,Ah-ga-ssi,So-ri Moon,84.0
+584,The Edge of Seventeen,Hailee Steinfeld,77.0
+585,The Edge of Seventeen,Haley Lu Richardson,77.0
+586,The Edge of Seventeen,Blake Jenner,77.0
+587,The Edge of Seventeen,Kyra Sedgwick,77.0
+588,Watchmen,Jackie Earle Haley,56.0
+589,Watchmen,Patrick Wilson,56.0
+590,Watchmen,Carla Gugino,56.0
+591,Watchmen,Malin Akerman,56.0
+592,Superbad,Michael Cera,76.0
+593,Superbad,Jonah Hill,76.0
+594,Superbad,Christopher Mintz-Plasse,76.0
+595,Superbad,Bill Hader,76.0
+596,Inferno,Tom Hanks,42.0
+597,Inferno,Felicity Jones,42.0
+598,Inferno,Irrfan Khan,42.0
+599,Inferno,Ben Foster,42.0
+600,The BFG,Mark Rylance,66.0
+601,The BFG,Ruby Barnhill,66.0
+602,The BFG,Penelope Wilton,66.0
+603,The BFG,Jemaine Clement,66.0
+604,The Hunger Games,Jennifer Lawrence,68.0
+605,The Hunger Games,Josh Hutcherson,68.0
+606,The Hunger Games,Liam Hemsworth,68.0
+607,The Hunger Games,Stanley Tucci,68.0
+608,White Girl,Morgan Saylor,65.0
+609,White Girl,Brian Marc,65.0
+610,White Girl,Justin Bartha,65.0
+611,White Girl,Adrian Martinez,65.0
+612,Sicario,Emily Blunt,82.0
+613,Sicario,Josh Brolin,82.0
+614,Sicario,Benicio Del Toro,82.0
+615,Sicario,Jon Bernthal,82.0
+616,Twin Peaks: The Missing Pieces,Chris Isaak,
+617,Twin Peaks: The Missing Pieces,Kiefer Sutherland,
+618,Twin Peaks: The Missing Pieces,C.H. Evans,
+619,Twin Peaks: The Missing Pieces,Sandra Kinder,
+620,Aliens vs Predator - Requiem,Reiko Aylesworth,29.0
+621,Aliens vs Predator - Requiem,Steven Pasquale,29.0
+622,Aliens vs Predator - Requiem,Shareeka Epps,29.0
+623,Aliens vs Predator - Requiem,John Ortiz,29.0
+624,Pacific Rim,Idris Elba,64.0
+625,Pacific Rim,Charlie Hunnam,64.0
+626,Pacific Rim,Rinko Kikuchi,64.0
+627,Pacific Rim,Charlie Day,64.0
+628,"Crazy, Stupid, Love.",Steve Carell,68.0
+629,"Crazy, Stupid, Love.",Ryan Gosling,68.0
+630,"Crazy, Stupid, Love.",Julianne Moore,68.0
+631,"Crazy, Stupid, Love.",Emma Stone,68.0
+632,Scott Pilgrim vs. the World,Michael Cera,69.0
+633,Scott Pilgrim vs. the World,Mary Elizabeth Winstead,69.0
+634,Scott Pilgrim vs. the World,Kieran Culkin,69.0
+635,Scott Pilgrim vs. the World,Alison Pill,69.0
+636,Hot Fuzz,Simon Pegg,81.0
+637,Hot Fuzz,Nick Frost,81.0
+638,Hot Fuzz,Martin Freeman,81.0
+639,Hot Fuzz,Bill Nighy,81.0
+640,Mine,Armie Hammer,40.0
+641,Mine,Annabelle Wallis,40.0
+642,Mine,Tom Cullen,40.0
+643,Mine,Clint Dyer,40.0
+644,Free Fire,Sharlto Copley,63.0
+645,Free Fire,Brie Larson,63.0
+646,Free Fire,Armie Hammer,63.0
+647,Free Fire,Cillian Murphy,63.0
+648,X-Men: Days of Future Past,Patrick Stewart,74.0
+649,X-Men: Days of Future Past,Ian McKellen,74.0
+650,X-Men: Days of Future Past,Hugh Jackman,74.0
+651,X-Men: Days of Future Past,James McAvoy,74.0
+652,Jack Reacher: Never Go Back,Tom Cruise,47.0
+653,Jack Reacher: Never Go Back,Cobie Smulders,47.0
+654,Jack Reacher: Never Go Back,Aldis Hodge,47.0
+655,Jack Reacher: Never Go Back,Robert Knepper,47.0
+656,Casino Royale,Daniel Craig,80.0
+657,Casino Royale,Eva Green,80.0
+658,Casino Royale,Judi Dench,80.0
+659,Casino Royale,Jeffrey Wright,80.0
+660,Twilight,Kristen Stewart,56.0
+661,Twilight,Robert Pattinson,56.0
+662,Twilight,Billy Burke,56.0
+663,Twilight,Sarah Clarke,56.0
+664,Now You See Me 2,Jesse Eisenberg,46.0
+665,Now You See Me 2,Mark Ruffalo,46.0
+666,Now You See Me 2,Woody Harrelson,46.0
+667,Now You See Me 2,Dave Franco,46.0
+668,Woman in Gold,Helen Mirren,51.0
+669,Woman in Gold,Ryan Reynolds,51.0
+670,Woman in Gold,Daniel Brühl,51.0
+671,Woman in Gold,Katie Holmes,51.0
+672,13 Hours,John Krasinski,48.0
+673,13 Hours,Pablo Schreiber,48.0
+674,13 Hours,James Badge Dale,48.0
+675,13 Hours,David Denman,48.0
+676,Spectre,Daniel Craig,60.0
+677,Spectre,Christoph Waltz,60.0
+678,Spectre,Léa Seydoux,60.0
+679,Spectre,Ralph Fiennes,60.0
+680,Nightcrawler,Jake Gyllenhaal,76.0
+681,Nightcrawler,Rene Russo,76.0
+682,Nightcrawler,Bill Paxton,76.0
+683,Nightcrawler,Riz Ahmed,76.0
+684,Kubo and the Two Strings,Charlize Theron,84.0
+685,Kubo and the Two Strings,Art Parkinson,84.0
+686,Kubo and the Two Strings,Matthew McConaughey,84.0
+687,Kubo and the Two Strings,Ralph Fiennes,84.0
+688,Beyond the Gates,Graham Skipper,59.0
+689,Beyond the Gates,Chase Williamson,59.0
+690,Beyond the Gates,Brea Grant,59.0
+691,Beyond the Gates,Barbara Crampton,59.0
+692,Her,Joaquin Phoenix,90.0
+693,Her,Amy Adams,90.0
+694,Her,Scarlett Johansson,90.0
+695,Her,Rooney Mara,90.0
+696,Frozen,Kristen Bell,74.0
+697,Frozen,Idina Menzel,74.0
+698,Frozen,Jonathan Groff,74.0
+699,Frozen,Josh Gad,74.0
+700,Tomorrowland,George Clooney,60.0
+701,Tomorrowland,Britt Robertson,60.0
+702,Tomorrowland,Hugh Laurie,60.0
+703,Tomorrowland,Raffey Cassidy,60.0
+704,Dawn of the Planet of the Apes,Gary Oldman,79.0
+705,Dawn of the Planet of the Apes,Keri Russell,79.0
+706,Dawn of the Planet of the Apes,Andy Serkis,79.0
+707,Dawn of the Planet of the Apes,Kodi Smit-McPhee,79.0
+708,Tropic Thunder,Ben Stiller,71.0
+709,Tropic Thunder,Jack Black,71.0
+710,Tropic Thunder,Robert Downey Jr.,71.0
+711,Tropic Thunder,Jeff Kahn,71.0
+712,The Conjuring 2,Vera Farmiga,65.0
+713,The Conjuring 2,Patrick Wilson,65.0
+714,The Conjuring 2,Madison Wolfe,65.0
+715,The Conjuring 2,Frances O'Connor,65.0
+716,Ant-Man,Paul Rudd,64.0
+717,Ant-Man,Michael Douglas,64.0
+718,Ant-Man,Corey Stoll,64.0
+719,Ant-Man,Evangeline Lilly,64.0
+720,Bridget Jones's Baby,Renée Zellweger,59.0
+721,Bridget Jones's Baby,Gemma Jones,59.0
+722,Bridget Jones's Baby,Jim Broadbent,59.0
+723,Bridget Jones's Baby,Sally Phillips,59.0
+724,The VVitch: A New-England Folktale,Anya Taylor-Joy,83.0
+725,The VVitch: A New-England Folktale,Ralph Ineson,83.0
+726,The VVitch: A New-England Folktale,Kate Dickie,83.0
+727,The VVitch: A New-England Folktale,Julian Richings,83.0
+728,Cinderella,Lily James,67.0
+729,Cinderella,Cate Blanchett,67.0
+730,Cinderella,Richard Madden,67.0
+731,Cinderella,Helena Bonham Carter,67.0
+732,Realive,Tom Hughes,
+733,Realive,Charlotte Le Bon,
+734,Realive,Oona Chaplin,
+735,Realive,Barry Ward,
+736,Forushande,Taraneh Alidoosti,85.0
+737,Forushande,Shahab Hosseini,85.0
+738,Forushande,Babak Karimi,85.0
+739,Forushande,Farid Sajjadi Hosseini,85.0
+740,Love,Aomi Muyock,51.0
+741,Love,Karl Glusman,51.0
+742,Love,Klara Kristin,51.0
+743,Love,Juan Saavedra,51.0
+744,Billy Lynn's Long Halftime Walk,Joe Alwyn,53.0
+745,Billy Lynn's Long Halftime Walk,Garrett Hedlund,53.0
+746,Billy Lynn's Long Halftime Walk,Arturo Castro,53.0
+747,Billy Lynn's Long Halftime Walk,Mason Lee,53.0
+748,Crimson Peak,Mia Wasikowska,66.0
+749,Crimson Peak,Jessica Chastain,66.0
+750,Crimson Peak,Tom Hiddleston,66.0
+751,Crimson Peak,Charlie Hunnam,66.0
+752,Drive,Ryan Gosling,78.0
+753,Drive,Carey Mulligan,78.0
+754,Drive,Bryan Cranston,78.0
+755,Drive,Albert Brooks,78.0
+756,Trainwreck,Amy Schumer,75.0
+757,Trainwreck,Bill Hader,75.0
+758,Trainwreck,Brie Larson,75.0
+759,Trainwreck,Colin Quinn,75.0
+760,The Light Between Oceans,Michael Fassbender,60.0
+761,The Light Between Oceans,Alicia Vikander,60.0
+762,The Light Between Oceans,Rachel Weisz,60.0
+763,The Light Between Oceans,Florence Clery,60.0
+764,Below Her Mouth,Erika Linder,42.0
+765,Below Her Mouth,Natalie Krill,42.0
+766,Below Her Mouth,Sebastian Pigott,42.0
+767,Below Her Mouth,Mayko Nguyen,42.0
+768,Spotlight,Mark Ruffalo,93.0
+769,Spotlight,Michael Keaton,93.0
+770,Spotlight,Rachel McAdams,93.0
+771,Spotlight,Liev Schreiber,93.0
+772,Morgan,Kate Mara,48.0
+773,Morgan,Anya Taylor-Joy,48.0
+774,Morgan,Rose Leslie,48.0
+775,Morgan,Michael Yare,48.0
+776,Warrior,Tom Hardy,71.0
+777,Warrior,Nick Nolte,71.0
+778,Warrior,Joel Edgerton,71.0
+779,Warrior,Jennifer Morrison,71.0
+780,Captain America: The First Avenger,Chris Evans,66.0
+781,Captain America: The First Avenger,Hugo Weaving,66.0
+782,Captain America: The First Avenger,Samuel L. Jackson,66.0
+783,Captain America: The First Avenger,Hayley Atwell,66.0
+784,Hacker,Callan McAuliffe,
+785,Hacker,Lorraine Nicholson,
+786,Hacker,Daniel Eric Gold,
+787,Hacker,Clifton Collins Jr.,
+788,Into the Wild,Emile Hirsch,73.0
+789,Into the Wild,Vince Vaughn,73.0
+790,Into the Wild,Catherine Keener,73.0
+791,Into the Wild,Marcia Gay Harden,73.0
+792,The Imitation Game,Benedict Cumberbatch,73.0
+793,The Imitation Game,Keira Knightley,73.0
+794,The Imitation Game,Matthew Goode,73.0
+795,The Imitation Game,Allen Leech,73.0
+796,Central Intelligence,Dwayne Johnson,52.0
+797,Central Intelligence,Kevin Hart,52.0
+798,Central Intelligence,Danielle Nicolet,52.0
+799,Central Intelligence,Amy Ryan,52.0
+800,Edge of Tomorrow,Tom Cruise,71.0
+801,Edge of Tomorrow,Emily Blunt,71.0
+802,Edge of Tomorrow,Bill Paxton,71.0
+803,Edge of Tomorrow,Brendan Gleeson,71.0
+804,A Cure for Wellness,Dane DeHaan,47.0
+805,A Cure for Wellness,Jason Isaacs,47.0
+806,A Cure for Wellness,Mia Goth,47.0
+807,A Cure for Wellness,Ivo Nandi,47.0
+808,Snowden,Joseph Gordon-Levitt,58.0
+809,Snowden,Shailene Woodley,58.0
+810,Snowden,Melissa Leo,58.0
+811,Snowden,Zachary Quinto,58.0
+812,Iron Man,Robert Downey Jr.,79.0
+813,Iron Man,Gwyneth Paltrow,79.0
+814,Iron Man,Terrence Howard,79.0
+815,Iron Man,Jeff Bridges,79.0
+816,Allegiant,Shailene Woodley,33.0
+817,Allegiant,Theo James,33.0
+818,Allegiant,Jeff Daniels,33.0
+819,Allegiant,Naomi Watts,33.0
+820,X: First Class,James McAvoy,65.0
+821,X: First Class,Michael Fassbender,65.0
+822,X: First Class,Jennifer Lawrence,65.0
+823,X: First Class,Kevin Bacon,65.0
+824,Raw (II),Garance Marillier,81.0
+825,Raw (II),Ella Rumpf,81.0
+826,Raw (II),Rabah Nait Oufella,81.0
+827,Raw (II),Laurent Lucas,81.0
+828,Paterson,Adam Driver,90.0
+829,Paterson,Golshifteh Farahani,90.0
+830,Paterson,Nellie,90.0
+831,Paterson,Rizwan Manji,90.0
+832,Bridesmaids,Kristen Wiig,75.0
+833,Bridesmaids,Maya Rudolph,75.0
+834,Bridesmaids,Rose Byrne,75.0
+835,Bridesmaids,Terry Crews,75.0
+836,The Girl with All the Gifts,Gemma Arterton,67.0
+837,The Girl with All the Gifts,Glenn Close,67.0
+838,The Girl with All the Gifts,Dominique Tipper,67.0
+839,The Girl with All the Gifts,Paddy Considine,67.0
+840,San Andreas,Dwayne Johnson,43.0
+841,San Andreas,Carla Gugino,43.0
+842,San Andreas,Alexandra Daddario,43.0
+843,San Andreas,Colton Haynes,43.0
+844,Spring Breakers,Vanessa Hudgens,63.0
+845,Spring Breakers,Selena Gomez,63.0
+846,Spring Breakers,Ashley Benson,63.0
+847,Spring Breakers,Rachel Korine,63.0
+848,Transformers,Shia LaBeouf,61.0
+849,Transformers,Megan Fox,61.0
+850,Transformers,Josh Duhamel,61.0
+851,Transformers,Tyrese Gibson,61.0
+852,Old Boy,Josh Brolin,49.0
+853,Old Boy,Elizabeth Olsen,49.0
+854,Old Boy,Samuel L. Jackson,49.0
+855,Old Boy,Sharlto Copley,49.0
+856,Thor: The Dark World,Chris Hemsworth,54.0
+857,Thor: The Dark World,Natalie Portman,54.0
+858,Thor: The Dark World,Tom Hiddleston,54.0
+859,Thor: The Dark World,Stellan Skarsgård,54.0
+860,Gods of Egypt,Brenton Thwaites,25.0
+861,Gods of Egypt,Nikolaj Coster-Waldau,25.0
+862,Gods of Egypt,Gerard Butler,25.0
+863,Gods of Egypt,Chadwick Boseman,25.0
+864,Captain America: The Winter Soldier,Chris Evans,70.0
+865,Captain America: The Winter Soldier,Samuel L. Jackson,70.0
+866,Captain America: The Winter Soldier,Scarlett Johansson,70.0
+867,Captain America: The Winter Soldier,Robert Redford,70.0
+868,Monster Trucks,Lucas Till,41.0
+869,Monster Trucks,Jane Levy,41.0
+870,Monster Trucks,Thomas Lennon,41.0
+871,Monster Trucks,Barry Pepper,41.0
+872,A Dark Song,Mark Huberman,67.0
+873,A Dark Song,Susan Loughnane,67.0
+874,A Dark Song,Steve Oram,67.0
+875,A Dark Song,Catherine Walker,67.0
+876,Kick-Ass,Aaron Taylor-Johnson,66.0
+877,Kick-Ass,Nicolas Cage,66.0
+878,Kick-Ass,Chloë Grace Moretz,66.0
+879,Kick-Ass,Garrett M. Brown,66.0
+880,Hardcore Henry,Sharlto Copley,51.0
+881,Hardcore Henry,Tim Roth,51.0
+882,Hardcore Henry,Haley Bennett,51.0
+883,Hardcore Henry,Danila Kozlovsky,51.0
+884,Cars,Owen Wilson,73.0
+885,Cars,Bonnie Hunt,73.0
+886,Cars,Paul Newman,73.0
+887,Cars,Larry the Cable Guy,73.0
+888,It Follows,Maika Monroe,83.0
+889,It Follows,Keir Gilchrist,83.0
+890,It Follows,Olivia Luccardi,83.0
+891,It Follows,Lili Sepe,83.0
+892,The Girl with the Dragon Tattoo,Daniel Craig,71.0
+893,The Girl with the Dragon Tattoo,Rooney Mara,71.0
+894,The Girl with the Dragon Tattoo,Christopher Plummer,71.0
+895,The Girl with the Dragon Tattoo,Stellan Skarsgård,71.0
+896,We're the Millers,Jason Sudeikis,44.0
+897,We're the Millers,Jennifer Aniston,44.0
+898,We're the Millers,Emma Roberts,44.0
+899,We're the Millers,Ed Helms,44.0
+900,American Honey,Sasha Lane,79.0
+901,American Honey,Shia LaBeouf,79.0
+902,American Honey,Riley Keough,79.0
+903,American Honey,McCaul Lombardi,79.0
+904,The Lobster,Colin Farrell,82.0
+905,The Lobster,Rachel Weisz,82.0
+906,The Lobster,Jessica Barden,82.0
+907,The Lobster,Olivia Colman,82.0
+908,Predators,Adrien Brody,51.0
+909,Predators,Laurence Fishburne,51.0
+910,Predators,Topher Grace,51.0
+911,Predators,Alice Braga,51.0
+912,Maleficent,Angelina Jolie,56.0
+913,Maleficent,Elle Fanning,56.0
+914,Maleficent,Sharlto Copley,56.0
+915,Maleficent,Lesley Manville,56.0
+916,Rupture,Noomi Rapace,35.0
+917,Rupture,Michael Chiklis,35.0
+918,Rupture,Kerry Bishé,35.0
+919,Rupture,Peter Stormare,35.0
+920,Pan's Labyrinth,Ivana Baquero,98.0
+921,Pan's Labyrinth,Ariadna Gil,98.0
+922,Pan's Labyrinth,Sergi López,98.0
+923,Pan's Labyrinth,Maribel Verdú,98.0
+924,A Kind of Murder,Patrick Wilson,50.0
+925,A Kind of Murder,Jessica Biel,50.0
+926,A Kind of Murder,Haley Bennett,50.0
+927,A Kind of Murder,Vincent Kartheiser,50.0
+928,Apocalypto,Gerardo Taracena,68.0
+929,Apocalypto,Raoul Max Trujillo,68.0
+930,Apocalypto,Dalia Hernández,68.0
+931,Apocalypto,Rudy Youngblood,68.0
+932,Mission: Impossible - Rogue Nation,Tom Cruise,75.0
+933,Mission: Impossible - Rogue Nation,Rebecca Ferguson,75.0
+934,Mission: Impossible - Rogue Nation,Jeremy Renner,75.0
+935,Mission: Impossible - Rogue Nation,Simon Pegg,75.0
+936,The Huntsman: Winter's War,Chris Hemsworth,35.0
+937,The Huntsman: Winter's War,Jessica Chastain,35.0
+938,The Huntsman: Winter's War,Charlize Theron,35.0
+939,The Huntsman: Winter's War,Emily Blunt,35.0
+940,The Perks of Being a Wallflower,Logan Lerman,67.0
+941,The Perks of Being a Wallflower,Emma Watson,67.0
+942,The Perks of Being a Wallflower,Ezra Miller,67.0
+943,The Perks of Being a Wallflower,Paul Rudd,67.0
+944,Jackie,Natalie Portman,81.0
+945,Jackie,Peter Sarsgaard,81.0
+946,Jackie,Greta Gerwig,81.0
+947,Jackie,Billy Crudup,81.0
+948,The Disappointments Room,Kate Beckinsale,31.0
+949,The Disappointments Room,Mel Raido,31.0
+950,The Disappointments Room,Duncan Joiner,31.0
+951,The Disappointments Room,Lucas Till,31.0
+952,The Grand Budapest Hotel,Ralph Fiennes,88.0
+953,The Grand Budapest Hotel,F. Murray Abraham,88.0
+954,The Grand Budapest Hotel,Mathieu Amalric,88.0
+955,The Grand Budapest Hotel,Adrien Brody,88.0
+956,The Host,Saoirse Ronan,35.0
+957,The Host,Max Irons,35.0
+958,The Host,Jake Abel,35.0
+959,The Host,Diane Kruger,35.0
+960,Fury,Brad Pitt,64.0
+961,Fury,Shia LaBeouf,64.0
+962,Fury,Logan Lerman,64.0
+963,Fury,Michael Peña,64.0
+964,Inside Out,Amy Poehler,94.0
+965,Inside Out,Bill Hader,94.0
+966,Inside Out,Lewis Black,94.0
+967,Inside Out,Mindy Kaling,94.0
+968,Rock Dog,Luke Wilson,48.0
+969,Rock Dog,Eddie Izzard,48.0
+970,Rock Dog,J.K. Simmons,48.0
+971,Rock Dog,Lewis Black,48.0
+972,Terminator Genisys,Arnold Schwarzenegger,38.0
+973,Terminator Genisys,Jason Clarke,38.0
+974,Terminator Genisys,Emilia Clarke,38.0
+975,Terminator Genisys,Jai Courtney,38.0
+976,Percy Jackson & the Olympians: The Lightning Thief,Logan Lerman,47.0
+977,Percy Jackson & the Olympians: The Lightning Thief,Kevin McKidd,47.0
+978,Percy Jackson & the Olympians: The Lightning Thief,Steve Coogan,47.0
+979,Percy Jackson & the Olympians: The Lightning Thief,Brandon T. Jackson,47.0
+980,Les Misérables,Hugh Jackman,63.0
+981,Les Misérables,Russell Crowe,63.0
+982,Les Misérables,Anne Hathaway,63.0
+983,Les Misérables,Amanda Seyfried,63.0
+984,Children of Men,Julianne Moore,84.0
+985,Children of Men,Clive Owen,84.0
+986,Children of Men,Chiwetel Ejiofor,84.0
+987,Children of Men,Michael Caine,84.0
+988,20th Century Women,Annette Bening,83.0
+989,20th Century Women,Elle Fanning,83.0
+990,20th Century Women,Greta Gerwig,83.0
+991,20th Century Women,Billy Crudup,83.0
+992,Spy,Melissa McCarthy,75.0
+993,Spy,Rose Byrne,75.0
+994,Spy,Jude Law,75.0
+995,Spy,Jason Statham,75.0
+996,The Intouchables,François Cluzet,57.0
+997,The Intouchables,Omar Sy,57.0
+998,The Intouchables,Anne Le Ny,57.0
+999,The Intouchables,Audrey Fleurot,57.0
+1000,Bonjour Anne,Diane Lane,50.0
+1001,Bonjour Anne,Alec Baldwin,50.0
+1002,Bonjour Anne,Arnaud Viard,50.0
+1003,Bonjour Anne,Linda Gegusch,50.0
+1004,Kynodontas,Christos Stergioglou,73.0
+1005,Kynodontas,Michele Valley,73.0
+1006,Kynodontas,Angeliki Papoulia,73.0
+1007,Kynodontas,Hristos Passalis,73.0
+1008,Straight Outta Compton,O'Shea Jackson Jr.,72.0
+1009,Straight Outta Compton,Corey Hawkins,72.0
+1010,Straight Outta Compton,Jason Mitchell,72.0
+1011,Straight Outta Compton,Neil Brown Jr.,72.0
+1012,The Amazing Spider-Man 2,Andrew Garfield,53.0
+1013,The Amazing Spider-Man 2,Emma Stone,53.0
+1014,The Amazing Spider-Man 2,Jamie Foxx,53.0
+1015,The Amazing Spider-Man 2,Paul Giamatti,53.0
+1016,The Conjuring,Patrick Wilson,68.0
+1017,The Conjuring,Vera Farmiga,68.0
+1018,The Conjuring,Ron Livingston,68.0
+1019,The Conjuring,Lili Taylor,68.0
+1020,The Hangover,Zach Galifianakis,73.0
+1021,The Hangover,Bradley Cooper,73.0
+1022,The Hangover,Justin Bartha,73.0
+1023,The Hangover,Ed Helms,73.0
+1024,Battleship,Alexander Skarsgård,41.0
+1025,Battleship,Brooklyn Decker,41.0
+1026,Battleship,Liam Neeson,41.0
+1027,Battleship,Rihanna,41.0
+1028,Rise of the Planet of the Apes,James Franco,68.0
+1029,Rise of the Planet of the Apes,Andy Serkis,68.0
+1030,Rise of the Planet of the Apes,Freida Pinto,68.0
+1031,Rise of the Planet of the Apes,Karin Konoval,68.0
+1032,Lights Out,Teresa Palmer,58.0
+1033,Lights Out,Gabriel Bateman,58.0
+1034,Lights Out,Maria Bello,58.0
+1035,Lights Out,Billy Burke,58.0
+1036,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Richard Gere,76.0
+1037,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Lior Ashkenazi,76.0
+1038,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Michael Sheen,76.0
+1039,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Charlotte Gainsbourg,76.0
+1040,Birdman or (The Unexpected Virtue of Ignorance),Michael Keaton,88.0
+1041,Birdman or (The Unexpected Virtue of Ignorance),Zach Galifianakis,88.0
+1042,Birdman or (The Unexpected Virtue of Ignorance),Edward Norton,88.0
+1043,Birdman or (The Unexpected Virtue of Ignorance),Andrea Riseborough,88.0
+1044,Black Swan,Natalie Portman,79.0
+1045,Black Swan,Mila Kunis,79.0
+1046,Black Swan,Vincent Cassel,79.0
+1047,Black Swan,Winona Ryder,79.0
+1048,Dear White People,Tyler James Williams,79.0
+1049,Dear White People,Tessa Thompson,79.0
+1050,Dear White People,Kyle Gallner,79.0
+1051,Dear White People,Teyonah Parris,79.0
+1052,Nymphomaniac: Vol. I,Charlotte Gainsbourg,64.0
+1053,Nymphomaniac: Vol. I,Stellan Skarsgård,64.0
+1054,Nymphomaniac: Vol. I,Stacy Martin,64.0
+1055,Nymphomaniac: Vol. I,Shia LaBeouf,64.0
+1056,Teenage Mutant Ninja Turtles: Out of the Shadows,Megan Fox,40.0
+1057,Teenage Mutant Ninja Turtles: Out of the Shadows,Will Arnett,40.0
+1058,Teenage Mutant Ninja Turtles: Out of the Shadows,Tyler Perry,40.0
+1059,Teenage Mutant Ninja Turtles: Out of the Shadows,Laura Linney,40.0
+1060,Knock Knock,Keanu Reeves,53.0
+1061,Knock Knock,Lorenza Izzo,53.0
+1062,Knock Knock,Ana de Armas,53.0
+1063,Knock Knock,Aaron Burns,53.0
+1064,Dirty Grandpa,Robert De Niro,18.0
+1065,Dirty Grandpa,Zac Efron,18.0
+1066,Dirty Grandpa,Zoey Deutch,18.0
+1067,Dirty Grandpa,Aubrey Plaza,18.0
+1068,Cloud Atlas,Tom Hanks,55.0
+1069,Cloud Atlas,Halle Berry,55.0
+1070,Cloud Atlas,Hugh Grant,55.0
+1071,Cloud Atlas,Hugo Weaving,55.0
+1072,X-Men Origins: Wolverine,Hugh Jackman,40.0
+1073,X-Men Origins: Wolverine,Liev Schreiber,40.0
+1074,X-Men Origins: Wolverine,Ryan Reynolds,40.0
+1075,X-Men Origins: Wolverine,Danny Huston,40.0
+1076,Satanic,Sarah Hyland,
+1077,Satanic,Steven Krueger,
+1078,Satanic,Justin Chon,
+1079,Satanic,Clara Mamet,
+1080,Skyfall,Daniel Craig,81.0
+1081,Skyfall,Javier Bardem,81.0
+1082,Skyfall,Naomie Harris,81.0
+1083,Skyfall,Judi Dench,81.0
+1084,The Hobbit: An Unexpected Journey,Martin Freeman,58.0
+1085,The Hobbit: An Unexpected Journey,Ian McKellen,58.0
+1086,The Hobbit: An Unexpected Journey,Richard Armitage,58.0
+1087,The Hobbit: An Unexpected Journey,Andy Serkis,58.0
+1088,21 Jump Street,Jonah Hill,69.0
+1089,21 Jump Street,Channing Tatum,69.0
+1090,21 Jump Street,Ice Cube,69.0
+1091,21 Jump Street,Brie Larson,69.0
+1092,Sing Street,Ferdia Walsh-Peelo,79.0
+1093,Sing Street,Aidan Gillen,79.0
+1094,Sing Street,Maria Doyle Kennedy,79.0
+1095,Sing Street,Jack Reynor,79.0
+1096,Ballerina,Elle Fanning,
+1097,Ballerina,Dane DeHaan,
+1098,Ballerina,Carly Rae Jepsen,
+1099,Ballerina,Maddie Ziegler,
+1100,Oblivion,Tom Cruise,54.0
+1101,Oblivion,Morgan Freeman,54.0
+1102,Oblivion,Andrea Riseborough,54.0
+1103,Oblivion,Olga Kurylenko,54.0
+1104,22 Jump Street,Channing Tatum,71.0
+1105,22 Jump Street,Jonah Hill,71.0
+1106,22 Jump Street,Ice Cube,71.0
+1107,22 Jump Street,Nick Offerman,71.0
+1108,Zodiac,Jake Gyllenhaal,78.0
+1109,Zodiac,Robert Downey Jr.,78.0
+1110,Zodiac,Mark Ruffalo,78.0
+1111,Zodiac,Anthony Edwards,78.0
+1112,Everybody Wants Some!!,Blake Jenner,83.0
+1113,Everybody Wants Some!!,Tyler Hoechlin,83.0
+1114,Everybody Wants Some!!,Ryan Guzman,83.0
+1115,Everybody Wants Some!!,Zoey Deutch,83.0
+1116,Iron Man Three,Robert Downey Jr.,62.0
+1117,Iron Man Three,Guy Pearce,62.0
+1118,Iron Man Three,Gwyneth Paltrow,62.0
+1119,Iron Man Three,Don Cheadle,62.0
+1120,Now You See Me,Jesse Eisenberg,50.0
+1121,Now You See Me,Common,50.0
+1122,Now You See Me,Mark Ruffalo,50.0
+1123,Now You See Me,Woody Harrelson,50.0
+1124,Sherlock Holmes,Robert Downey Jr.,57.0
+1125,Sherlock Holmes,Jude Law,57.0
+1126,Sherlock Holmes,Rachel McAdams,57.0
+1127,Sherlock Holmes,Mark Strong,57.0
+1128,Death Proof,Kurt Russell,
+1129,Death Proof,Zoë Bell,
+1130,Death Proof,Rosario Dawson,
+1131,Death Proof,Vanessa Ferlito,
+1132,The Danish Girl,Eddie Redmayne,66.0
+1133,The Danish Girl,Alicia Vikander,66.0
+1134,The Danish Girl,Amber Heard,66.0
+1135,The Danish Girl,Ben Whishaw,66.0
+1136,Hercules,Dwayne Johnson,47.0
+1137,Hercules,John Hurt,47.0
+1138,Hercules,Ian McShane,47.0
+1139,Hercules,Joseph Fiennes,47.0
+1140,Sucker Punch,Emily Browning,33.0
+1141,Sucker Punch,Vanessa Hudgens,33.0
+1142,Sucker Punch,Abbie Cornish,33.0
+1143,Sucker Punch,Jena Malone,33.0
+1144,Keeping Up with the Joneses,Zach Galifianakis,34.0
+1145,Keeping Up with the Joneses,Isla Fisher,34.0
+1146,Keeping Up with the Joneses,Jon Hamm,34.0
+1147,Keeping Up with the Joneses,Gal Gadot,34.0
+1148,Jupiter Ascending,Channing Tatum,40.0
+1149,Jupiter Ascending,Mila Kunis,40.0
+1150,Jupiter Ascending,Eddie Redmayne,40.0
+1151,Jupiter Ascending,Sean Bean,40.0
+1152,Masterminds,Zach Galifianakis,47.0
+1153,Masterminds,Kristen Wiig,47.0
+1154,Masterminds,Owen Wilson,47.0
+1155,Masterminds,Ross Kimball,47.0
+1156,Iris,Romain Duris,
+1157,Iris,Charlotte Le Bon,
+1158,Iris,Jalil Lespert,
+1159,Iris,Camille Cottin,
+1160,Busanhaeng,Yoo Gong,72.0
+1161,Busanhaeng,Soo-an Kim,72.0
+1162,Busanhaeng,Yu-mi Jung,72.0
+1163,Busanhaeng,Dong-seok Ma,72.0
+1164,Pitch Perfect,Anna Kendrick,66.0
+1165,Pitch Perfect,Brittany Snow,66.0
+1166,Pitch Perfect,Rebel Wilson,66.0
+1167,Pitch Perfect,Anna Camp,66.0
+1168,Neighbors 2: Sorority Rising,Seth Rogen,58.0
+1169,Neighbors 2: Sorority Rising,Rose Byrne,58.0
+1170,Neighbors 2: Sorority Rising,Zac Efron,58.0
+1171,Neighbors 2: Sorority Rising,Chloë Grace Moretz,58.0
+1172,The Exception,Lily James,
+1173,The Exception,Jai Courtney,
+1174,The Exception,Christopher Plummer,
+1175,The Exception,Loïs van Wijk,
+1176,Man of Steel,Henry Cavill,55.0
+1177,Man of Steel,Amy Adams,55.0
+1178,Man of Steel,Michael Shannon,55.0
+1179,Man of Steel,Diane Lane,55.0
+1180,The Choice,Benjamin Walker,26.0
+1181,The Choice,Teresa Palmer,26.0
+1182,The Choice,Alexandra Daddario,26.0
+1183,The Choice,Maggie Grace,26.0
+1184,Ice Age: Collision Course,Ray Romano,34.0
+1185,Ice Age: Collision Course,Denis Leary,34.0
+1186,Ice Age: Collision Course,John Leguizamo,34.0
+1187,Ice Age: Collision Course,Chris Wedge,34.0
+1188,The Devil Wears Prada,Anne Hathaway,62.0
+1189,The Devil Wears Prada,Meryl Streep,62.0
+1190,The Devil Wears Prada,Adrian Grenier,62.0
+1191,The Devil Wears Prada,Emily Blunt,62.0
+1192,The Infiltrator,Bryan Cranston,66.0
+1193,The Infiltrator,John Leguizamo,66.0
+1194,The Infiltrator,Diane Kruger,66.0
+1195,The Infiltrator,Amy Ryan,66.0
+1196,There Will Be Blood,Daniel Day-Lewis,92.0
+1197,There Will Be Blood,Paul Dano,92.0
+1198,There Will Be Blood,Ciarán Hinds,92.0
+1199,There Will Be Blood,Martin Stringer,92.0
+1200,The Equalizer,Denzel Washington,57.0
+1201,The Equalizer,Marton Csokas,57.0
+1202,The Equalizer,Chloë Grace Moretz,57.0
+1203,The Equalizer,David Harbour,57.0
+1204,Lone Survivor,Mark Wahlberg,60.0
+1205,Lone Survivor,Taylor Kitsch,60.0
+1206,Lone Survivor,Emile Hirsch,60.0
+1207,Lone Survivor,Ben Foster,60.0
+1208,The Cabin in the Woods,Kristen Connolly,72.0
+1209,The Cabin in the Woods,Chris Hemsworth,72.0
+1210,The Cabin in the Woods,Anna Hutchison,72.0
+1211,The Cabin in the Woods,Fran Kranz,72.0
+1212,The House Bunny,Anna Faris,55.0
+1213,The House Bunny,Colin Hanks,55.0
+1214,The House Bunny,Emma Stone,55.0
+1215,The House Bunny,Kat Dennings,55.0
+1216,She's Out of My League,Jay Baruchel,46.0
+1217,She's Out of My League,Alice Eve,46.0
+1218,She's Out of My League,T.J. Miller,46.0
+1219,She's Out of My League,Mike Vogel,46.0
+1220,Inherent Vice,Joaquin Phoenix,81.0
+1221,Inherent Vice,Josh Brolin,81.0
+1222,Inherent Vice,Owen Wilson,81.0
+1223,Inherent Vice,Katherine Waterston,81.0
+1224,Alice Through the Looking Glass,Mia Wasikowska,34.0
+1225,Alice Through the Looking Glass,Johnny Depp,34.0
+1226,Alice Through the Looking Glass,Helena Bonham Carter,34.0
+1227,Alice Through the Looking Glass,Anne Hathaway,34.0
+1228,Vincent N Roxxy,Emile Hirsch,
+1229,Vincent N Roxxy,Zoë Kravitz,
+1230,Vincent N Roxxy,Zoey Deutch,
+1231,Vincent N Roxxy,Emory Cohen,
+1232,The Fast and the Furious: Tokyo Drift,Lucas Black,45.0
+1233,The Fast and the Furious: Tokyo Drift,Zachery Ty Bryan,45.0
+1234,The Fast and the Furious: Tokyo Drift,Shad Moss,45.0
+1235,The Fast and the Furious: Tokyo Drift,Damien Marzette,45.0
+1236,How to Be Single,Dakota Johnson,51.0
+1237,How to Be Single,Rebel Wilson,51.0
+1238,How to Be Single,Leslie Mann,51.0
+1239,How to Be Single,Alison Brie,51.0
+1240,The Blind Side,Quinton Aaron,53.0
+1241,The Blind Side,Sandra Bullock,53.0
+1242,The Blind Side,Tim McGraw,53.0
+1243,The Blind Side,Jae Head,53.0
+1244,La vie d'Adèle,Léa Seydoux,88.0
+1245,La vie d'Adèle,Adèle Exarchopoulos,88.0
+1246,La vie d'Adèle,Salim Kechiouche,88.0
+1247,La vie d'Adèle,Aurélien Recoing,88.0
+1248,The Babadook,Essie Davis,86.0
+1249,The Babadook,Noah Wiseman,86.0
+1250,The Babadook,Daniel Henshall,86.0
+1251,The Babadook,Hayley McElhinney,86.0
+1252,The Hobbit: The Battle of the Five Armies,Ian McKellen,59.0
+1253,The Hobbit: The Battle of the Five Armies,Martin Freeman,59.0
+1254,The Hobbit: The Battle of the Five Armies,Richard Armitage,59.0
+1255,The Hobbit: The Battle of the Five Armies,Cate Blanchett,59.0
+1256,Harry Potter and the Order of the Phoenix,Daniel Radcliffe,71.0
+1257,Harry Potter and the Order of the Phoenix,Emma Watson,71.0
+1258,Harry Potter and the Order of the Phoenix,Rupert Grint,71.0
+1259,Harry Potter and the Order of the Phoenix,Brendan Gleeson,71.0
+1260,Snowpiercer,Chris Evans,84.0
+1261,Snowpiercer,Jamie Bell,84.0
+1262,Snowpiercer,Tilda Swinton,84.0
+1263,Snowpiercer,Ed Harris,84.0
+1264,The 5th Wave,Chloë Grace Moretz,33.0
+1265,The 5th Wave,Matthew Zuk,33.0
+1266,The 5th Wave,Gabriela Lopez,33.0
+1267,The 5th Wave,Bailey Anne Borders,33.0
+1268,The Stakelander,Connor Paolo,
+1269,The Stakelander,Nick Damici,
+1270,The Stakelander,Laura Abramsen,
+1271,The Stakelander,A.C. Peterson,
+1272,The Visit,Olivia DeJonge,55.0
+1273,The Visit,Ed Oxenbould,55.0
+1274,The Visit,Deanna Dunagan,55.0
+1275,The Visit,Peter McRobbie,55.0
+1276,Fast Five,Vin Diesel,66.0
+1277,Fast Five,Paul Walker,66.0
+1278,Fast Five,Dwayne Johnson,66.0
+1279,Fast Five,Jordana Brewster,66.0
+1280,Step Up,Channing Tatum,48.0
+1281,Step Up,Jenna Dewan Tatum,48.0
+1282,Step Up,Damaine Radcliff,48.0
+1283,Step Up,De'Shawn Washington,48.0
+1284,Lovesong,Riley Keough,74.0
+1285,Lovesong,Jena Malone,74.0
+1286,Lovesong,Jessie Ok Gray,74.0
+1287,Lovesong,Cary Joji Fukunaga,74.0
+1288,RocknRolla,Gerard Butler,53.0
+1289,RocknRolla,Tom Wilkinson,53.0
+1290,RocknRolla,Idris Elba,53.0
+1291,RocknRolla,Thandie Newton,53.0
+1292,In Time,Justin Timberlake,53.0
+1293,In Time,Amanda Seyfried,53.0
+1294,In Time,Cillian Murphy,53.0
+1295,In Time,Olivia Wilde,53.0
+1296,The Social Network,Jesse Eisenberg,95.0
+1297,The Social Network,Andrew Garfield,95.0
+1298,The Social Network,Justin Timberlake,95.0
+1299,The Social Network,Rooney Mara,95.0
+1300,The Last Witch Hunter,Vin Diesel,34.0
+1301,The Last Witch Hunter,Rose Leslie,34.0
+1302,The Last Witch Hunter,Elijah Wood,34.0
+1303,The Last Witch Hunter,Ólafur Darri Ólafsson,34.0
+1304,Victor Frankenstein,Daniel Radcliffe,36.0
+1305,Victor Frankenstein,James McAvoy,36.0
+1306,Victor Frankenstein,Jessica Brown Findlay,36.0
+1307,Victor Frankenstein,Andrew Scott,36.0
+1308,A Street Cat Named Bob,Luke Treadaway,54.0
+1309,A Street Cat Named Bob,Bob the Cat,54.0
+1310,A Street Cat Named Bob,Ruta Gedmintas,54.0
+1311,A Street Cat Named Bob,Joanne Froggatt,54.0
+1312,Green Room,Anton Yelchin,79.0
+1313,Green Room,Imogen Poots,79.0
+1314,Green Room,Alia Shawkat,79.0
+1315,Green Room,Patrick Stewart,79.0
+1316,Blackhat,Chris Hemsworth,51.0
+1317,Blackhat,Viola Davis,51.0
+1318,Blackhat,Wei Tang,51.0
+1319,Blackhat,Leehom Wang,51.0
+1320,Storks,Andy Samberg,56.0
+1321,Storks,Katie Crown,56.0
+1322,Storks,Kelsey Grammer,56.0
+1323,Storks,Jennifer Aniston,56.0
+1324,American Sniper,Bradley Cooper,72.0
+1325,American Sniper,Sienna Miller,72.0
+1326,American Sniper,Kyle Gallner,72.0
+1327,American Sniper,Cole Konis,72.0
+1328,Dallas Buyers Club,Matthew McConaughey,84.0
+1329,Dallas Buyers Club,Jennifer Garner,84.0
+1330,Dallas Buyers Club,Jared Leto,84.0
+1331,Dallas Buyers Club,Steve Zahn,84.0
+1332,Lincoln,Daniel Day-Lewis,86.0
+1333,Lincoln,Sally Field,86.0
+1334,Lincoln,David Strathairn,86.0
+1335,Lincoln,Joseph Gordon-Levitt,86.0
+1336,Rush,Daniel Brühl,75.0
+1337,Rush,Chris Hemsworth,75.0
+1338,Rush,Olivia Wilde,75.0
+1339,Rush,Alexandra Maria Lara,75.0
+1340,Before I Wake,Kate Bosworth,
+1341,Before I Wake,Thomas Jane,
+1342,Before I Wake,Jacob Tremblay,
+1343,Before I Wake,Annabeth Gish,
+1344,Silver Linings Playbook,Bradley Cooper,81.0
+1345,Silver Linings Playbook,Jennifer Lawrence,81.0
+1346,Silver Linings Playbook,Robert De Niro,81.0
+1347,Silver Linings Playbook,Jacki Weaver,81.0
+1348,Tracktown,Alexi Pappas,64.0
+1349,Tracktown,Chase Offerle,64.0
+1350,Tracktown,Rachel Dratch,64.0
+1351,Tracktown,Andy Buckley,64.0
+1352,The Fault in Our Stars,Shailene Woodley,69.0
+1353,The Fault in Our Stars,Ansel Elgort,69.0
+1354,The Fault in Our Stars,Nat Wolff,69.0
+1355,The Fault in Our Stars,Laura Dern,69.0
+1356,Blended,Adam Sandler,31.0
+1357,Blended,Drew Barrymore,31.0
+1358,Blended,Wendi McLendon-Covey,31.0
+1359,Blended,Kevin Nealon,31.0
+1360,Fast & Furious,Vin Diesel,46.0
+1361,Fast & Furious,Paul Walker,46.0
+1362,Fast & Furious,Michelle Rodriguez,46.0
+1363,Fast & Furious,Jordana Brewster,46.0
+1364,Looper,Joseph Gordon-Levitt,84.0
+1365,Looper,Bruce Willis,84.0
+1366,Looper,Emily Blunt,84.0
+1367,Looper,Paul Dano,84.0
+1368,White House Down,Channing Tatum,52.0
+1369,White House Down,Jamie Foxx,52.0
+1370,White House Down,Maggie Gyllenhaal,52.0
+1371,White House Down,Jason Clarke,52.0
+1372,Pete's Dragon,Bryce Dallas Howard,71.0
+1373,Pete's Dragon,Robert Redford,71.0
+1374,Pete's Dragon,Oakes Fegley,71.0
+1375,Pete's Dragon,Oona Laurence,71.0
+1376,Spider-Man 3,Tobey Maguire,59.0
+1377,Spider-Man 3,Kirsten Dunst,59.0
+1378,Spider-Man 3,Topher Grace,59.0
+1379,Spider-Man 3,Thomas Haden Church,59.0
+1380,The Three Musketeers,Logan Lerman,35.0
+1381,The Three Musketeers,Matthew Macfadyen,35.0
+1382,The Three Musketeers,Ray Stevenson,35.0
+1383,The Three Musketeers,Milla Jovovich,35.0
+1384,Stardust,Charlie Cox,66.0
+1385,Stardust,Claire Danes,66.0
+1386,Stardust,Sienna Miller,66.0
+1387,Stardust,Ian McKellen,66.0
+1388,American Hustle,Christian Bale,90.0
+1389,American Hustle,Amy Adams,90.0
+1390,American Hustle,Bradley Cooper,90.0
+1391,American Hustle,Jennifer Lawrence,90.0
+1392,Jennifer's Body,Megan Fox,47.0
+1393,Jennifer's Body,Amanda Seyfried,47.0
+1394,Jennifer's Body,Adam Brody,47.0
+1395,Jennifer's Body,Johnny Simmons,47.0
+1396,Midnight in Paris,Owen Wilson,81.0
+1397,Midnight in Paris,Rachel McAdams,81.0
+1398,Midnight in Paris,Kathy Bates,81.0
+1399,Midnight in Paris,Kurt Fuller,81.0
+1400,Lady Macbeth,Florence Pugh,83.0
+1401,Lady Macbeth,Christopher Fairbank,83.0
+1402,Lady Macbeth,Cosmo Jarvis,83.0
+1403,Lady Macbeth,Naomi Ackie,83.0
+1404,Joy,Jennifer Lawrence,56.0
+1405,Joy,Robert De Niro,56.0
+1406,Joy,Bradley Cooper,56.0
+1407,Joy,Edgar Ramírez,56.0
+1408,The Dressmaker,Kate Winslet,47.0
+1409,The Dressmaker,Judy Davis,47.0
+1410,The Dressmaker,Liam Hemsworth,47.0
+1411,The Dressmaker,Hugo Weaving,47.0
+1412,Café Society,Jesse Eisenberg,64.0
+1413,Café Society,Kristen Stewart,64.0
+1414,Café Society,Steve Carell,64.0
+1415,Café Society,Blake Lively,64.0
+1416,Insurgent,Shailene Woodley,42.0
+1417,Insurgent,Ansel Elgort,42.0
+1418,Insurgent,Theo James,42.0
+1419,Insurgent,Kate Winslet,42.0
+1420,Seventh Son,Ben Barnes,30.0
+1421,Seventh Son,Julianne Moore,30.0
+1422,Seventh Son,Jeff Bridges,30.0
+1423,Seventh Son,Alicia Vikander,30.0
+1424,Demain tout commence,Omar Sy,
+1425,Demain tout commence,Clémence Poésy,
+1426,Demain tout commence,Antoine Bertrand,
+1427,Demain tout commence,Ashley Walters,
+1428,The Theory of Everything,Eddie Redmayne,72.0
+1429,The Theory of Everything,Felicity Jones,72.0
+1430,The Theory of Everything,Tom Prior,72.0
+1431,The Theory of Everything,Sophie Perry,72.0
+1432,This Is the End,James Franco,67.0
+1433,This Is the End,Jonah Hill,67.0
+1434,This Is the End,Seth Rogen,67.0
+1435,This Is the End,Jay Baruchel,67.0
+1436,About Time,Domhnall Gleeson,55.0
+1437,About Time,Rachel McAdams,55.0
+1438,About Time,Bill Nighy,55.0
+1439,About Time,Lydia Wilson,55.0
+1440,Step Brothers,Will Ferrell,51.0
+1441,Step Brothers,John C. Reilly,51.0
+1442,Step Brothers,Mary Steenburgen,51.0
+1443,Step Brothers,Richard Jenkins,51.0
+1444,Clown,Andy Powers,42.0
+1445,Clown,Laura Allen,42.0
+1446,Clown,Peter Stormare,42.0
+1447,Clown,Christian Distefano,42.0
+1448,Star Trek Into Darkness,Chris Pine,72.0
+1449,Star Trek Into Darkness,Zachary Quinto,72.0
+1450,Star Trek Into Darkness,Zoe Saldana,72.0
+1451,Star Trek Into Darkness,Benedict Cumberbatch,72.0
+1452,Zombieland,Jesse Eisenberg,73.0
+1453,Zombieland,Emma Stone,73.0
+1454,Zombieland,Woody Harrelson,73.0
+1455,Zombieland,Abigail Breslin,73.0
+1456,"Hail, Caesar!",Josh Brolin,72.0
+1457,"Hail, Caesar!",George Clooney,72.0
+1458,"Hail, Caesar!",Alden Ehrenreich,72.0
+1459,"Hail, Caesar!",Ralph Fiennes,72.0
+1460,Slumdog Millionaire,Dev Patel,86.0
+1461,Slumdog Millionaire,Freida Pinto,86.0
+1462,Slumdog Millionaire,Saurabh Shukla,86.0
+1463,Slumdog Millionaire,Anil Kapoor,86.0
+1464,The Twilight Saga: Breaking Dawn - Part 2,Kristen Stewart,52.0
+1465,The Twilight Saga: Breaking Dawn - Part 2,Robert Pattinson,52.0
+1466,The Twilight Saga: Breaking Dawn - Part 2,Taylor Lautner,52.0
+1467,The Twilight Saga: Breaking Dawn - Part 2,Peter Facinelli,52.0
+1468,American Wrestler: The Wizard,William Fichtner,
+1469,American Wrestler: The Wizard,Jon Voight,
+1470,American Wrestler: The Wizard,Lia Marie Johnson,
+1471,American Wrestler: The Wizard,Gabriel Basso,
+1472,The Amazing Spider-Man,Andrew Garfield,66.0
+1473,The Amazing Spider-Man,Emma Stone,66.0
+1474,The Amazing Spider-Man,Rhys Ifans,66.0
+1475,The Amazing Spider-Man,Irrfan Khan,66.0
+1476,Ben-Hur,Jack Huston,38.0
+1477,Ben-Hur,Toby Kebbell,38.0
+1478,Ben-Hur,Rodrigo Santoro,38.0
+1479,Ben-Hur,Nazanin Boniadi,38.0
+1480,Sleight,Jacob Latimore,62.0
+1481,Sleight,Seychelle Gabriel,62.0
+1482,Sleight,Dulé Hill,62.0
+1483,Sleight,Storm Reid,62.0
+1484,The Maze Runner,Dylan O'Brien,57.0
+1485,The Maze Runner,Kaya Scodelario,57.0
+1486,The Maze Runner,Will Poulter,57.0
+1487,The Maze Runner,Thomas Brodie-Sangster,57.0
+1488,Criminal,Kevin Costner,36.0
+1489,Criminal,Ryan Reynolds,36.0
+1490,Criminal,Gal Gadot,36.0
+1491,Criminal,Gary Oldman,36.0
+1492,Wanted,Angelina Jolie,64.0
+1493,Wanted,James McAvoy,64.0
+1494,Wanted,Morgan Freeman,64.0
+1495,Wanted,Terence Stamp,64.0
+1496,Florence Foster Jenkins,Meryl Streep,71.0
+1497,Florence Foster Jenkins,Hugh Grant,71.0
+1498,Florence Foster Jenkins,Simon Helberg,71.0
+1499,Florence Foster Jenkins,Rebecca Ferguson,71.0
+1500,Collide,Nicholas Hoult,33.0
+1501,Collide,Felicity Jones,33.0
+1502,Collide,Anthony Hopkins,33.0
+1503,Collide,Ben Kingsley,33.0
+1504,Black Mass,Johnny Depp,68.0
+1505,Black Mass,Benedict Cumberbatch,68.0
+1506,Black Mass,Dakota Johnson,68.0
+1507,Black Mass,Joel Edgerton,68.0
+1508,Creed,Michael B. Jordan,82.0
+1509,Creed,Sylvester Stallone,82.0
+1510,Creed,Tessa Thompson,82.0
+1511,Creed,Phylicia Rashad,82.0
+1512,Swiss Army Man,Paul Dano,64.0
+1513,Swiss Army Man,Daniel Radcliffe,64.0
+1514,Swiss Army Man,Mary Elizabeth Winstead,64.0
+1515,Swiss Army Man,Antonia Ribero,64.0
+1516,The Expendables 3,Sylvester Stallone,35.0
+1517,The Expendables 3,Jason Statham,35.0
+1518,The Expendables 3,Jet Li,35.0
+1519,The Expendables 3,Antonio Banderas,35.0
+1520,What We Do in the Shadows,Jemaine Clement,76.0
+1521,What We Do in the Shadows,Taika Waititi,76.0
+1522,What We Do in the Shadows,Cori Gonzalez-Macuer,76.0
+1523,What We Do in the Shadows,Jonny Brugh,76.0
+1524,Southpaw,Jake Gyllenhaal,57.0
+1525,Southpaw,Rachel McAdams,57.0
+1526,Southpaw,Oona Laurence,57.0
+1527,Southpaw,Forest Whitaker,57.0
+1528,Hush,John Gallagher Jr.,67.0
+1529,Hush,Kate Siegel,67.0
+1530,Hush,Michael Trucco,67.0
+1531,Hush,Samantha Sloyan,67.0
+1532,Bridge of Spies,Tom Hanks,81.0
+1533,Bridge of Spies,Mark Rylance,81.0
+1534,Bridge of Spies,Alan Alda,81.0
+1535,Bridge of Spies,Amy Ryan,81.0
+1536,The Lego Movie,Chris Pratt,83.0
+1537,The Lego Movie,Will Ferrell,83.0
+1538,The Lego Movie,Elizabeth Banks,83.0
+1539,The Lego Movie,Will Arnett,83.0
+1540,Everest,Jason Clarke,64.0
+1541,Everest,Ang Phula Sherpa,64.0
+1542,Everest,Thomas M. Wright,64.0
+1543,Everest,Martin Henderson,64.0
+1544,Pixels,Adam Sandler,27.0
+1545,Pixels,Kevin James,27.0
+1546,Pixels,Michelle Monaghan,27.0
+1547,Pixels,Peter Dinklage,27.0
+1548,Robin Hood,Russell Crowe,53.0
+1549,Robin Hood,Cate Blanchett,53.0
+1550,Robin Hood,Matthew Macfadyen,53.0
+1551,Robin Hood,Max von Sydow,53.0
+1552,The Wolverine,Hugh Jackman,60.0
+1553,The Wolverine,Will Yun Lee,60.0
+1554,The Wolverine,Tao Okamoto,60.0
+1555,The Wolverine,Rila Fukushima,60.0
+1556,John Carter,Taylor Kitsch,51.0
+1557,John Carter,Lynn Collins,51.0
+1558,John Carter,Willem Dafoe,51.0
+1559,John Carter,Samantha Morton,51.0
+1560,Keanu,Keegan-Michael Key,63.0
+1561,Keanu,Jordan Peele,63.0
+1562,Keanu,Tiffany Haddish,63.0
+1563,Keanu,Method Man,63.0
+1564,The Gunman,Sean Penn,39.0
+1565,The Gunman,Idris Elba,39.0
+1566,The Gunman,Jasmine Trinca,39.0
+1567,The Gunman,Javier Bardem,39.0
+1568,Steve Jobs,Michael Fassbender,82.0
+1569,Steve Jobs,Kate Winslet,82.0
+1570,Steve Jobs,Seth Rogen,82.0
+1571,Steve Jobs,Jeff Daniels,82.0
+1572,Whisky Galore,Tim Pigott-Smith,43.0
+1573,Whisky Galore,Naomi Battrick,43.0
+1574,Whisky Galore,Ellie Kendrick,43.0
+1575,Whisky Galore,James Cosmo,43.0
+1576,Grown Ups 2,Adam Sandler,19.0
+1577,Grown Ups 2,Kevin James,19.0
+1578,Grown Ups 2,Chris Rock,19.0
+1579,Grown Ups 2,David Spade,19.0
+1580,The Age of Adaline,Blake Lively,51.0
+1581,The Age of Adaline,Michiel Huisman,51.0
+1582,The Age of Adaline,Harrison Ford,51.0
+1583,The Age of Adaline,Kathy Baker,51.0
+1584,The Incredible Hulk,Edward Norton,61.0
+1585,The Incredible Hulk,Liv Tyler,61.0
+1586,The Incredible Hulk,Tim Roth,61.0
+1587,The Incredible Hulk,William Hurt,61.0
+1588,Couples Retreat,Vince Vaughn,23.0
+1589,Couples Retreat,Malin Akerman,23.0
+1590,Couples Retreat,Jon Favreau,23.0
+1591,Couples Retreat,Jason Bateman,23.0
+1592,Absolutely Anything,Simon Pegg,31.0
+1593,Absolutely Anything,Kate Beckinsale,31.0
+1594,Absolutely Anything,Sanjeev Bhaskar,31.0
+1595,Absolutely Anything,Rob Riggle,31.0
+1596,Magic Mike,Channing Tatum,72.0
+1597,Magic Mike,Alex Pettyfer,72.0
+1598,Magic Mike,Olivia Munn,72.0
+1599,Magic Mike,Matthew McConaughey,72.0
+1600,Minions,Sandra Bullock,56.0
+1601,Minions,Jon Hamm,56.0
+1602,Minions,Michael Keaton,56.0
+1603,Minions,Pierre Coffin,56.0
+1604,The Black Room,Natasha Henstridge,71.0
+1605,The Black Room,Lukas Hassel,71.0
+1606,The Black Room,Lin Shaye,71.0
+1607,The Black Room,Dominique Swain,71.0
+1608,Bronson,Tom Hardy,
+1609,Bronson,Kelly Adams,
+1610,Bronson,Luing Andrews,
+1611,Bronson,Katy Barker,
+1612,Despicable Me,Steve Carell,72.0
+1613,Despicable Me,Jason Segel,72.0
+1614,Despicable Me,Russell Brand,72.0
+1615,Despicable Me,Julie Andrews,72.0
+1616,The Best of Me,James Marsden,29.0
+1617,The Best of Me,Michelle Monaghan,29.0
+1618,The Best of Me,Luke Bracey,29.0
+1619,The Best of Me,Liana Liberato,29.0
+1620,The Invitation,Logan Marshall-Green,74.0
+1621,The Invitation,Emayatzy Corinealdi,74.0
+1622,The Invitation,Michiel Huisman,74.0
+1623,The Invitation,Tammy Blanchard,74.0
+1624,Zero Dark Thirty,Jessica Chastain,95.0
+1625,Zero Dark Thirty,Joel Edgerton,95.0
+1626,Zero Dark Thirty,Chris Pratt,95.0
+1627,Zero Dark Thirty,Mark Strong,95.0
+1628,Tangled,Mandy Moore,71.0
+1629,Tangled,Zachary Levi,71.0
+1630,Tangled,Donna Murphy,71.0
+1631,Tangled,Ron Perlman,71.0
+1632,The Hunger Games: Mockingjay - Part 2,Jennifer Lawrence,65.0
+1633,The Hunger Games: Mockingjay - Part 2,Josh Hutcherson,65.0
+1634,The Hunger Games: Mockingjay - Part 2,Liam Hemsworth,65.0
+1635,The Hunger Games: Mockingjay - Part 2,Woody Harrelson,65.0
+1636,Vacation,Ed Helms,34.0
+1637,Vacation,Christina Applegate,34.0
+1638,Vacation,Skyler Gisondo,34.0
+1639,Vacation,Steele Stebbins,34.0
+1640,Taken,Liam Neeson,50.0
+1641,Taken,Maggie Grace,50.0
+1642,Taken,Famke Janssen,50.0
+1643,Taken,Leland Orser,50.0
+1644,Pitch Perfect 2,Anna Kendrick,63.0
+1645,Pitch Perfect 2,Rebel Wilson,63.0
+1646,Pitch Perfect 2,Hailee Steinfeld,63.0
+1647,Pitch Perfect 2,Brittany Snow,63.0
+1648,Monsters University,Billy Crystal,65.0
+1649,Monsters University,John Goodman,65.0
+1650,Monsters University,Steve Buscemi,65.0
+1651,Monsters University,Helen Mirren,65.0
+1652,Elle,Isabelle Huppert,89.0
+1653,Elle,Laurent Lafitte,89.0
+1654,Elle,Anne Consigny,89.0
+1655,Elle,Charles Berling,89.0
+1656,Mechanic: Resurrection,Jason Statham,38.0
+1657,Mechanic: Resurrection,Jessica Alba,38.0
+1658,Mechanic: Resurrection,Tommy Lee Jones,38.0
+1659,Mechanic: Resurrection,Michelle Yeoh,38.0
+1660,Tusk,Justin Long,55.0
+1661,Tusk,Michael Parks,55.0
+1662,Tusk,Haley Joel Osment,55.0
+1663,Tusk,Genesis Rodriguez,55.0
+1664,The Headhunter's Calling,Alison Brie,85.0
+1665,The Headhunter's Calling,Gerard Butler,85.0
+1666,The Headhunter's Calling,Willem Dafoe,85.0
+1667,The Headhunter's Calling,Gretchen Mol,85.0
+1668,Atonement,Keira Knightley,
+1669,Atonement,James McAvoy,
+1670,Atonement,Brenda Blethyn,
+1671,Atonement,Saoirse Ronan,
+1672,Harry Potter and the Deathly Hallows: Part 1,Daniel Radcliffe,65.0
+1673,Harry Potter and the Deathly Hallows: Part 1,Emma Watson,65.0
+1674,Harry Potter and the Deathly Hallows: Part 1,Rupert Grint,65.0
+1675,Harry Potter and the Deathly Hallows: Part 1,Bill Nighy,65.0
+1676,Shame,Michael Fassbender,72.0
+1677,Shame,Carey Mulligan,72.0
+1678,Shame,James Badge Dale,72.0
+1679,Shame,Lucy Walters,72.0
+1680,Hanna,Saoirse Ronan,65.0
+1681,Hanna,Cate Blanchett,65.0
+1682,Hanna,Eric Bana,65.0
+1683,Hanna,Vicky Krieps,65.0
+1684,The Babysitters,Lauren Birkell,35.0
+1685,The Babysitters,Paul Borghese,35.0
+1686,The Babysitters,Chira Cassel,35.0
+1687,The Babysitters,Anthony Cirillo,35.0
+1688,Pride and Prejudice and Zombies,Lily James,45.0
+1689,Pride and Prejudice and Zombies,Sam Riley,45.0
+1690,Pride and Prejudice and Zombies,Jack Huston,45.0
+1691,Pride and Prejudice and Zombies,Bella Heathcote,45.0
+1692,300: Rise of an Empire,Sullivan Stapleton,48.0
+1693,300: Rise of an Empire,Eva Green,48.0
+1694,300: Rise of an Empire,Lena Headey,48.0
+1695,300: Rise of an Empire,Hans Matheson,48.0
+1696,London Has Fallen,Gerard Butler,28.0
+1697,London Has Fallen,Aaron Eckhart,28.0
+1698,London Has Fallen,Morgan Freeman,28.0
+1699,London Has Fallen,Angela Bassett,28.0
+1700,The Curious Case of Benjamin Button,Brad Pitt,70.0
+1701,The Curious Case of Benjamin Button,Cate Blanchett,70.0
+1702,The Curious Case of Benjamin Button,Tilda Swinton,70.0
+1703,The Curious Case of Benjamin Button,Julia Ormond,70.0
+1704,Sin City: A Dame to Kill For,Mickey Rourke,46.0
+1705,Sin City: A Dame to Kill For,Jessica Alba,46.0
+1706,Sin City: A Dame to Kill For,Josh Brolin,46.0
+1707,Sin City: A Dame to Kill For,Joseph Gordon-Levitt,46.0
+1708,The Bourne Ultimatum,Matt Damon,85.0
+1709,The Bourne Ultimatum,Edgar Ramírez,85.0
+1710,The Bourne Ultimatum,Joan Allen,85.0
+1711,The Bourne Ultimatum,Julia Stiles,85.0
+1712,Srpski film,Srdjan 'Zika' Todorovic,55.0
+1713,Srpski film,Sergej Trifunovic,55.0
+1714,Srpski film,Jelena Gavrilovic,55.0
+1715,Srpski film,Slobodan Bestic,55.0
+1716,The Purge: Election Year,Frank Grillo,
+1717,The Purge: Election Year,Elizabeth Mitchell,
+1718,The Purge: Election Year,Mykelti Williamson,
+1719,The Purge: Election Year,Joseph Julian Soria,
+1720,3 Idiots,Aamir Khan,67.0
+1721,3 Idiots,Madhavan,67.0
+1722,3 Idiots,Mona Singh,67.0
+1723,3 Idiots,Sharman Joshi,67.0
+1724,Zoolander 2,Ben Stiller,34.0
+1725,Zoolander 2,Owen Wilson,34.0
+1726,Zoolander 2,Penélope Cruz,34.0
+1727,Zoolander 2,Will Ferrell,34.0
+1728,World War Z,Brad Pitt,63.0
+1729,World War Z,Mireille Enos,63.0
+1730,World War Z,Daniella Kertesz,63.0
+1731,World War Z,James Badge Dale,63.0
+1732,Mission: Impossible - Ghost Protocol,Tom Cruise,73.0
+1733,Mission: Impossible - Ghost Protocol,Jeremy Renner,73.0
+1734,Mission: Impossible - Ghost Protocol,Simon Pegg,73.0
+1735,Mission: Impossible - Ghost Protocol,Paula Patton,73.0
+1736,Let Me Make You a Martyr,Marilyn Manson,56.0
+1737,Let Me Make You a Martyr,Mark Boone Junior,56.0
+1738,Let Me Make You a Martyr,Sam Quartin,56.0
+1739,Let Me Make You a Martyr,Niko Nicotera,56.0
+1740,Filth,James McAvoy,
+1741,Filth,Jamie Bell,
+1742,Filth,Eddie Marsan,
+1743,Filth,Imogen Poots,
+1744,The Longest Ride,Scott Eastwood,33.0
+1745,The Longest Ride,Britt Robertson,33.0
+1746,The Longest Ride,Alan Alda,33.0
+1747,The Longest Ride,Jack Huston,33.0
+1748,The imposible,Naomi Watts,73.0
+1749,The imposible,Ewan McGregor,73.0
+1750,The imposible,Tom Holland,73.0
+1751,The imposible,Oaklee Pendergast,73.0
+1752,Kick-Ass 2,Aaron Taylor-Johnson,41.0
+1753,Kick-Ass 2,Chloë Grace Moretz,41.0
+1754,Kick-Ass 2,Christopher Mintz-Plasse,41.0
+1755,Kick-Ass 2,Jim Carrey,41.0
+1756,Folk Hero & Funny Guy,Alex Karpovsky,63.0
+1757,Folk Hero & Funny Guy,Wyatt Russell,63.0
+1758,Folk Hero & Funny Guy,Meredith Hagner,63.0
+1759,Folk Hero & Funny Guy,Melanie Lynskey,63.0
+1760,Oz the Great and Powerful,James Franco,44.0
+1761,Oz the Great and Powerful,Michelle Williams,44.0
+1762,Oz the Great and Powerful,Rachel Weisz,44.0
+1763,Oz the Great and Powerful,Mila Kunis,44.0
+1764,Brooklyn,Saoirse Ronan,87.0
+1765,Brooklyn,Emory Cohen,87.0
+1766,Brooklyn,Domhnall Gleeson,87.0
+1767,Brooklyn,Jim Broadbent,87.0
+1768,Coraline,Dakota Fanning,80.0
+1769,Coraline,Teri Hatcher,80.0
+1770,Coraline,John Hodgman,80.0
+1771,Coraline,Jennifer Saunders,80.0
+1772,Blue Valentine,Ryan Gosling,81.0
+1773,Blue Valentine,Michelle Williams,81.0
+1774,Blue Valentine,John Doman,81.0
+1775,Blue Valentine,Faith Wladyka,81.0
+1776,The Thinning,Logan Paul,31.0
+1777,The Thinning,Peyton List,31.0
+1778,The Thinning,Lia Marie Johnson,31.0
+1779,The Thinning,Calum Worthy,31.0
+1780,Silent Hill,Radha Mitchell,
+1781,Silent Hill,Laurie Holden,
+1782,Silent Hill,Sean Bean,
+1783,Silent Hill,Deborah Kara Unger,
+1784,Dredd,Karl Urban,59.0
+1785,Dredd,Olivia Thirlby,59.0
+1786,Dredd,Lena Headey,59.0
+1787,Dredd,Rachel Wood,59.0
+1788,Hunt for the Wilderpeople,Sam Neill,81.0
+1789,Hunt for the Wilderpeople,Julian Dennison,81.0
+1790,Hunt for the Wilderpeople,Rima Te Wiata,81.0
+1791,Hunt for the Wilderpeople,Rachel House,81.0
+1792,Big Hero 6,Ryan Potter,74.0
+1793,Big Hero 6,Scott Adsit,74.0
+1794,Big Hero 6,Jamie Chung,74.0
+1795,Big Hero 6,T.J. Miller,74.0
+1796,Carrie,Chloë Grace Moretz,53.0
+1797,Carrie,Julianne Moore,53.0
+1798,Carrie,Gabriella Wilde,53.0
+1799,Carrie,Portia Doubleday,53.0
+1800,Iron Man 2,Robert Downey Jr.,57.0
+1801,Iron Man 2,Mickey Rourke,57.0
+1802,Iron Man 2,Gwyneth Paltrow,57.0
+1803,Iron Man 2,Don Cheadle,57.0
+1804,Demolition,Jake Gyllenhaal,49.0
+1805,Demolition,Naomi Watts,49.0
+1806,Demolition,Chris Cooper,49.0
+1807,Demolition,Judah Lewis,49.0
+1808,Pandorum,Dennis Quaid,28.0
+1809,Pandorum,Ben Foster,28.0
+1810,Pandorum,Cam Gigandet,28.0
+1811,Pandorum,Antje Traue,28.0
+1812,Olympus Has Fallen,Gerard Butler,41.0
+1813,Olympus Has Fallen,Aaron Eckhart,41.0
+1814,Olympus Has Fallen,Morgan Freeman,41.0
+1815,Olympus Has Fallen,Angela Bassett,41.0
+1816,I Am Number Four,Alex Pettyfer,36.0
+1817,I Am Number Four,Timothy Olyphant,36.0
+1818,I Am Number Four,Dianna Agron,36.0
+1819,I Am Number Four,Teresa Palmer,36.0
+1820,Jagten,Mads Mikkelsen,76.0
+1821,Jagten,Thomas Bo Larsen,76.0
+1822,Jagten,Annika Wedderkopp,76.0
+1823,Jagten,Lasse Fogelstrøm,76.0
+1824,The Proposal,Sandra Bullock,48.0
+1825,The Proposal,Ryan Reynolds,48.0
+1826,The Proposal,Mary Steenburgen,48.0
+1827,The Proposal,Craig T. Nelson,48.0
+1828,Get Hard,Will Ferrell,34.0
+1829,Get Hard,Kevin Hart,34.0
+1830,Get Hard,Alison Brie,34.0
+1831,Get Hard,T.I.,34.0
+1832,Just Go with It,Adam Sandler,33.0
+1833,Just Go with It,Jennifer Aniston,33.0
+1834,Just Go with It,Brooklyn Decker,33.0
+1835,Just Go with It,Nicole Kidman,33.0
+1836,Revolutionary Road,Leonardo DiCaprio,69.0
+1837,Revolutionary Road,Kate Winslet,69.0
+1838,Revolutionary Road,Christopher Fitzgerald,69.0
+1839,Revolutionary Road,Jonathan Roumie,69.0
+1840,The Town,Ben Affleck,74.0
+1841,The Town,Rebecca Hall,74.0
+1842,The Town,Jon Hamm,74.0
+1843,The Town,Jeremy Renner,74.0
+1844,The Boy,Lauren Cohan,42.0
+1845,The Boy,Rupert Evans,42.0
+1846,The Boy,James Russell,42.0
+1847,The Boy,Jim Norton,42.0
+1848,Denial,Rachel Weisz,63.0
+1849,Denial,Tom Wilkinson,63.0
+1850,Denial,Timothy Spall,63.0
+1851,Denial,Andrew Scott,63.0
+1852,Predestination,Ethan Hawke,69.0
+1853,Predestination,Sarah Snook,69.0
+1854,Predestination,Noah Taylor,69.0
+1855,Predestination,Madeleine West,69.0
+1856,Goosebumps,Jack Black,60.0
+1857,Goosebumps,Dylan Minnette,60.0
+1858,Goosebumps,Odeya Rush,60.0
+1859,Goosebumps,Ryan Lee,60.0
+1860,Sherlock Holmes: A Game of Shadows,Robert Downey Jr.,48.0
+1861,Sherlock Holmes: A Game of Shadows,Jude Law,48.0
+1862,Sherlock Holmes: A Game of Shadows,Jared Harris,48.0
+1863,Sherlock Holmes: A Game of Shadows,Rachel McAdams,48.0
+1864,Salt,Angelina Jolie,65.0
+1865,Salt,Liev Schreiber,65.0
+1866,Salt,Chiwetel Ejiofor,65.0
+1867,Salt,Daniel Olbrychski,65.0
+1868,Enemy,Jake Gyllenhaal,61.0
+1869,Enemy,Mélanie Laurent,61.0
+1870,Enemy,Sarah Gadon,61.0
+1871,Enemy,Isabella Rossellini,61.0
+1872,District 9,Sharlto Copley,81.0
+1873,District 9,David James,81.0
+1874,District 9,Jason Cope,81.0
+1875,District 9,Nathalie Boltt,81.0
+1876,The Other Guys,Will Ferrell,64.0
+1877,The Other Guys,Mark Wahlberg,64.0
+1878,The Other Guys,Derek Jeter,64.0
+1879,The Other Guys,Eva Mendes,64.0
+1880,American Gangster,Denzel Washington,76.0
+1881,American Gangster,Russell Crowe,76.0
+1882,American Gangster,Chiwetel Ejiofor,76.0
+1883,American Gangster,Josh Brolin,76.0
+1884,Marie Antoinette,Kirsten Dunst,65.0
+1885,Marie Antoinette,Jason Schwartzman,65.0
+1886,Marie Antoinette,Rip Torn,65.0
+1887,Marie Antoinette,Judy Davis,65.0
+1888,2012,John Cusack,49.0
+1889,2012,Thandie Newton,49.0
+1890,2012,Chiwetel Ejiofor,49.0
+1891,2012,Amanda Peet,49.0
+1892,Harry Potter and the Half-Blood Prince,Daniel Radcliffe,78.0
+1893,Harry Potter and the Half-Blood Prince,Emma Watson,78.0
+1894,Harry Potter and the Half-Blood Prince,Rupert Grint,78.0
+1895,Harry Potter and the Half-Blood Prince,Michael Gambon,78.0
+1896,Argo,Ben Affleck,86.0
+1897,Argo,Bryan Cranston,86.0
+1898,Argo,John Goodman,86.0
+1899,Argo,Alan Arkin,86.0
+1900,Eddie the Eagle,Taron Egerton,54.0
+1901,Eddie the Eagle,Hugh Jackman,54.0
+1902,Eddie the Eagle,Tom Costello,54.0
+1903,Eddie the Eagle,Jo Hartley,54.0
+1904,The Lives of Others,Ulrich Mühe,89.0
+1905,The Lives of Others,Martina Gedeck,89.0
+1906,The Lives of Others,Sebastian Koch,89.0
+1907,The Lives of Others,Ulrich Tukur,89.0
+1908,Pet,Dominic Monaghan,48.0
+1909,Pet,Ksenia Solo,48.0
+1910,Pet,Jennette McCurdy,48.0
+1911,Pet,Da'Vone McDonald,48.0
+1912,Paint It Black,Alia Shawkat,71.0
+1913,Paint It Black,Nancy Kwan,71.0
+1914,Paint It Black,Annabelle Attanasio,71.0
+1915,Paint It Black,Alfred Molina,71.0
+1916,Macbeth,Michael Fassbender,71.0
+1917,Macbeth,Marion Cotillard,71.0
+1918,Macbeth,Jack Madigan,71.0
+1919,Macbeth,Frank Madigan,71.0
+1920,Forgetting Sarah Marshall,Kristen Bell,67.0
+1921,Forgetting Sarah Marshall,Jason Segel,67.0
+1922,Forgetting Sarah Marshall,Paul Rudd,67.0
+1923,Forgetting Sarah Marshall,Mila Kunis,67.0
+1924,The Giver,Brenton Thwaites,47.0
+1925,The Giver,Jeff Bridges,47.0
+1926,The Giver,Meryl Streep,47.0
+1927,The Giver,Taylor Swift,47.0
+1928,Triple 9,Casey Affleck,52.0
+1929,Triple 9,Chiwetel Ejiofor,52.0
+1930,Triple 9,Anthony Mackie,52.0
+1931,Triple 9,Aaron Paul,52.0
+1932,Perfetti sconosciuti,Giuseppe Battiston,43.0
+1933,Perfetti sconosciuti,Anna Foglietta,43.0
+1934,Perfetti sconosciuti,Marco Giallini,43.0
+1935,Perfetti sconosciuti,Edoardo Leo,43.0
+1936,Angry Birds,Jason Sudeikis,
+1937,Angry Birds,Josh Gad,
+1938,Angry Birds,Danny McBride,
+1939,Angry Birds,Maya Rudolph,
+1940,Moonrise Kingdom,Jared Gilman,84.0
+1941,Moonrise Kingdom,Kara Hayward,84.0
+1942,Moonrise Kingdom,Bruce Willis,84.0
+1943,Moonrise Kingdom,Bill Murray,84.0
+1944,Hairspray,John Travolta,81.0
+1945,Hairspray,Queen Latifah,81.0
+1946,Hairspray,Nikki Blonsky,81.0
+1947,Hairspray,Michelle Pfeiffer,81.0
+1948,Safe Haven,Julianne Hough,34.0
+1949,Safe Haven,Josh Duhamel,34.0
+1950,Safe Haven,Cobie Smulders,34.0
+1951,Safe Haven,David Lyons,34.0
+1952,Focus,Will Smith,56.0
+1953,Focus,Margot Robbie,56.0
+1954,Focus,Rodrigo Santoro,56.0
+1955,Focus,Adrian Martinez,56.0
+1956,Ratatouille,Brad Garrett,96.0
+1957,Ratatouille,Lou Romano,96.0
+1958,Ratatouille,Patton Oswalt,96.0
+1959,Ratatouille,Ian Holm,96.0
+1960,Stake Land,Connor Paolo,66.0
+1961,Stake Land,Nick Damici,66.0
+1962,Stake Land,Kelly McGillis,66.0
+1963,Stake Land,Gregory Jones,66.0
+1964,The Book of Eli,Denzel Washington,53.0
+1965,The Book of Eli,Mila Kunis,53.0
+1966,The Book of Eli,Ray Stevenson,53.0
+1967,The Book of Eli,Gary Oldman,53.0
+1968,Cloverfield,Mike Vogel,64.0
+1969,Cloverfield,Jessica Lucas,64.0
+1970,Cloverfield,Lizzy Caplan,64.0
+1971,Cloverfield,T.J. Miller,64.0
+1972,Point Break,Edgar Ramírez,34.0
+1973,Point Break,Luke Bracey,34.0
+1974,Point Break,Ray Winstone,34.0
+1975,Point Break,Teresa Palmer,34.0
+1976,Under the Skin,Scarlett Johansson,78.0
+1977,Under the Skin,Jeremy McWilliams,78.0
+1978,Under the Skin,Lynsey Taylor Mackay,78.0
+1979,Under the Skin,Dougie McConnell,78.0
+1980,I Am Legend,Will Smith,65.0
+1981,I Am Legend,Alice Braga,65.0
+1982,I Am Legend,Charlie Tahan,65.0
+1983,I Am Legend,Salli Richardson-Whitfield,65.0
+1984,Men in Black 3,Will Smith,58.0
+1985,Men in Black 3,Tommy Lee Jones,58.0
+1986,Men in Black 3,Josh Brolin,58.0
+1987,Men in Black 3,Jemaine Clement,58.0
+1988,Super 8,Elle Fanning,72.0
+1989,Super 8,AJ Michalka,72.0
+1990,Super 8,Kyle Chandler,72.0
+1991,Super 8,Joel Courtney,72.0
+1992,Law Abiding Citizen,Gerard Butler,34.0
+1993,Law Abiding Citizen,Jamie Foxx,34.0
+1994,Law Abiding Citizen,Leslie Bibb,34.0
+1995,Law Abiding Citizen,Colm Meaney,34.0
+1996,Up,Edward Asner,88.0
+1997,Up,Jordan Nagai,88.0
+1998,Up,John Ratzenberger,88.0
+1999,Up,Christopher Plummer,88.0
+2000,Maze Runner: The Scorch Trials,Dylan O'Brien,43.0
+2001,Maze Runner: The Scorch Trials,Kaya Scodelario,43.0
+2002,Maze Runner: The Scorch Trials,Thomas Brodie-Sangster,43.0
+2003,Maze Runner: The Scorch Trials,Giancarlo Esposito,43.0
+2004,Carol,Cate Blanchett,95.0
+2005,Carol,Rooney Mara,95.0
+2006,Carol,Sarah Paulson,95.0
+2007,Carol,Kyle Chandler,95.0
+2008,Imperium,Daniel Radcliffe,68.0
+2009,Imperium,Toni Collette,68.0
+2010,Imperium,Tracy Letts,68.0
+2011,Imperium,Sam Trammell,68.0
+2012,Youth,Michael Caine,64.0
+2013,Youth,Harvey Keitel,64.0
+2014,Youth,Rachel Weisz,64.0
+2015,Youth,Jane Fonda,64.0
+2016,Mr. Nobody,Jared Leto,63.0
+2017,Mr. Nobody,Sarah Polley,63.0
+2018,Mr. Nobody,Diane Kruger,63.0
+2019,Mr. Nobody,Linh Dan Pham,63.0
+2020,City of Tiny Lights,Riz Ahmed,54.0
+2021,City of Tiny Lights,Billie Piper,54.0
+2022,City of Tiny Lights,James Floyd,54.0
+2023,City of Tiny Lights,Cush Jumbo,54.0
+2024,Savages,Aaron Taylor-Johnson,59.0
+2025,Savages,Taylor Kitsch,59.0
+2026,Savages,Blake Lively,59.0
+2027,Savages,Benicio Del Toro,59.0
+2028,(500) Days of Summer,Zooey Deschanel,76.0
+2029,(500) Days of Summer,Joseph Gordon-Levitt,76.0
+2030,(500) Days of Summer,Geoffrey Arend,76.0
+2031,(500) Days of Summer,Chloë Grace Moretz,76.0
+2032,Movie 43,Emma Stone,18.0
+2033,Movie 43,Stephen Merchant,18.0
+2034,Movie 43,Richard Gere,18.0
+2035,Movie 43,Liev Schreiber,18.0
+2036,Gravity,Sandra Bullock,96.0
+2037,Gravity,George Clooney,96.0
+2038,Gravity,Ed Harris,96.0
+2039,Gravity,Orto Ignatiussen,96.0
+2040,The Boy in the Striped Pyjamas,Asa Butterfield,55.0
+2041,The Boy in the Striped Pyjamas,David Thewlis,55.0
+2042,The Boy in the Striped Pyjamas,Rupert Friend,55.0
+2043,The Boy in the Striped Pyjamas,Zac Mattoon O'Brien,55.0
+2044,Shooter,Mark Wahlberg,53.0
+2045,Shooter,Michael Peña,53.0
+2046,Shooter,Rhona Mitra,53.0
+2047,Shooter,Danny Glover,53.0
+2048,The Happening,Mark Wahlberg,34.0
+2049,The Happening,Zooey Deschanel,34.0
+2050,The Happening,John Leguizamo,34.0
+2051,The Happening,Ashlyn Sanchez,34.0
+2052,Bone Tomahawk,Kurt Russell,72.0
+2053,Bone Tomahawk,Patrick Wilson,72.0
+2054,Bone Tomahawk,Matthew Fox,72.0
+2055,Bone Tomahawk,Richard Jenkins,72.0
+2056,Magic Mike XXL,Channing Tatum,60.0
+2057,Magic Mike XXL,Joe Manganiello,60.0
+2058,Magic Mike XXL,Matt Bomer,60.0
+2059,Magic Mike XXL,Adam Rodriguez,60.0
+2060,Easy A,Emma Stone,72.0
+2061,Easy A,Amanda Bynes,72.0
+2062,Easy A,Penn Badgley,72.0
+2063,Easy A,Dan Byrd,72.0
+2064,Exodus: Gods and Kings,Christian Bale,52.0
+2065,Exodus: Gods and Kings,Joel Edgerton,52.0
+2066,Exodus: Gods and Kings,Ben Kingsley,52.0
+2067,Exodus: Gods and Kings,Sigourney Weaver,52.0
+2068,Chappie,Sharlto Copley,41.0
+2069,Chappie,Dev Patel,41.0
+2070,Chappie,Hugh Jackman,41.0
+2071,Chappie,Sigourney Weaver,41.0
+2072,The Hobbit: The Desolation of Smaug,Ian McKellen,66.0
+2073,The Hobbit: The Desolation of Smaug,Martin Freeman,66.0
+2074,The Hobbit: The Desolation of Smaug,Richard Armitage,66.0
+2075,The Hobbit: The Desolation of Smaug,Ken Stott,66.0
+2076,Half of a Yellow Sun,Chiwetel Ejiofor,51.0
+2077,Half of a Yellow Sun,Thandie Newton,51.0
+2078,Half of a Yellow Sun,Anika Noni Rose,51.0
+2079,Half of a Yellow Sun,Joseph Mawle,51.0
+2080,Anthropoid,Jamie Dornan,59.0
+2081,Anthropoid,Cillian Murphy,59.0
+2082,Anthropoid,Brian Caspe,59.0
+2083,Anthropoid,Karel Hermánek Jr.,59.0
+2084,The Counselor,Michael Fassbender,48.0
+2085,The Counselor,Penélope Cruz,48.0
+2086,The Counselor,Cameron Diaz,48.0
+2087,The Counselor,Javier Bardem,48.0
+2088,Viking,Anton Adasinsky,57.0
+2089,Viking,Aleksandr Armer,57.0
+2090,Viking,Vilen Babichev,57.0
+2091,Viking,Rostislav Bershauer,57.0
+2092,Whiskey Tango Foxtrot,Tina Fey,
+2093,Whiskey Tango Foxtrot,Margot Robbie,
+2094,Whiskey Tango Foxtrot,Martin Freeman,
+2095,Whiskey Tango Foxtrot,Alfred Molina,
+2096,Trust,Clive Owen,60.0
+2097,Trust,Catherine Keener,60.0
+2098,Trust,Liana Liberato,60.0
+2099,Trust,Jason Clarke,60.0
+2100,Birth of the Dragon,Billy Magnussen,61.0
+2101,Birth of the Dragon,Terry Chen,61.0
+2102,Birth of the Dragon,Teresa Navarro,61.0
+2103,Birth of the Dragon,Vanessa Ross,61.0
+2104,Elysium,Matt Damon,
+2105,Elysium,Jodie Foster,
+2106,Elysium,Sharlto Copley,
+2107,Elysium,Alice Braga,
+2108,The Green Inferno,Lorenza Izzo,38.0
+2109,The Green Inferno,Ariel Levy,38.0
+2110,The Green Inferno,Aaron Burns,38.0
+2111,The Green Inferno,Kirby Bliss Blanton,38.0
+2112,Godzilla,Aaron Taylor-Johnson,62.0
+2113,Godzilla,Elizabeth Olsen,62.0
+2114,Godzilla,Bryan Cranston,62.0
+2115,Godzilla,Ken Watanabe,62.0
+2116,The Bourne Legacy,Jeremy Renner,61.0
+2117,The Bourne Legacy,Rachel Weisz,61.0
+2118,The Bourne Legacy,Edward Norton,61.0
+2119,The Bourne Legacy,Scott Glenn,61.0
+2120,A Good Year,Russell Crowe,47.0
+2121,A Good Year,Abbie Cornish,47.0
+2122,A Good Year,Albert Finney,47.0
+2123,A Good Year,Marion Cotillard,47.0
+2124,Friend Request,Alycia Debnam-Carey,59.0
+2125,Friend Request,William Moseley,59.0
+2126,Friend Request,Connor Paolo,59.0
+2127,Friend Request,Brit Morgan,59.0
+2128,Deja Vu,Denzel Washington,
+2129,Deja Vu,Paula Patton,
+2130,Deja Vu,Jim Caviezel,
+2131,Deja Vu,Val Kilmer,
+2132,Lucy,Scarlett Johansson,61.0
+2133,Lucy,Morgan Freeman,61.0
+2134,Lucy,Min-sik Choi,61.0
+2135,Lucy,Amr Waked,61.0
+2136,A Quiet Passion,Cynthia Nixon,77.0
+2137,A Quiet Passion,Jennifer Ehle,77.0
+2138,A Quiet Passion,Duncan Duff,77.0
+2139,A Quiet Passion,Keith Carradine,77.0
+2140,Need for Speed,Aaron Paul,39.0
+2141,Need for Speed,Dominic Cooper,39.0
+2142,Need for Speed,Imogen Poots,39.0
+2143,Need for Speed,Scott Mescudi,39.0
+2144,Jack Reacher,Tom Cruise,50.0
+2145,Jack Reacher,Rosamund Pike,50.0
+2146,Jack Reacher,Richard Jenkins,50.0
+2147,Jack Reacher,Werner Herzog,50.0
+2148,The Do-Over,Adam Sandler,22.0
+2149,The Do-Over,David Spade,22.0
+2150,The Do-Over,Paula Patton,22.0
+2151,The Do-Over,Kathryn Hahn,22.0
+2152,True Crimes,Jim Carrey,43.0
+2153,True Crimes,Charlotte Gainsbourg,43.0
+2154,True Crimes,Marton Csokas,43.0
+2155,True Crimes,Kati Outinen,43.0
+2156,American Pastoral,Ewan McGregor,
+2157,American Pastoral,Jennifer Connelly,
+2158,American Pastoral,Dakota Fanning,
+2159,American Pastoral,Peter Riegert,
+2160,The Ghost Writer,Ewan McGregor,77.0
+2161,The Ghost Writer,Pierce Brosnan,77.0
+2162,The Ghost Writer,Olivia Williams,77.0
+2163,The Ghost Writer,Jon Bernthal,77.0
+2164,Limitless,Bradley Cooper,59.0
+2165,Limitless,Anna Friel,59.0
+2166,Limitless,Abbie Cornish,59.0
+2167,Limitless,Robert De Niro,59.0
+2168,Spectral,James Badge Dale,39.0
+2169,Spectral,Emily Mortimer,39.0
+2170,Spectral,Bruce Greenwood,39.0
+2171,Spectral,Max Martini,39.0
+2172,P.S. I Love You,Hilary Swank,
+2173,P.S. I Love You,Gerard Butler,
+2174,P.S. I Love You,Harry Connick Jr.,
+2175,P.S. I Love You,Lisa Kudrow,
+2176,Zipper,Patrick Wilson,39.0
+2177,Zipper,Lena Headey,39.0
+2178,Zipper,Ray Winstone,39.0
+2179,Zipper,Richard Dreyfuss,39.0
+2180,Midnight Special,Michael Shannon,76.0
+2181,Midnight Special,Joel Edgerton,76.0
+2182,Midnight Special,Kirsten Dunst,76.0
+2183,Midnight Special,Adam Driver,76.0
+2184,Don't Think Twice,Keegan-Michael Key,83.0
+2185,Don't Think Twice,Gillian Jacobs,83.0
+2186,Don't Think Twice,Mike Birbiglia,83.0
+2187,Don't Think Twice,Chris Gethard,83.0
+2188,Alice in Wonderland,Mia Wasikowska,53.0
+2189,Alice in Wonderland,Johnny Depp,53.0
+2190,Alice in Wonderland,Helena Bonham Carter,53.0
+2191,Alice in Wonderland,Anne Hathaway,53.0
+2192,Chuck,Elisabeth Moss,68.0
+2193,Chuck,Naomi Watts,68.0
+2194,Chuck,Ron Perlman,68.0
+2195,Chuck,Liev Schreiber,68.0
+2196,"I, Daniel Blake",Dave Johns,77.0
+2197,"I, Daniel Blake",Hayley Squires,77.0
+2198,"I, Daniel Blake",Sharon Percy,77.0
+2199,"I, Daniel Blake",Briana Shann,77.0
+2200,The Break-Up,Jennifer Aniston,45.0
+2201,The Break-Up,Vince Vaughn,45.0
+2202,The Break-Up,Jon Favreau,45.0
+2203,The Break-Up,Joey Lauren Adams,45.0
+2204,Loving,Ruth Negga,79.0
+2205,Loving,Joel Edgerton,79.0
+2206,Loving,Will Dalton,79.0
+2207,Loving,Dean Mumford,79.0
+2208,Fantastic Four,Miles Teller,27.0
+2209,Fantastic Four,Kate Mara,27.0
+2210,Fantastic Four,Michael B. Jordan,27.0
+2211,Fantastic Four,Jamie Bell,27.0
+2212,The Survivalist,Mia Goth,80.0
+2213,The Survivalist,Martin McCann,80.0
+2214,The Survivalist,Barry Ward,80.0
+2215,The Survivalist,Andrew Simpson,80.0
+2216,Colonia,Emma Watson,33.0
+2217,Colonia,Daniel Brühl,33.0
+2218,Colonia,Michael Nyqvist,33.0
+2219,Colonia,Richenda Carey,33.0
+2220,The Boy Next Door,Jennifer Lopez,30.0
+2221,The Boy Next Door,Ryan Guzman,30.0
+2222,The Boy Next Door,Kristin Chenoweth,30.0
+2223,The Boy Next Door,John Corbett,30.0
+2224,The Gift,Jason Bateman,77.0
+2225,The Gift,Rebecca Hall,77.0
+2226,The Gift,Joel Edgerton,77.0
+2227,The Gift,Allison Tolman,77.0
+2228,Dracula Untold,Luke Evans,40.0
+2229,Dracula Untold,Dominic Cooper,40.0
+2230,Dracula Untold,Sarah Gadon,40.0
+2231,Dracula Untold,Art Parkinson,40.0
+2232,In the Heart of the Sea,Chris Hemsworth,47.0
+2233,In the Heart of the Sea,Cillian Murphy,47.0
+2234,In the Heart of the Sea,Brendan Gleeson,47.0
+2235,In the Heart of the Sea,Ben Whishaw,47.0
+2236,Idiocracy,Luke Wilson,66.0
+2237,Idiocracy,Maya Rudolph,66.0
+2238,Idiocracy,Dax Shepard,66.0
+2239,Idiocracy,Terry Crews,66.0
+2240,The Expendables,Sylvester Stallone,45.0
+2241,The Expendables,Jason Statham,45.0
+2242,The Expendables,Jet Li,45.0
+2243,The Expendables,Dolph Lundgren,45.0
+2244,Evil Dead,Jane Levy,57.0
+2245,Evil Dead,Shiloh Fernandez,57.0
+2246,Evil Dead,Jessica Lucas,57.0
+2247,Evil Dead,Lou Taylor Pucci,57.0
+2248,Sinister,Ethan Hawke,53.0
+2249,Sinister,Juliet Rylance,53.0
+2250,Sinister,James Ransone,53.0
+2251,Sinister,Fred Dalton Thompson,53.0
+2252,Wreck-It Ralph,John C. Reilly,72.0
+2253,Wreck-It Ralph,Jack McBrayer,72.0
+2254,Wreck-It Ralph,Jane Lynch,72.0
+2255,Wreck-It Ralph,Sarah Silverman,72.0
+2256,Snow White and the Huntsman,Kristen Stewart,57.0
+2257,Snow White and the Huntsman,Chris Hemsworth,57.0
+2258,Snow White and the Huntsman,Charlize Theron,57.0
+2259,Snow White and the Huntsman,Sam Claflin,57.0
+2260,Pan,Levi Miller,36.0
+2261,Pan,Hugh Jackman,36.0
+2262,Pan,Garrett Hedlund,36.0
+2263,Pan,Rooney Mara,36.0
+2264,Transformers: Dark of the Moon,Shia LaBeouf,42.0
+2265,Transformers: Dark of the Moon,Rosie Huntington-Whiteley,42.0
+2266,Transformers: Dark of the Moon,Tyrese Gibson,42.0
+2267,Transformers: Dark of the Moon,Josh Duhamel,42.0
+2268,Juno,Ellen Page,81.0
+2269,Juno,Michael Cera,81.0
+2270,Juno,Jennifer Garner,81.0
+2271,Juno,Jason Bateman,81.0
+2272,A Hologram for the King,Tom Hanks,58.0
+2273,A Hologram for the King,Sarita Choudhury,58.0
+2274,A Hologram for the King,Ben Whishaw,58.0
+2275,A Hologram for the King,Alexander Black,58.0
+2276,Money Monster,George Clooney,55.0
+2277,Money Monster,Julia Roberts,55.0
+2278,Money Monster,Jack O'Connell,55.0
+2279,Money Monster,Dominic West,55.0
+2280,The Other Woman,Cameron Diaz,39.0
+2281,The Other Woman,Leslie Mann,39.0
+2282,The Other Woman,Kate Upton,39.0
+2283,The Other Woman,Nikolaj Coster-Waldau,39.0
+2284,Enchanted,Amy Adams,75.0
+2285,Enchanted,Susan Sarandon,75.0
+2286,Enchanted,James Marsden,75.0
+2287,Enchanted,Patrick Dempsey,75.0
+2288,The Intern,Robert De Niro,51.0
+2289,The Intern,Anne Hathaway,51.0
+2290,The Intern,Rene Russo,51.0
+2291,The Intern,Anders Holm,51.0
+2292,Little Miss Sunshine,Steve Carell,80.0
+2293,Little Miss Sunshine,Toni Collette,80.0
+2294,Little Miss Sunshine,Greg Kinnear,80.0
+2295,Little Miss Sunshine,Abigail Breslin,80.0
+2296,Bleed for This,Miles Teller,62.0
+2297,Bleed for This,Aaron Eckhart,62.0
+2298,Bleed for This,Katey Sagal,62.0
+2299,Bleed for This,Ciarán Hinds,62.0
+2300,Clash of the Titans,Sam Worthington,39.0
+2301,Clash of the Titans,Liam Neeson,39.0
+2302,Clash of the Titans,Ralph Fiennes,39.0
+2303,Clash of the Titans,Jason Flemyng,39.0
+2304,The Finest Hours,Chris Pine,58.0
+2305,The Finest Hours,Casey Affleck,58.0
+2306,The Finest Hours,Ben Foster,58.0
+2307,The Finest Hours,Eric Bana,58.0
+2308,Tron,Jeff Bridges,49.0
+2309,Tron,Garrett Hedlund,49.0
+2310,Tron,Olivia Wilde,49.0
+2311,Tron,Bruce Boxleitner,49.0
+2312,The Hunger Games: Catching Fire,Jennifer Lawrence,76.0
+2313,The Hunger Games: Catching Fire,Josh Hutcherson,76.0
+2314,The Hunger Games: Catching Fire,Liam Hemsworth,76.0
+2315,The Hunger Games: Catching Fire,Philip Seymour Hoffman,76.0
+2316,All Good Things,Ryan Gosling,57.0
+2317,All Good Things,Kirsten Dunst,57.0
+2318,All Good Things,Frank Langella,57.0
+2319,All Good Things,Lily Rabe,57.0
+2320,Kickboxer: Vengeance,Dave Bautista,37.0
+2321,Kickboxer: Vengeance,Alain Moussi,37.0
+2322,Kickboxer: Vengeance,Gina Carano,37.0
+2323,Kickboxer: Vengeance,Jean-Claude Van Damme,37.0
+2324,The Last Airbender,Noah Ringer,20.0
+2325,The Last Airbender,Nicola Peltz,20.0
+2326,The Last Airbender,Jackson Rathbone,20.0
+2327,The Last Airbender,Dev Patel,20.0
+2328,Sex Tape,Jason Segel,36.0
+2329,Sex Tape,Cameron Diaz,36.0
+2330,Sex Tape,Rob Corddry,36.0
+2331,Sex Tape,Ellie Kemper,36.0
+2332,What to Expect When You're Expecting,Cameron Diaz,41.0
+2333,What to Expect When You're Expecting,Matthew Morrison,41.0
+2334,What to Expect When You're Expecting,J. Todd Smith,41.0
+2335,What to Expect When You're Expecting,Dennis Quaid,41.0
+2336,Moneyball,Brad Pitt,87.0
+2337,Moneyball,Robin Wright,87.0
+2338,Moneyball,Jonah Hill,87.0
+2339,Moneyball,Philip Seymour Hoffman,87.0
+2340,Ghost Rider,Nicolas Cage,35.0
+2341,Ghost Rider,Eva Mendes,35.0
+2342,Ghost Rider,Sam Elliott,35.0
+2343,Ghost Rider,Matt Long,35.0
+2344,Unbroken,Jack O'Connell,59.0
+2345,Unbroken,Miyavi,59.0
+2346,Unbroken,Domhnall Gleeson,59.0
+2347,Unbroken,Garrett Hedlund,59.0
+2348,Immortals,Henry Cavill,46.0
+2349,Immortals,Mickey Rourke,46.0
+2350,Immortals,John Hurt,46.0
+2351,Immortals,Stephen Dorff,46.0
+2352,Sunshine,Cillian Murphy,64.0
+2353,Sunshine,Rose Byrne,64.0
+2354,Sunshine,Chris Evans,64.0
+2355,Sunshine,Michelle Yeoh,64.0
+2356,Brave,Kelly Macdonald,69.0
+2357,Brave,Billy Connolly,69.0
+2358,Brave,Emma Thompson,69.0
+2359,Brave,Julie Walters,69.0
+2360,Män som hatar kvinnor,Michael Nyqvist,76.0
+2361,Män som hatar kvinnor,Noomi Rapace,76.0
+2362,Män som hatar kvinnor,Ewa Fröling,76.0
+2363,Män som hatar kvinnor,Lena Endre,76.0
+2364,Adoration,Naomi Watts,37.0
+2365,Adoration,Robin Wright,37.0
+2366,Adoration,Xavier Samuel,37.0
+2367,Adoration,James Frecheville,37.0
+2368,The Drop,Tom Hardy,69.0
+2369,The Drop,Noomi Rapace,69.0
+2370,The Drop,James Gandolfini,69.0
+2371,The Drop,Matthias Schoenaerts,69.0
+2372,She's the Man,Amanda Bynes,45.0
+2373,She's the Man,Laura Ramsey,45.0
+2374,She's the Man,Channing Tatum,45.0
+2375,She's the Man,Vinnie Jones,45.0
+2376,Daddy's Home,Will Ferrell,42.0
+2377,Daddy's Home,Mark Wahlberg,42.0
+2378,Daddy's Home,Linda Cardellini,42.0
+2379,Daddy's Home,Thomas Haden Church,42.0
+2380,Let Me In,Kodi Smit-McPhee,79.0
+2381,Let Me In,Chloë Grace Moretz,79.0
+2382,Let Me In,Richard Jenkins,79.0
+2383,Let Me In,Cara Buono,79.0
+2384,Never Back Down,Sean Faris,39.0
+2385,Never Back Down,Djimon Hounsou,39.0
+2386,Never Back Down,Amber Heard,39.0
+2387,Never Back Down,Cam Gigandet,39.0
+2388,Grimsby,Sacha Baron Cohen,44.0
+2389,Grimsby,Mark Strong,44.0
+2390,Grimsby,Rebel Wilson,44.0
+2391,Grimsby,Freddie Crowder,44.0
+2392,Moon,Sam Rockwell,67.0
+2393,Moon,Kevin Spacey,67.0
+2394,Moon,Dominique McElligott,67.0
+2395,Moon,Rosie Shaw,67.0
+2396,Megamind,Will Ferrell,63.0
+2397,Megamind,Jonah Hill,63.0
+2398,Megamind,Brad Pitt,63.0
+2399,Megamind,Tina Fey,63.0
+2400,Gangster Squad,Sean Penn,40.0
+2401,Gangster Squad,Ryan Gosling,40.0
+2402,Gangster Squad,Emma Stone,40.0
+2403,Gangster Squad,Giovanni Ribisi,40.0
+2404,Blood Father,Mel Gibson,66.0
+2405,Blood Father,Erin Moriarty,66.0
+2406,Blood Father,Diego Luna,66.0
+2407,Blood Father,Michael Parks,66.0
+2408,He's Just Not That Into You,Jennifer Aniston,47.0
+2409,He's Just Not That Into You,Jennifer Connelly,47.0
+2410,He's Just Not That Into You,Morgan Lily,47.0
+2411,He's Just Not That Into You,Trenton Rogers,47.0
+2412,Kung Fu Panda 3,Jack Black,66.0
+2413,Kung Fu Panda 3,Bryan Cranston,66.0
+2414,Kung Fu Panda 3,Dustin Hoffman,66.0
+2415,Kung Fu Panda 3,Angelina Jolie,66.0
+2416,The Rise of the Krays,Matt Vael,90.0
+2417,The Rise of the Krays,Simon Cotton,90.0
+2418,The Rise of the Krays,Kevin Leslie,90.0
+2419,The Rise of the Krays,Olivia Moyles,90.0
+2420,Handsome Devil,Fionn O'Shea,
+2421,Handsome Devil,Nicholas Galitzine,
+2422,Handsome Devil,Andrew Scott,
+2423,Handsome Devil,Moe Dunford,
+2424,Winter's Bone,Jennifer Lawrence,
+2425,Winter's Bone,John Hawkes,
+2426,Winter's Bone,Garret Dillahunt,
+2427,Winter's Bone,Isaiah Stone,
+2428,Horrible Bosses,Jason Bateman,57.0
+2429,Horrible Bosses,Charlie Day,57.0
+2430,Horrible Bosses,Jason Sudeikis,57.0
+2431,Horrible Bosses,Steve Wiebe,57.0
+2432,Mommy,Anne Dorval,74.0
+2433,Mommy,Antoine-Olivier Pilon,74.0
+2434,Mommy,Suzanne Clément,74.0
+2435,Mommy,Patrick Huard,74.0
+2436,Hellboy II: The Golden Army,Ron Perlman,78.0
+2437,Hellboy II: The Golden Army,Selma Blair,78.0
+2438,Hellboy II: The Golden Army,Doug Jones,78.0
+2439,Hellboy II: The Golden Army,John Alexander,78.0
+2440,Beautiful Creatures,Alice Englert,52.0
+2441,Beautiful Creatures,Viola Davis,52.0
+2442,Beautiful Creatures,Emma Thompson,52.0
+2443,Beautiful Creatures,Alden Ehrenreich,52.0
+2444,Toni Erdmann,Sandra Hüller,93.0
+2445,Toni Erdmann,Peter Simonischek,93.0
+2446,Toni Erdmann,Michael Wittenborn,93.0
+2447,Toni Erdmann,Thomas Loibl,93.0
+2448,The Lovely Bones,Rachel Weisz,42.0
+2449,The Lovely Bones,Mark Wahlberg,42.0
+2450,The Lovely Bones,Saoirse Ronan,42.0
+2451,The Lovely Bones,Susan Sarandon,42.0
+2452,The Assassination of Jesse James by the Coward Robert Ford,Brad Pitt,68.0
+2453,The Assassination of Jesse James by the Coward Robert Ford,Casey Affleck,68.0
+2454,The Assassination of Jesse James by the Coward Robert Ford,Sam Shepard,68.0
+2455,The Assassination of Jesse James by the Coward Robert Ford,Mary-Louise Parker,68.0
+2456,Don Jon,Joseph Gordon-Levitt,66.0
+2457,Don Jon,Scarlett Johansson,66.0
+2458,Don Jon,Julianne Moore,66.0
+2459,Don Jon,Tony Danza,66.0
+2460,Bastille Day,Idris Elba,48.0
+2461,Bastille Day,Richard Madden,48.0
+2462,Bastille Day,Charlotte Le Bon,48.0
+2463,Bastille Day,Kelly Reilly,48.0
+2464,2307: Winter's Dream,Paul Sidhu,53.0
+2465,2307: Winter's Dream,Branden Coles,53.0
+2466,2307: Winter's Dream,Arielle Holmes,53.0
+2467,2307: Winter's Dream,Kelcey Watson,53.0
+2468,Free State of Jones,Matthew McConaughey,
+2469,Free State of Jones,Gugu Mbatha-Raw,
+2470,Free State of Jones,Mahershala Ali,
+2471,Free State of Jones,Keri Russell,
+2472,Mr. Right,Anna Kendrick,52.0
+2473,Mr. Right,Sam Rockwell,52.0
+2474,Mr. Right,Tim Roth,52.0
+2475,Mr. Right,James Ransone,52.0
+2476,The Secret Life of Walter Mitty,Ben Stiller,54.0
+2477,The Secret Life of Walter Mitty,Kristen Wiig,54.0
+2478,The Secret Life of Walter Mitty,Jon Daly,54.0
+2479,The Secret Life of Walter Mitty,Kathryn Hahn,54.0
+2480,Dope,Shameik Moore,72.0
+2481,Dope,Tony Revolori,72.0
+2482,Dope,Kiersey Clemons,72.0
+2483,Dope,Kimberly Elise,72.0
+2484,Underworld Awakening,Kate Beckinsale,39.0
+2485,Underworld Awakening,Michael Ealy,39.0
+2486,Underworld Awakening,India Eisley,39.0
+2487,Underworld Awakening,Stephen Rea,39.0
+2488,Antichrist,Willem Dafoe,49.0
+2489,Antichrist,Charlotte Gainsbourg,49.0
+2490,Antichrist,Storm Acheche Sahlstrøm,49.0
+2491,Friday the 13th,Jared Padalecki,34.0
+2492,Friday the 13th,Amanda Righetti,34.0
+2493,Friday the 13th,Derek Mears,34.0
+2494,Friday the 13th,Danielle Panabaker,34.0
+2495,Taken 3,Liam Neeson,26.0
+2496,Taken 3,Forest Whitaker,26.0
+2497,Taken 3,Maggie Grace,26.0
+2498,Taken 3,Famke Janssen,26.0
+2499,Total Recall,Colin Farrell,43.0
+2500,Total Recall,Bokeem Woodbine,43.0
+2501,Total Recall,Bryan Cranston,43.0
+2502,Total Recall,Kate Beckinsale,43.0
+2503,X-Men: The Last Stand,Patrick Stewart,58.0
+2504,X-Men: The Last Stand,Hugh Jackman,58.0
+2505,X-Men: The Last Stand,Halle Berry,58.0
+2506,X-Men: The Last Stand,Famke Janssen,58.0
+2507,The Escort,Lyndsy Fonseca,46.0
+2508,The Escort,Michael Doneger,46.0
+2509,The Escort,Tommy Dewey,46.0
+2510,The Escort,Bruce Campbell,46.0
+2511,The Whole Truth,Keanu Reeves,
+2512,The Whole Truth,Renée Zellweger,
+2513,The Whole Truth,Gugu Mbatha-Raw,
+2514,The Whole Truth,Gabriel Basso,
+2515,Night at the Museum: Secret of the Tomb,Ben Stiller,47.0
+2516,Night at the Museum: Secret of the Tomb,Robin Williams,47.0
+2517,Night at the Museum: Secret of the Tomb,Owen Wilson,47.0
+2518,Night at the Museum: Secret of the Tomb,Dick Van Dyke,47.0
+2519,Love & Other Drugs,Jake Gyllenhaal,55.0
+2520,Love & Other Drugs,Anne Hathaway,55.0
+2521,Love & Other Drugs,Judy Greer,55.0
+2522,Love & Other Drugs,Oliver Platt,55.0
+2523,The Interview,James Franco,52.0
+2524,The Interview,Seth Rogen,52.0
+2525,The Interview,Randall Park,52.0
+2526,The Interview,Lizzy Caplan,52.0
+2527,The Host,Kang-ho Song,85.0
+2528,The Host,Hee-Bong Byun,85.0
+2529,The Host,Hae-il Park,85.0
+2530,The Host,Doona Bae,85.0
+2531,Megan Is Missing,Amber Perkins,94.0
+2532,Megan Is Missing,Rachel Quinn,94.0
+2533,Megan Is Missing,Dean Waite,94.0
+2534,Megan Is Missing,Jael Elizabeth Steinmeyer,94.0
+2535,WALL·E,Ben Burtt,
+2536,WALL·E,Elissa Knight,
+2537,WALL·E,Jeff Garlin,
+2538,WALL·E,Fred Willard,
+2539,Knocked Up,Seth Rogen,85.0
+2540,Knocked Up,Katherine Heigl,85.0
+2541,Knocked Up,Paul Rudd,85.0
+2542,Knocked Up,Leslie Mann,85.0
+2543,Source Code,Jake Gyllenhaal,74.0
+2544,Source Code,Michelle Monaghan,74.0
+2545,Source Code,Vera Farmiga,74.0
+2546,Source Code,Jeffrey Wright,74.0
+2547,Lawless,Tom Hardy,58.0
+2548,Lawless,Shia LaBeouf,58.0
+2549,Lawless,Guy Pearce,58.0
+2550,Lawless,Jason Clarke,58.0
+2551,Unfriended,Heather Sossaman,59.0
+2552,Unfriended,Matthew Bohrer,59.0
+2553,Unfriended,Courtney Halverson,59.0
+2554,Unfriended,Shelley Hennig,59.0
+2555,American Reunion,Jason Biggs,49.0
+2556,American Reunion,Alyson Hannigan,49.0
+2557,American Reunion,Seann William Scott,49.0
+2558,American Reunion,Chris Klein,49.0
+2559,The Pursuit of Happyness,Will Smith,64.0
+2560,The Pursuit of Happyness,Thandie Newton,64.0
+2561,The Pursuit of Happyness,Jaden Smith,64.0
+2562,The Pursuit of Happyness,Brian Howe,64.0
+2563,Relatos salvajes,Darío Grandinetti,77.0
+2564,Relatos salvajes,María Marull,77.0
+2565,Relatos salvajes,Mónica Villa,77.0
+2566,Relatos salvajes,Rita Cortese,77.0
+2567,The Ridiculous 6,Adam Sandler,18.0
+2568,The Ridiculous 6,Terry Crews,18.0
+2569,The Ridiculous 6,Jorge Garcia,18.0
+2570,The Ridiculous 6,Taylor Lautner,18.0
+2571,Frantz,Pierre Niney,73.0
+2572,Frantz,Paula Beer,73.0
+2573,Frantz,Ernst Stötzner,73.0
+2574,Frantz,Marie Gruber,73.0
+2575,Viral,Sofia Black-D'Elia,72.0
+2576,Viral,Analeigh Tipton,72.0
+2577,Viral,Travis Tope,72.0
+2578,Viral,Michael Kelly,72.0
+2579,Gran Torino,Clint Eastwood,
+2580,Gran Torino,Bee Vang,
+2581,Gran Torino,Christopher Carley,
+2582,Gran Torino,Ahney Her,
+2583,Burnt,Bradley Cooper,42.0
+2584,Burnt,Sienna Miller,42.0
+2585,Burnt,Daniel Brühl,42.0
+2586,Burnt,Riccardo Scamarcio,42.0
+2587,Tall Men,Dan Crisafulli,57.0
+2588,Tall Men,Kay Whitney,57.0
+2589,Tall Men,Richard Garcia,57.0
+2590,Tall Men,Pat Cashman,57.0
+2591,Sleeping Beauty,Emily Browning,
+2592,Sleeping Beauty,Rachael Blake,
+2593,Sleeping Beauty,Ewen Leslie,
+2594,Sleeping Beauty,Bridgette Barrett,
+2595,Vampire Academy,Zoey Deutch,30.0
+2596,Vampire Academy,Lucy Fry,30.0
+2597,Vampire Academy,Danila Kozlovsky,30.0
+2598,Vampire Academy,Gabriel Byrne,30.0
+2599,Sweeney Todd: The Demon Barber of Fleet Street,Johnny Depp,83.0
+2600,Sweeney Todd: The Demon Barber of Fleet Street,Helena Bonham Carter,83.0
+2601,Sweeney Todd: The Demon Barber of Fleet Street,Alan Rickman,83.0
+2602,Sweeney Todd: The Demon Barber of Fleet Street,Timothy Spall,83.0
+2603,Solace,Anthony Hopkins,36.0
+2604,Solace,Jeffrey Dean Morgan,36.0
+2605,Solace,Abbie Cornish,36.0
+2606,Solace,Colin Farrell,36.0
+2607,Insidious,Patrick Wilson,52.0
+2608,Insidious,Rose Byrne,52.0
+2609,Insidious,Ty Simpkins,52.0
+2610,Insidious,Lin Shaye,52.0
+2611,Popstar: Never Stop Never Stopping,Andy Samberg,68.0
+2612,Popstar: Never Stop Never Stopping,Jorma Taccone,68.0
+2613,Popstar: Never Stop Never Stopping,Akiva Schaffer,68.0
+2614,Popstar: Never Stop Never Stopping,Sarah Silverman,68.0
+2615,The Levelling,Ellie Kendrick,82.0
+2616,The Levelling,David Troughton,82.0
+2617,The Levelling,Jack Holden,82.0
+2618,The Levelling,Joe Blakemore,82.0
+2619,Public Enemies,Christian Bale,70.0
+2620,Public Enemies,Johnny Depp,70.0
+2621,Public Enemies,Christian Stolte,70.0
+2622,Public Enemies,Jason Clarke,70.0
+2623,Boyhood,Ellar Coltrane,100.0
+2624,Boyhood,Patricia Arquette,100.0
+2625,Boyhood,Ethan Hawke,100.0
+2626,Boyhood,Elijah Smith,100.0
+2627,Teenage Mutant Ninja Turtles,Megan Fox,31.0
+2628,Teenage Mutant Ninja Turtles,Will Arnett,31.0
+2629,Teenage Mutant Ninja Turtles,William Fichtner,31.0
+2630,Teenage Mutant Ninja Turtles,Noel Fisher,31.0
+2631,Eastern Promises,Naomi Watts,82.0
+2632,Eastern Promises,Viggo Mortensen,82.0
+2633,Eastern Promises,Armin Mueller-Stahl,82.0
+2634,Eastern Promises,Josef Altin,82.0
+2635,The Daughter,Geoffrey Rush,62.0
+2636,The Daughter,Nicholas Hope,62.0
+2637,The Daughter,Sam Neill,62.0
+2638,The Daughter,Ewen Leslie,62.0
+2639,Pineapple Express,Seth Rogen,64.0
+2640,Pineapple Express,James Franco,64.0
+2641,Pineapple Express,Gary Cole,64.0
+2642,Pineapple Express,Danny McBride,64.0
+2643,The First Time,Dylan O'Brien,55.0
+2644,The First Time,Britt Robertson,55.0
+2645,The First Time,Victoria Justice,55.0
+2646,The First Time,James Frecheville,55.0
+2647,Gone Baby Gone,Morgan Freeman,72.0
+2648,Gone Baby Gone,Ed Harris,72.0
+2649,Gone Baby Gone,Casey Affleck,72.0
+2650,Gone Baby Gone,Michelle Monaghan,72.0
+2651,The Heat,Sandra Bullock,60.0
+2652,The Heat,Michael McDonald,60.0
+2653,The Heat,Melissa McCarthy,60.0
+2654,The Heat,Demián Bichir,60.0
+2655,L'avenir,Isabelle Huppert,88.0
+2656,L'avenir,André Marcon,88.0
+2657,L'avenir,Roman Kolinka,88.0
+2658,L'avenir,Edith Scob,88.0
+2659,Anna Karenina,Keira Knightley,63.0
+2660,Anna Karenina,Jude Law,63.0
+2661,Anna Karenina,Aaron Taylor-Johnson,63.0
+2662,Anna Karenina,Matthew Macfadyen,63.0
+2663,Regression,Ethan Hawke,32.0
+2664,Regression,David Thewlis,32.0
+2665,Regression,Emma Watson,32.0
+2666,Regression,Dale Dickey,32.0
+2667,Ted 2,Mark Wahlberg,48.0
+2668,Ted 2,Seth MacFarlane,48.0
+2669,Ted 2,Amanda Seyfried,48.0
+2670,Ted 2,Jessica Barth,48.0
+2671,Pain & Gain,Mark Wahlberg,45.0
+2672,Pain & Gain,Dwayne Johnson,45.0
+2673,Pain & Gain,Anthony Mackie,45.0
+2674,Pain & Gain,Tony Shalhoub,45.0
+2675,Blood Diamond,Leonardo DiCaprio,64.0
+2676,Blood Diamond,Djimon Hounsou,64.0
+2677,Blood Diamond,Jennifer Connelly,64.0
+2678,Blood Diamond,Kagiso Kuypers,64.0
+2679,Devil's Knot,Colin Firth,42.0
+2680,Devil's Knot,Reese Witherspoon,42.0
+2681,Devil's Knot,Alessandro Nivola,42.0
+2682,Devil's Knot,James Hamrick,42.0
+2683,Child 44,Tom Hardy,41.0
+2684,Child 44,Gary Oldman,41.0
+2685,Child 44,Noomi Rapace,41.0
+2686,Child 44,Joel Kinnaman,41.0
+2687,The Hurt Locker,Jeremy Renner,94.0
+2688,The Hurt Locker,Anthony Mackie,94.0
+2689,The Hurt Locker,Brian Geraghty,94.0
+2690,The Hurt Locker,Guy Pearce,94.0
+2691,Green Lantern,Ryan Reynolds,39.0
+2692,Green Lantern,Blake Lively,39.0
+2693,Green Lantern,Peter Sarsgaard,39.0
+2694,Green Lantern,Mark Strong,39.0
+2695,War on Everyone,Alexander Skarsgård,50.0
+2696,War on Everyone,Michael Peña,50.0
+2697,War on Everyone,Theo James,50.0
+2698,War on Everyone,Tessa Thompson,50.0
+2699,The Mist,Thomas Jane,58.0
+2700,The Mist,Marcia Gay Harden,58.0
+2701,The Mist,Laurie Holden,58.0
+2702,The Mist,Andre Braugher,58.0
+2703,Escape Plan,Sylvester Stallone,49.0
+2704,Escape Plan,Arnold Schwarzenegger,49.0
+2705,Escape Plan,50 Cent,49.0
+2706,Escape Plan,Vincent D'Onofrio,49.0
+2707,"Love, Rosie",Lily Collins,44.0
+2708,"Love, Rosie",Sam Claflin,44.0
+2709,"Love, Rosie",Christian Cooke,44.0
+2710,"Love, Rosie",Jaime Winstone,44.0
+2711,The DUFF,Mae Whitman,56.0
+2712,The DUFF,Bella Thorne,56.0
+2713,The DUFF,Robbie Amell,56.0
+2714,The DUFF,Allison Janney,56.0
+2715,The Age of Shadows,Byung-hun Lee,78.0
+2716,The Age of Shadows,Yoo Gong,78.0
+2717,The Age of Shadows,Kang-ho Song,78.0
+2718,The Age of Shadows,Ji-min Han,78.0
+2719,The Hunger Games: Mockingjay - Part 1,Jennifer Lawrence,64.0
+2720,The Hunger Games: Mockingjay - Part 1,Josh Hutcherson,64.0
+2721,The Hunger Games: Mockingjay - Part 1,Liam Hemsworth,64.0
+2722,The Hunger Games: Mockingjay - Part 1,Woody Harrelson,64.0
+2723,We Need to Talk About Kevin,Tilda Swinton,68.0
+2724,We Need to Talk About Kevin,John C. Reilly,68.0
+2725,We Need to Talk About Kevin,Ezra Miller,68.0
+2726,We Need to Talk About Kevin,Jasper Newell,68.0
+2727,Love & Friendship,Kate Beckinsale,87.0
+2728,Love & Friendship,Chloë Sevigny,87.0
+2729,Love & Friendship,Xavier Samuel,87.0
+2730,Love & Friendship,Emma Greenwell,87.0
+2731,The Mortal Instruments: City of Bones,Lily Collins,33.0
+2732,The Mortal Instruments: City of Bones,Jamie Campbell Bower,33.0
+2733,The Mortal Instruments: City of Bones,Robert Sheehan,33.0
+2734,The Mortal Instruments: City of Bones,Jemima West,33.0
+2735,Seven Pounds,Will Smith,36.0
+2736,Seven Pounds,Rosario Dawson,36.0
+2737,Seven Pounds,Woody Harrelson,36.0
+2738,Seven Pounds,Michael Ealy,36.0
+2739,The King's Speech,Colin Firth,88.0
+2740,The King's Speech,Geoffrey Rush,88.0
+2741,The King's Speech,Helena Bonham Carter,88.0
+2742,The King's Speech,Derek Jacobi,88.0
+2743,Hunger,Stuart Graham,82.0
+2744,Hunger,Laine Megaw,82.0
+2745,Hunger,Brian Milligan,82.0
+2746,Hunger,Liam McMahon,82.0
+2747,Jumper,Hayden Christensen,35.0
+2748,Jumper,Samuel L. Jackson,35.0
+2749,Jumper,Jamie Bell,35.0
+2750,Jumper,Rachel Bilson,35.0
+2751,Toy Story 3,Tom Hanks,92.0
+2752,Toy Story 3,Tim Allen,92.0
+2753,Toy Story 3,Joan Cusack,92.0
+2754,Toy Story 3,Ned Beatty,92.0
+2755,Tinker Tailor Soldier Spy,Gary Oldman,85.0
+2756,Tinker Tailor Soldier Spy,Colin Firth,85.0
+2757,Tinker Tailor Soldier Spy,Tom Hardy,85.0
+2758,Tinker Tailor Soldier Spy,Mark Strong,85.0
+2759,Resident Evil: Retribution,Milla Jovovich,39.0
+2760,Resident Evil: Retribution,Sienna Guillory,39.0
+2761,Resident Evil: Retribution,Michelle Rodriguez,39.0
+2762,Resident Evil: Retribution,Aryana Engineer,39.0
+2763,Dear Zindagi,Alia Bhatt,56.0
+2764,Dear Zindagi,Shah Rukh Khan,56.0
+2765,Dear Zindagi,Kunal Kapoor,56.0
+2766,Dear Zindagi,Priyanka Moodley,56.0
+2767,Genius,Colin Firth,
+2768,Genius,Jude Law,
+2769,Genius,Nicole Kidman,
+2770,Genius,Laura Linney,
+2771,Pompeii,Kit Harington,39.0
+2772,Pompeii,Emily Browning,39.0
+2773,Pompeii,Kiefer Sutherland,39.0
+2774,Pompeii,Adewale Akinnuoye-Agbaje,39.0
+2775,Life of Pi,Suraj Sharma,79.0
+2776,Life of Pi,Irrfan Khan,79.0
+2777,Life of Pi,Adil Hussain,79.0
+2778,Life of Pi,Tabu,79.0
+2779,Hachi: A Dog's Tale,Richard Gere,61.0
+2780,Hachi: A Dog's Tale,Joan Allen,61.0
+2781,Hachi: A Dog's Tale,Cary-Hiroyuki Tagawa,61.0
+2782,Hachi: A Dog's Tale,Sarah Roemer,61.0
+2783,10 Years,Channing Tatum,
+2784,10 Years,Rosario Dawson,
+2785,10 Years,Chris Pratt,
+2786,10 Years,Jenna Dewan Tatum,
+2787,I Origins,Michael Pitt,57.0
+2788,I Origins,Steven Yeun,57.0
+2789,I Origins,Astrid Bergès-Frisbey,57.0
+2790,I Origins,Brit Marling,57.0
+2791,Live Free or Die Hard,Bruce Willis,69.0
+2792,Live Free or Die Hard,Justin Long,69.0
+2793,Live Free or Die Hard,Timothy Olyphant,69.0
+2794,Live Free or Die Hard,Maggie Q,69.0
+2795,The Matchbreaker,Wesley Elder,44.0
+2796,The Matchbreaker,Christina Grimmie,44.0
+2797,The Matchbreaker,Osric Chau,44.0
+2798,The Matchbreaker,Olan Rogers,44.0
+2799,Funny Games,Naomi Watts,
+2800,Funny Games,Tim Roth,
+2801,Funny Games,Michael Pitt,
+2802,Funny Games,Brady Corbet,
+2803,Ted,Mark Wahlberg,62.0
+2804,Ted,Mila Kunis,62.0
+2805,Ted,Seth MacFarlane,62.0
+2806,Ted,Joel McHale,62.0
+2807,RED,Bruce Willis,60.0
+2808,RED,Helen Mirren,60.0
+2809,RED,Morgan Freeman,60.0
+2810,RED,Mary-Louise Parker,60.0
+2811,Australia,Nicole Kidman,53.0
+2812,Australia,Hugh Jackman,53.0
+2813,Australia,Shea Adams,53.0
+2814,Australia,Eddie Baroo,53.0
+2815,Faster,Dwayne Johnson,44.0
+2816,Faster,Billy Bob Thornton,44.0
+2817,Faster,Maggie Grace,44.0
+2818,Faster,Mauricio Lopez,44.0
+2819,The Neighbor,Josh Stewart,60.0
+2820,The Neighbor,Bill Engvall,60.0
+2821,The Neighbor,Alex Essoe,60.0
+2822,The Neighbor,Ronnie Gene Blevins,60.0
+2823,The Adjustment Bureau,Matt Damon,
+2824,The Adjustment Bureau,Emily Blunt,
+2825,The Adjustment Bureau,Lisa Thoreson,
+2826,The Adjustment Bureau,Florence Kastriner,
+2827,The Hollars,Sharlto Copley,53.0
+2828,The Hollars,Charlie Day,53.0
+2829,The Hollars,Richard Jenkins,53.0
+2830,The Hollars,Anna Kendrick,53.0
+2831,The Judge,Robert Downey Jr.,48.0
+2832,The Judge,Robert Duvall,48.0
+2833,The Judge,Vera Farmiga,48.0
+2834,The Judge,Billy Bob Thornton,48.0
+2835,Closed Circuit,Eric Bana,50.0
+2836,Closed Circuit,Rebecca Hall,50.0
+2837,Closed Circuit,Jim Broadbent,50.0
+2838,Closed Circuit,Ciarán Hinds,50.0
+2839,Transformers: Revenge of the Fallen,Shia LaBeouf,35.0
+2840,Transformers: Revenge of the Fallen,Megan Fox,35.0
+2841,Transformers: Revenge of the Fallen,Josh Duhamel,35.0
+2842,Transformers: Revenge of the Fallen,Tyrese Gibson,35.0
+2843,La tortue rouge,Emmanuel Garijo,86.0
+2844,La tortue rouge,Tom Hudson,86.0
+2845,La tortue rouge,Baptiste Goy,86.0
+2846,La tortue rouge,Axel Devillers,86.0
+2847,The Book of Life,Diego Luna,67.0
+2848,The Book of Life,Zoe Saldana,67.0
+2849,The Book of Life,Channing Tatum,67.0
+2850,The Book of Life,Ron Perlman,67.0
+2851,Incendies,Lubna Azabal,80.0
+2852,Incendies,Mélissa Désormeaux-Poulin,80.0
+2853,Incendies,Maxim Gaudette,80.0
+2854,Incendies,Mustafa Kamel,80.0
+2855,The Heartbreak Kid,Ben Stiller,46.0
+2856,The Heartbreak Kid,Michelle Monaghan,46.0
+2857,The Heartbreak Kid,Malin Akerman,46.0
+2858,The Heartbreak Kid,Jerry Stiller,46.0
+2859,Happy Feet,Elijah Wood,77.0
+2860,Happy Feet,Brittany Murphy,77.0
+2861,Happy Feet,Hugh Jackman,77.0
+2862,Happy Feet,Robin Williams,77.0
+2863,Entourage,Adrian Grenier,38.0
+2864,Entourage,Kevin Connolly,38.0
+2865,Entourage,Jerry Ferrara,38.0
+2866,Entourage,Kevin Dillon,38.0
+2867,The Strangers,Scott Speedman,47.0
+2868,The Strangers,Liv Tyler,47.0
+2869,The Strangers,Gemma Ward,47.0
+2870,The Strangers,Alex Fisher,47.0
+2871,Noah,Russell Crowe,68.0
+2872,Noah,Jennifer Connelly,68.0
+2873,Noah,Anthony Hopkins,68.0
+2874,Noah,Emma Watson,68.0
+2875,Neighbors,Seth Rogen,68.0
+2876,Neighbors,Rose Byrne,68.0
+2877,Neighbors,Zac Efron,68.0
+2878,Neighbors,Lisa Kudrow,68.0
+2879,Nymphomaniac: Vol. II,Charlotte Gainsbourg,60.0
+2880,Nymphomaniac: Vol. II,Stellan Skarsgård,60.0
+2881,Nymphomaniac: Vol. II,Willem Dafoe,60.0
+2882,Nymphomaniac: Vol. II,Jamie Bell,60.0
+2883,Wild,Reese Witherspoon,76.0
+2884,Wild,Laura Dern,76.0
+2885,Wild,Gaby Hoffmann,76.0
+2886,Wild,Michiel Huisman,76.0
+2887,Grown Ups,Adam Sandler,30.0
+2888,Grown Ups,Salma Hayek,30.0
+2889,Grown Ups,Kevin James,30.0
+2890,Grown Ups,Chris Rock,30.0
+2891,Blair Witch,James Allen McCune,47.0
+2892,Blair Witch,Callie Hernandez,47.0
+2893,Blair Witch,Corbin Reid,47.0
+2894,Blair Witch,Brandon Scott,47.0
+2895,The Karate Kid,Jackie Chan,61.0
+2896,The Karate Kid,Jaden Smith,61.0
+2897,The Karate Kid,Taraji P. Henson,61.0
+2898,The Karate Kid,Wenwen Han,61.0
+2899,Dark Shadows,Johnny Depp,55.0
+2900,Dark Shadows,Michelle Pfeiffer,55.0
+2901,Dark Shadows,Eva Green,55.0
+2902,Dark Shadows,Helena Bonham Carter,55.0
+2903,Friends with Benefits,Mila Kunis,63.0
+2904,Friends with Benefits,Justin Timberlake,63.0
+2905,Friends with Benefits,Patricia Clarkson,63.0
+2906,Friends with Benefits,Jenna Elfman,63.0
+2907,The Illusionist,Edward Norton,68.0
+2908,The Illusionist,Jessica Biel,68.0
+2909,The Illusionist,Paul Giamatti,68.0
+2910,The Illusionist,Rufus Sewell,68.0
+2911,The A-Team,Liam Neeson,47.0
+2912,The A-Team,Bradley Cooper,47.0
+2913,The A-Team,Sharlto Copley,47.0
+2914,The A-Team,Jessica Biel,47.0
+2915,The Guest,Dan Stevens,76.0
+2916,The Guest,Sheila Kelley,76.0
+2917,The Guest,Maika Monroe,76.0
+2918,The Guest,Joel David Moore,76.0
+2919,The Internship,Vince Vaughn,42.0
+2920,The Internship,Owen Wilson,42.0
+2921,The Internship,Rose Byrne,42.0
+2922,The Internship,Aasif Mandvi,42.0
+2923,Paul,Simon Pegg,57.0
+2924,Paul,Nick Frost,57.0
+2925,Paul,Seth Rogen,57.0
+2926,Paul,Mia Stallard,57.0
+2927,This Beautiful Fantastic,Jessica Brown Findlay,51.0
+2928,This Beautiful Fantastic,Andrew Scott,51.0
+2929,This Beautiful Fantastic,Jeremy Irvine,51.0
+2930,This Beautiful Fantastic,Tom Wilkinson,51.0
+2931,The Da Vinci Code,Tom Hanks,46.0
+2932,The Da Vinci Code,Audrey Tautou,46.0
+2933,The Da Vinci Code,Jean Reno,46.0
+2934,The Da Vinci Code,Ian McKellen,46.0
+2935,Mr. Church,Eddie Murphy,37.0
+2936,Mr. Church,Britt Robertson,37.0
+2937,Mr. Church,Natascha McElhone,37.0
+2938,Mr. Church,Xavier Samuel,37.0
+2939,Hugo,Asa Butterfield,83.0
+2940,Hugo,Chloë Grace Moretz,83.0
+2941,Hugo,Christopher Lee,83.0
+2942,Hugo,Ben Kingsley,83.0
+2943,The Blackcoat's Daughter,Emma Roberts,68.0
+2944,The Blackcoat's Daughter,Kiernan Shipka,68.0
+2945,The Blackcoat's Daughter,Lauren Holly,68.0
+2946,The Blackcoat's Daughter,Lucy Boynton,68.0
+2947,Body of Lies,Leonardo DiCaprio,57.0
+2948,Body of Lies,Russell Crowe,57.0
+2949,Body of Lies,Mark Strong,57.0
+2950,Body of Lies,Golshifteh Farahani,57.0
+2951,Knight of Cups,Christian Bale,53.0
+2952,Knight of Cups,Cate Blanchett,53.0
+2953,Knight of Cups,Natalie Portman,53.0
+2954,Knight of Cups,Brian Dennehy,53.0
+2955,The Mummy: Tomb of the Dragon Emperor,Brendan Fraser,31.0
+2956,The Mummy: Tomb of the Dragon Emperor,Jet Li,31.0
+2957,The Mummy: Tomb of the Dragon Emperor,Maria Bello,31.0
+2958,The Mummy: Tomb of the Dragon Emperor,Michelle Yeoh,31.0
+2959,The Boss,Melissa McCarthy,40.0
+2960,The Boss,Kristen Bell,40.0
+2961,The Boss,Peter Dinklage,40.0
+2962,The Boss,Ella Anderson,40.0
+2963,Hands of Stone,Edgar Ramírez,54.0
+2964,Hands of Stone,Usher Raymond,54.0
+2965,Hands of Stone,Robert De Niro,54.0
+2966,Hands of Stone,Rubén Blades,54.0
+2967,El secreto de sus ojos,Ricardo Darín,80.0
+2968,El secreto de sus ojos,Soledad Villamil,80.0
+2969,El secreto de sus ojos,Pablo Rago,80.0
+2970,El secreto de sus ojos,Carla Quevedo,80.0
+2971,True Grit,Jeff Bridges,80.0
+2972,True Grit,Matt Damon,80.0
+2973,True Grit,Hailee Steinfeld,80.0
+2974,True Grit,Josh Brolin,80.0
+2975,We Are Your Friends,Zac Efron,46.0
+2976,We Are Your Friends,Wes Bentley,46.0
+2977,We Are Your Friends,Emily Ratajkowski,46.0
+2978,We Are Your Friends,Jonny Weston,46.0
+2979,A Million Ways to Die in the West,Seth MacFarlane,44.0
+2980,A Million Ways to Die in the West,Charlize Theron,44.0
+2981,A Million Ways to Die in the West,Liam Neeson,44.0
+2982,A Million Ways to Die in the West,Amanda Seyfried,44.0
+2983,Only for One Night,Brian White,60.0
+2984,Only for One Night,Karrueche Tran,60.0
+2985,Only for One Night,Angelique Pereira,60.0
+2986,Only for One Night,Jessica Vanessa DeLeon,60.0
+2987,Rules Don't Apply,Lily Collins,
+2988,Rules Don't Apply,Haley Bennett,
+2989,Rules Don't Apply,Taissa Farmiga,
+2990,Rules Don't Apply,Steve Tom,
+2991,Ouija: Origin of Evil,Elizabeth Reaser,65.0
+2992,Ouija: Origin of Evil,Lulu Wilson,65.0
+2993,Ouija: Origin of Evil,Annalise Basso,65.0
+2994,Ouija: Origin of Evil,Henry Thomas,65.0
+2995,Percy Jackson: Sea of Monsters,Logan Lerman,39.0
+2996,Percy Jackson: Sea of Monsters,Alexandra Daddario,39.0
+2997,Percy Jackson: Sea of Monsters,Brandon T. Jackson,39.0
+2998,Percy Jackson: Sea of Monsters,Nathan Fillion,39.0
+2999,Fracture,Anthony Hopkins,68.0
+3000,Fracture,Ryan Gosling,68.0
+3001,Fracture,David Strathairn,68.0
+3002,Fracture,Rosamund Pike,68.0
+3003,Oculus,Karen Gillan,61.0
+3004,Oculus,Brenton Thwaites,61.0
+3005,Oculus,Katee Sackhoff,61.0
+3006,Oculus,Rory Cochrane,61.0
+3007,In Bruges,Colin Farrell,67.0
+3008,In Bruges,Brendan Gleeson,67.0
+3009,In Bruges,Ciarán Hinds,67.0
+3010,In Bruges,Elizabeth Berrington,67.0
+3011,This Means War,Reese Witherspoon,31.0
+3012,This Means War,Chris Pine,31.0
+3013,This Means War,Tom Hardy,31.0
+3014,This Means War,Til Schweiger,31.0
+3015,Lída Baarová,Tatiana Pauhofová,64.0
+3016,Lída Baarová,Karl Markovics,64.0
+3017,Lída Baarová,Gedeon Burkhard,64.0
+3018,Lída Baarová,Simona Stasová,64.0
+3019,The Road,Viggo Mortensen,
+3020,The Road,Charlize Theron,
+3021,The Road,Kodi Smit-McPhee,
+3022,The Road,Robert Duvall,
+3023,Lavender,Abbie Cornish,46.0
+3024,Lavender,Dermot Mulroney,46.0
+3025,Lavender,Justin Long,46.0
+3026,Lavender,Diego Klattenhoff,46.0
+3027,Deuces,Larenz Tate,36.0
+3028,Deuces,Meagan Good,36.0
+3029,Deuces,Rotimi,36.0
+3030,Deuces,Rick Gonzalez,36.0
+3031,Conan the Barbarian,Jason Momoa,
+3032,Conan the Barbarian,Ron Perlman,
+3033,Conan the Barbarian,Rose McGowan,
+3034,Conan the Barbarian,Stephen Lang,
+3035,The Fighter,Mark Wahlberg,79.0
+3036,The Fighter,Christian Bale,79.0
+3037,The Fighter,Amy Adams,79.0
+3038,The Fighter,Melissa Leo,79.0
+3039,August Rush,Freddie Highmore,38.0
+3040,August Rush,Keri Russell,38.0
+3041,August Rush,Jonathan Rhys Meyers,38.0
+3042,August Rush,Terrence Howard,38.0
+3043,Chef,Jon Favreau,68.0
+3044,Chef,Robert Downey Jr.,68.0
+3045,Chef,Scarlett Johansson,68.0
+3046,Chef,Dustin Hoffman,68.0
+3047,Eye in the Sky,Helen Mirren,73.0
+3048,Eye in the Sky,Aaron Paul,73.0
+3049,Eye in the Sky,Alan Rickman,73.0
+3050,Eye in the Sky,Barkhad Abdi,73.0
+3051,Eagle Eye,Shia LaBeouf,43.0
+3052,Eagle Eye,Michelle Monaghan,43.0
+3053,Eagle Eye,Rosario Dawson,43.0
+3054,Eagle Eye,Michael Chiklis,43.0
+3055,The Purge,Ethan Hawke,41.0
+3056,The Purge,Lena Headey,41.0
+3057,The Purge,Max Burkholder,41.0
+3058,The Purge,Adelaide Kane,41.0
+3059,PK,Aamir Khan,51.0
+3060,PK,Anushka Sharma,51.0
+3061,PK,Sanjay Dutt,51.0
+3062,PK,Boman Irani,51.0
+3063,Ender's Game,Harrison Ford,
+3064,Ender's Game,Asa Butterfield,
+3065,Ender's Game,Hailee Steinfeld,
+3066,Ender's Game,Abigail Breslin,
+3067,Indiana Jones and the Kingdom of the Crystal Skull,Harrison Ford,65.0
+3068,Indiana Jones and the Kingdom of the Crystal Skull,Cate Blanchett,65.0
+3069,Indiana Jones and the Kingdom of the Crystal Skull,Shia LaBeouf,65.0
+3070,Indiana Jones and the Kingdom of the Crystal Skull,Karen Allen,65.0
+3071,Paper Towns,Nat Wolff,56.0
+3072,Paper Towns,Cara Delevingne,56.0
+3073,Paper Towns,Austin Abrams,56.0
+3074,Paper Towns,Justice Smith,56.0
+3075,High-Rise,Tom Hiddleston,65.0
+3076,High-Rise,Jeremy Irons,65.0
+3077,High-Rise,Sienna Miller,65.0
+3078,High-Rise,Luke Evans,65.0
+3079,Quantum of Solace,Daniel Craig,58.0
+3080,Quantum of Solace,Olga Kurylenko,58.0
+3081,Quantum of Solace,Mathieu Amalric,58.0
+3082,Quantum of Solace,Judi Dench,58.0
+3083,The Assignment,Sigourney Weaver,34.0
+3084,The Assignment,Michelle Rodriguez,34.0
+3085,The Assignment,Tony Shalhoub,34.0
+3086,The Assignment,Anthony LaPaglia,34.0
+3087,How to Train Your Dragon,Jay Baruchel,74.0
+3088,How to Train Your Dragon,Gerard Butler,74.0
+3089,How to Train Your Dragon,Christopher Mintz-Plasse,74.0
+3090,How to Train Your Dragon,Craig Ferguson,74.0
+3091,Lady in the Water,Paul Giamatti,36.0
+3092,Lady in the Water,Bryce Dallas Howard,36.0
+3093,Lady in the Water,Jeffrey Wright,36.0
+3094,Lady in the Water,Bob Balaban,36.0
+3095,The Fountain,Hugh Jackman,51.0
+3096,The Fountain,Rachel Weisz,51.0
+3097,The Fountain,Sean Patrick Thomas,51.0
+3098,The Fountain,Ellen Burstyn,51.0
+3099,Cars 2,Owen Wilson,57.0
+3100,Cars 2,Larry the Cable Guy,57.0
+3101,Cars 2,Michael Caine,57.0
+3102,Cars 2,Emily Mortimer,57.0
+3103,31,Malcolm McDowell,35.0
+3104,31,Richard Brake,35.0
+3105,31,Jeff Daniel Phillips,35.0
+3106,31,Sheri Moon Zombie,35.0
+3107,Final Girl,Abigail Breslin,56.0
+3108,Final Girl,Wes Bentley,56.0
+3109,Final Girl,Logan Huffman,56.0
+3110,Final Girl,Alexander Ludwig,56.0
+3111,Chalk It Up,Maddy Curley,
+3112,Chalk It Up,John DeLuca,
+3113,Chalk It Up,Nikki SooHoo,
+3114,Chalk It Up,Drew Seeley,
+3115,The Man Who Knew Infinity,Dev Patel,
+3116,The Man Who Knew Infinity,Jeremy Irons,
+3117,The Man Who Knew Infinity,Malcolm Sinclair,
+3118,The Man Who Knew Infinity,Raghuvir Joshi,
+3119,Unknown,Liam Neeson,56.0
+3120,Unknown,Diane Kruger,56.0
+3121,Unknown,January Jones,56.0
+3122,Unknown,Aidan Quinn,56.0
+3123,Self/less,Ryan Reynolds,34.0
+3124,Self/less,Natalie Martinez,34.0
+3125,Self/less,Matthew Goode,34.0
+3126,Self/less,Ben Kingsley,34.0
+3127,Mr. Brooks,Kevin Costner,45.0
+3128,Mr. Brooks,Demi Moore,45.0
+3129,Mr. Brooks,William Hurt,45.0
+3130,Mr. Brooks,Dane Cook,45.0
+3131,Tramps,Callum Turner,77.0
+3132,Tramps,Grace Van Patten,77.0
+3133,Tramps,Michal Vondel,77.0
+3134,Tramps,Mike Birbiglia,77.0
+3135,Before We Go,Chris Evans,31.0
+3136,Before We Go,Alice Eve,31.0
+3137,Before We Go,Emma Fitzpatrick,31.0
+3138,Before We Go,John Cullum,31.0
+3139,Captain Phillips,Tom Hanks,83.0
+3140,Captain Phillips,Barkhad Abdi,83.0
+3141,Captain Phillips,Barkhad Abdirahman,83.0
+3142,Captain Phillips,Catherine Keener,83.0
+3143,The Secret Scripture,Rooney Mara,37.0
+3144,The Secret Scripture,Eric Bana,37.0
+3145,The Secret Scripture,Theo James,37.0
+3146,The Secret Scripture,Aidan Turner,37.0
+3147,Max Steel,Ben Winchell,22.0
+3148,Max Steel,Josh Brener,22.0
+3149,Max Steel,Maria Bello,22.0
+3150,Max Steel,Andy Garcia,22.0
+3151,Hotel Transylvania 2,Adam Sandler,44.0
+3152,Hotel Transylvania 2,Andy Samberg,44.0
+3153,Hotel Transylvania 2,Selena Gomez,44.0
+3154,Hotel Transylvania 2,Kevin James,44.0
+3155,Hancock,Will Smith,49.0
+3156,Hancock,Charlize Theron,49.0
+3157,Hancock,Jason Bateman,49.0
+3158,Hancock,Jae Head,49.0
+3159,Sisters,Amy Poehler,58.0
+3160,Sisters,Tina Fey,58.0
+3161,Sisters,Maya Rudolph,58.0
+3162,Sisters,Ike Barinholtz,58.0
+3163,The Family,Robert De Niro,42.0
+3164,The Family,Michelle Pfeiffer,42.0
+3165,The Family,Dianna Agron,42.0
+3166,The Family,John D'Leo,42.0
+3167,Zack and Miri Make a Porno,Seth Rogen,56.0
+3168,Zack and Miri Make a Porno,Elizabeth Banks,56.0
+3169,Zack and Miri Make a Porno,Craig Robinson,56.0
+3170,Zack and Miri Make a Porno,Gerry Bednob,56.0
+3171,Ma vie de Courgette,Gaspard Schlatter,85.0
+3172,Ma vie de Courgette,Sixtine Murat,85.0
+3173,Ma vie de Courgette,Paulin Jaccoud,85.0
+3174,Ma vie de Courgette,Michel Vuillermoz,85.0
+3175,Man on a Ledge,Sam Worthington,40.0
+3176,Man on a Ledge,Elizabeth Banks,40.0
+3177,Man on a Ledge,Jamie Bell,40.0
+3178,Man on a Ledge,Mandy Gonzalez,40.0
+3179,No Strings Attached,Natalie Portman,50.0
+3180,No Strings Attached,Ashton Kutcher,50.0
+3181,No Strings Attached,Kevin Kline,50.0
+3182,No Strings Attached,Cary Elwes,50.0
+3183,Rescue Dawn,Christian Bale,77.0
+3184,Rescue Dawn,Steve Zahn,77.0
+3185,Rescue Dawn,Jeremy Davies,77.0
+3186,Rescue Dawn,Zach Grenier,77.0
+3187,Despicable Me 2,Steve Carell,62.0
+3188,Despicable Me 2,Kristen Wiig,62.0
+3189,Despicable Me 2,Benjamin Bratt,62.0
+3190,Despicable Me 2,Miranda Cosgrove,62.0
+3191,A Walk Among the Tombstones,Liam Neeson,57.0
+3192,A Walk Among the Tombstones,Dan Stevens,57.0
+3193,A Walk Among the Tombstones,David Harbour,57.0
+3194,A Walk Among the Tombstones,Boyd Holbrook,57.0
+3195,The World's End,Simon Pegg,81.0
+3196,The World's End,Nick Frost,81.0
+3197,The World's End,Martin Freeman,81.0
+3198,The World's End,Rosamund Pike,81.0
+3199,Yoga Hosers,Lily-Rose Depp,23.0
+3200,Yoga Hosers,Harley Quinn Smith,23.0
+3201,Yoga Hosers,Johnny Depp,23.0
+3202,Yoga Hosers,Adam Brody,23.0
+3203,Seven Psychopaths,Colin Farrell,66.0
+3204,Seven Psychopaths,Woody Harrelson,66.0
+3205,Seven Psychopaths,Sam Rockwell,66.0
+3206,Seven Psychopaths,Christopher Walken,66.0
+3207,Beowulf,Ray Winstone,59.0
+3208,Beowulf,Crispin Glover,59.0
+3209,Beowulf,Angelina Jolie,59.0
+3210,Beowulf,Robin Wright,59.0
+3211,Jack Ryan: Shadow Recruit,Chris Pine,57.0
+3212,Jack Ryan: Shadow Recruit,Kevin Costner,57.0
+3213,Jack Ryan: Shadow Recruit,Keira Knightley,57.0
+3214,Jack Ryan: Shadow Recruit,Kenneth Branagh,57.0
+3215,1408,John Cusack,64.0
+3216,1408,Samuel L. Jackson,64.0
+3217,1408,Mary McCormack,64.0
+3218,1408,Paul Birchard,64.0
+3219,The Gambler,Mark Wahlberg,55.0
+3220,The Gambler,Jessica Lange,55.0
+3221,The Gambler,John Goodman,55.0
+3222,The Gambler,Brie Larson,55.0
+3223,Prince of Persia: The Sands of Time,Jake Gyllenhaal,50.0
+3224,Prince of Persia: The Sands of Time,Gemma Arterton,50.0
+3225,Prince of Persia: The Sands of Time,Ben Kingsley,50.0
+3226,Prince of Persia: The Sands of Time,Alfred Molina,50.0
+3227,The Spectacular Now,Miles Teller,82.0
+3228,The Spectacular Now,Shailene Woodley,82.0
+3229,The Spectacular Now,Kyle Chandler,82.0
+3230,The Spectacular Now,Jennifer Jason Leigh,82.0
+3231,A United Kingdom,David Oyelowo,65.0
+3232,A United Kingdom,Rosamund Pike,65.0
+3233,A United Kingdom,Tom Felton,65.0
+3234,A United Kingdom,Jack Davenport,65.0
+3235,USS Indianapolis: Men of Courage,Nicolas Cage,30.0
+3236,USS Indianapolis: Men of Courage,Tom Sizemore,30.0
+3237,USS Indianapolis: Men of Courage,Thomas Jane,30.0
+3238,USS Indianapolis: Men of Courage,Matt Lanter,30.0
+3239,Turbo Kid,Munro Chambers,60.0
+3240,Turbo Kid,Laurence Leboeuf,60.0
+3241,Turbo Kid,Michael Ironside,60.0
+3242,Turbo Kid,Edwin Wright,60.0
+3243,Mama,Jessica Chastain,57.0
+3244,Mama,Nikolaj Coster-Waldau,57.0
+3245,Mama,Megan Charpentier,57.0
+3246,Mama,Isabelle Nélisse,57.0
+3247,Orphan,Vera Farmiga,42.0
+3248,Orphan,Peter Sarsgaard,42.0
+3249,Orphan,Isabelle Fuhrman,42.0
+3250,Orphan,CCH Pounder,42.0
+3251,To Rome with Love,Woody Allen,54.0
+3252,To Rome with Love,Penélope Cruz,54.0
+3253,To Rome with Love,Jesse Eisenberg,54.0
+3254,To Rome with Love,Ellen Page,54.0
+3255,Fantastic Mr. Fox,George Clooney,83.0
+3256,Fantastic Mr. Fox,Meryl Streep,83.0
+3257,Fantastic Mr. Fox,Bill Murray,83.0
+3258,Fantastic Mr. Fox,Jason Schwartzman,83.0
+3259,Inside Man,Denzel Washington,76.0
+3260,Inside Man,Clive Owen,76.0
+3261,Inside Man,Jodie Foster,76.0
+3262,Inside Man,Christopher Plummer,76.0
+3263,I.T.,Pierce Brosnan,27.0
+3264,I.T.,Jason Barry,27.0
+3265,I.T.,Karen Moskow,27.0
+3266,I.T.,Kai Ryssdal,27.0
+3267,127 Hours,James Franco,82.0
+3268,127 Hours,Amber Tamblyn,82.0
+3269,127 Hours,Kate Mara,82.0
+3270,127 Hours,Sean Bott,82.0
+3271,Annabelle,Ward Horton,37.0
+3272,Annabelle,Annabelle Wallis,37.0
+3273,Annabelle,Alfre Woodard,37.0
+3274,Annabelle,Tony Amendola,37.0
+3275,Wolves at the Door,Katie Cassidy,63.0
+3276,Wolves at the Door,Elizabeth Henstridge,63.0
+3277,Wolves at the Door,Adam Campbell,63.0
+3278,Wolves at the Door,Miles Fisher,63.0
+3279,Suite Française,Michelle Williams,
+3280,Suite Française,Kristin Scott Thomas,
+3281,Suite Française,Margot Robbie,
+3282,Suite Française,Eric Godon,
+3283,The Imaginarium of Doctor Parnassus,Christopher Plummer,65.0
+3284,The Imaginarium of Doctor Parnassus,Lily Cole,65.0
+3285,The Imaginarium of Doctor Parnassus,Heath Ledger,65.0
+3286,The Imaginarium of Doctor Parnassus,Andrew Garfield,65.0
+3287,G.I. Joe: The Rise of Cobra,Dennis Quaid,32.0
+3288,G.I. Joe: The Rise of Cobra,Channing Tatum,32.0
+3289,G.I. Joe: The Rise of Cobra,Marlon Wayans,32.0
+3290,G.I. Joe: The Rise of Cobra,Adewale Akinnuoye-Agbaje,32.0
+3291,Christine,Rebecca Hall,72.0
+3292,Christine,Michael C. Hall,72.0
+3293,Christine,Tracy Letts,72.0
+3294,Christine,Maria Dizzia,72.0
+3295,Man Down,Shia LaBeouf,27.0
+3296,Man Down,Jai Courtney,27.0
+3297,Man Down,Gary Oldman,27.0
+3298,Man Down,Kate Mara,27.0
+3299,Crawlspace,Michael Vartan,25.0
+3300,Crawlspace,Erin Moriarty,25.0
+3301,Crawlspace,Nadine Velazquez,25.0
+3302,Crawlspace,Ronnie Gene Blevins,25.0
+3303,Shut In,Naomi Watts,
+3304,Shut In,Charlie Heaton,
+3305,Shut In,Jacob Tremblay,
+3306,Shut In,Oliver Platt,
+3307,The Warriors Gate,Mark Chao,77.0
+3308,The Warriors Gate,Ni Ni,77.0
+3309,The Warriors Gate,Dave Bautista,77.0
+3310,The Warriors Gate,Sienna Guillory,77.0
+3311,Grindhouse,Kurt Russell,
+3312,Grindhouse,Rose McGowan,
+3313,Grindhouse,Danny Trejo,
+3314,Grindhouse,Zoë Bell,
+3315,Disaster Movie,Carmen Electra,15.0
+3316,Disaster Movie,Vanessa Lachey,15.0
+3317,Disaster Movie,Nicole Parker,15.0
+3318,Disaster Movie,Matt Lanter,15.0
+3319,Rocky Balboa,Sylvester Stallone,63.0
+3320,Rocky Balboa,Antonio Tarver,63.0
+3321,Rocky Balboa,Milo Ventimiglia,63.0
+3322,Rocky Balboa,Burt Young,63.0
+3323,Diary of a Wimpy Kid: Dog Days,Zachary Gordon,54.0
+3324,Diary of a Wimpy Kid: Dog Days,Robert Capron,54.0
+3325,Diary of a Wimpy Kid: Dog Days,Devon Bostick,54.0
+3326,Diary of a Wimpy Kid: Dog Days,Steve Zahn,54.0
+3327,Jane Eyre,Mia Wasikowska,76.0
+3328,Jane Eyre,Michael Fassbender,76.0
+3329,Jane Eyre,Jamie Bell,76.0
+3330,Jane Eyre,Su Elliot,76.0
+3331,Fool's Gold,Matthew McConaughey,29.0
+3332,Fool's Gold,Kate Hudson,29.0
+3333,Fool's Gold,Donald Sutherland,29.0
+3334,Fool's Gold,Alexis Dziena,29.0
+3335,The Dictator,Sacha Baron Cohen,58.0
+3336,The Dictator,Anna Faris,58.0
+3337,The Dictator,John C. Reilly,58.0
+3338,The Dictator,Ben Kingsley,58.0
+3339,The Loft,Karl Urban,24.0
+3340,The Loft,James Marsden,24.0
+3341,The Loft,Wentworth Miller,24.0
+3342,The Loft,Eric Stonestreet,24.0
+3343,Bacalaureat,Adrian Titieni,84.0
+3344,Bacalaureat,Maria-Victoria Dragus,84.0
+3345,Bacalaureat,Lia Bugnar,84.0
+3346,Bacalaureat,Malina Manovici,84.0
+3347,You Don't Mess with the Zohan,Adam Sandler,54.0
+3348,You Don't Mess with the Zohan,John Turturro,54.0
+3349,You Don't Mess with the Zohan,Emmanuelle Chriqui,54.0
+3350,You Don't Mess with the Zohan,Nick Swardson,54.0
+3351,Exposed,Ana de Armas,23.0
+3352,Exposed,Keanu Reeves,23.0
+3353,Exposed,Christopher McDonald,23.0
+3354,Exposed,Mira Sorvino,23.0
+3355,Maudie,Ethan Hawke,60.0
+3356,Maudie,Sally Hawkins,60.0
+3357,Maudie,Kari Matchett,60.0
+3358,Maudie,Zachary Bennett,60.0
+3359,Horrible Bosses 2,Jason Bateman,40.0
+3360,Horrible Bosses 2,Jason Sudeikis,40.0
+3361,Horrible Bosses 2,Charlie Day,40.0
+3362,Horrible Bosses 2,Jennifer Aniston,40.0
+3363,A Bigger Splash,Tilda Swinton,74.0
+3364,A Bigger Splash,Matthias Schoenaerts,74.0
+3365,A Bigger Splash,Ralph Fiennes,74.0
+3366,A Bigger Splash,Dakota Johnson,74.0
+3367,Melancholia,Kirsten Dunst,80.0
+3368,Melancholia,Charlotte Gainsbourg,80.0
+3369,Melancholia,Kiefer Sutherland,80.0
+3370,Melancholia,Alexander Skarsgård,80.0
+3371,The Princess and the Frog,Anika Noni Rose,73.0
+3372,The Princess and the Frog,Keith David,73.0
+3373,The Princess and the Frog,Oprah Winfrey,73.0
+3374,The Princess and the Frog,Bruno Campos,73.0
+3375,Unstoppable,Denzel Washington,69.0
+3376,Unstoppable,Chris Pine,69.0
+3377,Unstoppable,Rosario Dawson,69.0
+3378,Unstoppable,Ethan Suplee,69.0
+3379,Flight,Denzel Washington,76.0
+3380,Flight,Nadine Velazquez,76.0
+3381,Flight,Don Cheadle,76.0
+3382,Flight,John Goodman,76.0
+3383,Home,Jim Parsons,55.0
+3384,Home,Rihanna,55.0
+3385,Home,Steve Martin,55.0
+3386,Home,Jennifer Lopez,55.0
+3387,La migliore offerta,Geoffrey Rush,49.0
+3388,La migliore offerta,Jim Sturgess,49.0
+3389,La migliore offerta,Sylvia Hoeks,49.0
+3390,La migliore offerta,Donald Sutherland,49.0
+3391,Mean Dreams,Sophie Nélisse,64.0
+3392,Mean Dreams,Josh Wiggins,64.0
+3393,Mean Dreams,Joe Cobden,64.0
+3394,Mean Dreams,Bill Paxton,64.0
+3395,42,Chadwick Boseman,62.0
+3396,42,T.R. Knight,62.0
+3397,42,Harrison Ford,62.0
+3398,42,Nicole Beharie,62.0
+3399,21,Jim Sturgess,48.0
+3400,21,Kate Bosworth,48.0
+3401,21,Kevin Spacey,48.0
+3402,21,Aaron Yoo,48.0
+3403,Begin Again,Keira Knightley,62.0
+3404,Begin Again,Mark Ruffalo,62.0
+3405,Begin Again,Adam Levine,62.0
+3406,Begin Again,Hailee Steinfeld,62.0
+3407,Out of the Furnace,Christian Bale,63.0
+3408,Out of the Furnace,Casey Affleck,63.0
+3409,Out of the Furnace,Zoe Saldana,63.0
+3410,Out of the Furnace,Woody Harrelson,63.0
+3411,Vicky Cristina Barcelona,Rebecca Hall,70.0
+3412,Vicky Cristina Barcelona,Scarlett Johansson,70.0
+3413,Vicky Cristina Barcelona,Javier Bardem,70.0
+3414,Vicky Cristina Barcelona,Christopher Evan Welch,70.0
+3415,Kung Fu Panda,Jack Black,73.0
+3416,Kung Fu Panda,Ian McShane,73.0
+3417,Kung Fu Panda,Angelina Jolie,73.0
+3418,Kung Fu Panda,Dustin Hoffman,73.0
+3419,Barbershop: The Next Cut,Ice Cube,67.0
+3420,Barbershop: The Next Cut,Regina Hall,67.0
+3421,Barbershop: The Next Cut,Anthony Anderson,67.0
+3422,Barbershop: The Next Cut,Eve,67.0
+3423,Terminator Salvation,Christian Bale,49.0
+3424,Terminator Salvation,Sam Worthington,49.0
+3425,Terminator Salvation,Anton Yelchin,49.0
+3426,Terminator Salvation,Moon Bloodgood,49.0
+3427,Freedom Writers,Hilary Swank,64.0
+3428,Freedom Writers,Imelda Staunton,64.0
+3429,Freedom Writers,Patrick Dempsey,64.0
+3430,Freedom Writers,Scott Glenn,64.0
+3431,The Hills Have Eyes,Ted Levine,52.0
+3432,The Hills Have Eyes,Kathleen Quinlan,52.0
+3433,The Hills Have Eyes,Dan Byrd,52.0
+3434,The Hills Have Eyes,Emilie de Ravin,52.0
+3435,Changeling,Angelina Jolie,63.0
+3436,Changeling,Colm Feore,63.0
+3437,Changeling,Amy Ryan,63.0
+3438,Changeling,Gattlin Griffith,63.0
+3439,Remember Me,Robert Pattinson,40.0
+3440,Remember Me,Emilie de Ravin,40.0
+3441,Remember Me,Caitlyn Rund,40.0
+3442,Remember Me,Moisés Acevedo,40.0
+3443,Koe no katachi,Miyu Irino,80.0
+3444,Koe no katachi,Saori Hayami,80.0
+3445,Koe no katachi,Aoi Yuki,80.0
+3446,Koe no katachi,Kenshô Ono,80.0
+3447,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Steve Carell,54.0
+3448,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Jennifer Garner,54.0
+3449,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Ed Oxenbould,54.0
+3450,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Dylan Minnette,54.0
+3451,Locke,Tom Hardy,81.0
+3452,Locke,Olivia Colman,81.0
+3453,Locke,Ruth Wilson,81.0
+3454,Locke,Andrew Scott,81.0
+3455,The 9th Life of Louis Drax,Jamie Dornan,41.0
+3456,The 9th Life of Louis Drax,Aiden Longworth,41.0
+3457,The 9th Life of Louis Drax,Sarah Gadon,41.0
+3458,The 9th Life of Louis Drax,Aaron Paul,41.0
+3459,Horns,Daniel Radcliffe,46.0
+3460,Horns,Juno Temple,46.0
+3461,Horns,Max Minghella,46.0
+3462,Horns,Joe Anderson,46.0
+3463,Indignation,Logan Lerman,78.0
+3464,Indignation,Sarah Gadon,78.0
+3465,Indignation,Tijuana Ricks,78.0
+3466,Indignation,Sue Dahlman,78.0
+3467,The Stanford Prison Experiment,Ezra Miller,67.0
+3468,The Stanford Prison Experiment,Tye Sheridan,67.0
+3469,The Stanford Prison Experiment,Billy Crudup,67.0
+3470,The Stanford Prison Experiment,Olivia Thirlby,67.0
+3471,Diary of a Wimpy Kid: Rodrick Rules,Zachary Gordon,51.0
+3472,Diary of a Wimpy Kid: Rodrick Rules,Devon Bostick,51.0
+3473,Diary of a Wimpy Kid: Rodrick Rules,Robert Capron,51.0
+3474,Diary of a Wimpy Kid: Rodrick Rules,Rachael Harris,51.0
+3475,Mission: Impossible III,Tom Cruise,66.0
+3476,Mission: Impossible III,Michelle Monaghan,66.0
+3477,Mission: Impossible III,Ving Rhames,66.0
+3478,Mission: Impossible III,Philip Seymour Hoffman,66.0
+3479,En man som heter Ove,Rolf Lassgård,70.0
+3480,En man som heter Ove,Bahar Pars,70.0
+3481,En man som heter Ove,Filip Berg,70.0
+3482,En man som heter Ove,Ida Engvoll,70.0
+3483,Dragonball Evolution,Justin Chatwin,45.0
+3484,Dragonball Evolution,James Marsters,45.0
+3485,Dragonball Evolution,Yun-Fat Chow,45.0
+3486,Dragonball Evolution,Emmy Rossum,45.0
+3487,Red Dawn,Chris Hemsworth,31.0
+3488,Red Dawn,Isabel Lucas,31.0
+3489,Red Dawn,Josh Hutcherson,31.0
+3490,Red Dawn,Josh Peck,31.0
+3491,One Day,Anne Hathaway,48.0
+3492,One Day,Jim Sturgess,48.0
+3493,One Day,Patricia Clarkson,48.0
+3494,One Day,Tom Mison,48.0
+3495,Life as We Know It,Katherine Heigl,39.0
+3496,Life as We Know It,Josh Duhamel,39.0
+3497,Life as We Know It,Josh Lucas,39.0
+3498,Life as We Know It,Alexis Clagett,39.0
+3499,28 Weeks Later,Jeremy Renner,78.0
+3500,28 Weeks Later,Rose Byrne,78.0
+3501,28 Weeks Later,Robert Carlyle,78.0
+3502,28 Weeks Later,Harold Perrineau,78.0
+3503,Warm Bodies,Nicholas Hoult,59.0
+3504,Warm Bodies,Teresa Palmer,59.0
+3505,Warm Bodies,John Malkovich,59.0
+3506,Warm Bodies,Analeigh Tipton,59.0
+3507,Blue Jasmine,Cate Blanchett,78.0
+3508,Blue Jasmine,Alec Baldwin,78.0
+3509,Blue Jasmine,Peter Sarsgaard,78.0
+3510,Blue Jasmine,Sally Hawkins,78.0
+3511,G.I. Joe: Retaliation,Dwayne Johnson,41.0
+3512,G.I. Joe: Retaliation,Channing Tatum,41.0
+3513,G.I. Joe: Retaliation,Adrianne Palicki,41.0
+3514,G.I. Joe: Retaliation,Byung-hun Lee,41.0
+3515,Wrath of the Titans,Sam Worthington,37.0
+3516,Wrath of the Titans,Liam Neeson,37.0
+3517,Wrath of the Titans,Rosamund Pike,37.0
+3518,Wrath of the Titans,Ralph Fiennes,37.0
+3519,Shin Gojira,Hiroki Hasegawa,68.0
+3520,Shin Gojira,Yutaka Takenouchi,68.0
+3521,Shin Gojira,Satomi Ishihara,68.0
+3522,Shin Gojira,Ren Ôsugi,68.0
+3523,Saving Mr. Banks,Emma Thompson,65.0
+3524,Saving Mr. Banks,Tom Hanks,65.0
+3525,Saving Mr. Banks,Annie Rose Buckley,65.0
+3526,Saving Mr. Banks,Colin Farrell,65.0
+3527,Transcendence,Johnny Depp,42.0
+3528,Transcendence,Rebecca Hall,42.0
+3529,Transcendence,Morgan Freeman,42.0
+3530,Transcendence,Cillian Murphy,42.0
+3531,Rio,Jesse Eisenberg,63.0
+3532,Rio,Anne Hathaway,63.0
+3533,Rio,George Lopez,63.0
+3534,Rio,Karen Disher,63.0
+3535,Equals,Nicholas Hoult,43.0
+3536,Equals,Kristen Stewart,43.0
+3537,Equals,Vernetta Lopez,43.0
+3538,Equals,Scott Lawrence,43.0
+3539,Babel,Brad Pitt,69.0
+3540,Babel,Cate Blanchett,69.0
+3541,Babel,Gael García Bernal,69.0
+3542,Babel,Mohamed Akhzam,69.0
+3543,The Tree of Life,Brad Pitt,85.0
+3544,The Tree of Life,Sean Penn,85.0
+3545,The Tree of Life,Jessica Chastain,85.0
+3546,The Tree of Life,Hunter McCracken,85.0
+3547,The Lucky One,Zac Efron,39.0
+3548,The Lucky One,Taylor Schilling,39.0
+3549,The Lucky One,Blythe Danner,39.0
+3550,The Lucky One,Riley Thomas Stewart,39.0
+3551,Piranha 3D,Elisabeth Shue,53.0
+3552,Piranha 3D,Jerry O'Connell,53.0
+3553,Piranha 3D,Richard Dreyfuss,53.0
+3554,Piranha 3D,Ving Rhames,53.0
+3555,50/50,Joseph Gordon-Levitt,72.0
+3556,50/50,Seth Rogen,72.0
+3557,50/50,Anna Kendrick,72.0
+3558,50/50,Bryce Dallas Howard,72.0
+3559,The Intent,Dylan Duffus,59.0
+3560,The Intent,Scorcher,59.0
+3561,The Intent,Shone Romulus,59.0
+3562,The Intent,Jade Asha,59.0
+3563,This Is 40,Paul Rudd,
+3564,This Is 40,Leslie Mann,
+3565,This Is 40,Maude Apatow,
+3566,This Is 40,Iris Apatow,
+3567,Real Steel,Hugh Jackman,56.0
+3568,Real Steel,Evangeline Lilly,56.0
+3569,Real Steel,Dakota Goyo,56.0
+3570,Real Steel,Anthony Mackie,56.0
+3571,Sex and the City,Sarah Jessica Parker,53.0
+3572,Sex and the City,Kim Cattrall,53.0
+3573,Sex and the City,Cynthia Nixon,53.0
+3574,Sex and the City,Kristin Davis,53.0
+3575,Rambo,Sylvester Stallone,46.0
+3576,Rambo,Julie Benz,46.0
+3577,Rambo,Matthew Marsden,46.0
+3578,Rambo,Graham McTavish,46.0
+3579,Planet Terror,Rose McGowan,55.0
+3580,Planet Terror,Freddy Rodríguez,55.0
+3581,Planet Terror,Josh Brolin,55.0
+3582,Planet Terror,Marley Shelton,55.0
+3583,Concussion,Will Smith,
+3584,Concussion,Alec Baldwin,
+3585,Concussion,Albert Brooks,
+3586,Concussion,David Morse,
+3587,The Fall,Lee Pace,64.0
+3588,The Fall,Catinca Untaru,64.0
+3589,The Fall,Justine Waddell,64.0
+3590,The Fall,Kim Uylenbroek,64.0
+3591,The Ugly Truth,Katherine Heigl,28.0
+3592,The Ugly Truth,Gerard Butler,28.0
+3593,The Ugly Truth,Bree Turner,28.0
+3594,The Ugly Truth,Eric Winter,28.0
+3595,Bride Wars,Kate Hudson,24.0
+3596,Bride Wars,Anne Hathaway,24.0
+3597,Bride Wars,Candice Bergen,24.0
+3598,Bride Wars,Bryan Greenberg,24.0
+3599,Sleeping with Other People,Jason Sudeikis,64.0
+3600,Sleeping with Other People,Alison Brie,64.0
+3601,Sleeping with Other People,Jordan Carlos,64.0
+3602,Sleeping with Other People,Margarita Levieva,64.0
+3603,Snakes on a Plane,Samuel L. Jackson,58.0
+3604,Snakes on a Plane,Julianna Margulies,58.0
+3605,Snakes on a Plane,Nathan Phillips,58.0
+3606,Snakes on a Plane,Rachel Blanchard,58.0
+3607,What If,Daniel Radcliffe,59.0
+3608,What If,Zoe Kazan,59.0
+3609,What If,Megan Park,59.0
+3610,What If,Adam Driver,59.0
+3611,How to Train Your Dragon 2,Jay Baruchel,76.0
+3612,How to Train Your Dragon 2,Cate Blanchett,76.0
+3613,How to Train Your Dragon 2,Gerard Butler,76.0
+3614,How to Train Your Dragon 2,Craig Ferguson,76.0
+3615,RoboCop,Joel Kinnaman,52.0
+3616,RoboCop,Gary Oldman,52.0
+3617,RoboCop,Michael Keaton,52.0
+3618,RoboCop,Abbie Cornish,52.0
+3619,In Dubious Battle,Nat Wolff,43.0
+3620,In Dubious Battle,James Franco,43.0
+3621,In Dubious Battle,Vincent D'Onofrio,43.0
+3622,In Dubious Battle,Selena Gomez,43.0
+3623,"Hello, My Name Is Doris",Sally Field,63.0
+3624,"Hello, My Name Is Doris",Max Greenfield,63.0
+3625,"Hello, My Name Is Doris",Tyne Daly,63.0
+3626,"Hello, My Name Is Doris",Wendi McLendon-Covey,63.0
+3627,Ocean's Thirteen,George Clooney,62.0
+3628,Ocean's Thirteen,Brad Pitt,62.0
+3629,Ocean's Thirteen,Matt Damon,62.0
+3630,Ocean's Thirteen,Michael Mantell,62.0
+3631,Slither,Nathan Fillion,69.0
+3632,Slither,Elizabeth Banks,69.0
+3633,Slither,Michael Rooker,69.0
+3634,Slither,Don Thompson,69.0
+3635,Contagion,Matt Damon,70.0
+3636,Contagion,Kate Winslet,70.0
+3637,Contagion,Jude Law,70.0
+3638,Contagion,Gwyneth Paltrow,70.0
+3639,Il racconto dei racconti - Tale of Tales,Salma Hayek,72.0
+3640,Il racconto dei racconti - Tale of Tales,Vincent Cassel,72.0
+3641,Il racconto dei racconti - Tale of Tales,Toby Jones,72.0
+3642,Il racconto dei racconti - Tale of Tales,John C. Reilly,72.0
+3643,I Am the Pretty Thing That Lives in the House,Ruth Wilson,68.0
+3644,I Am the Pretty Thing That Lives in the House,Paula Prentiss,68.0
+3645,I Am the Pretty Thing That Lives in the House,Lucy Boynton,68.0
+3646,I Am the Pretty Thing That Lives in the House,Bob Balaban,68.0
+3647,Bridge to Terabithia,Josh Hutcherson,74.0
+3648,Bridge to Terabithia,AnnaSophia Robb,74.0
+3649,Bridge to Terabithia,Zooey Deschanel,74.0
+3650,Bridge to Terabithia,Robert Patrick,74.0
+3651,Coherence,Emily Baldoni,65.0
+3652,Coherence,Maury Sterling,65.0
+3653,Coherence,Nicholas Brendon,65.0
+3654,Coherence,Elizabeth Gracen,65.0
+3655,Notorious,Jamal Woolard,60.0
+3656,Notorious,Anthony Mackie,60.0
+3657,Notorious,Derek Luke,60.0
+3658,Notorious,Momo Dione,60.0
+3659,Goksung,Jun Kunimura,81.0
+3660,Goksung,Jung-min Hwang,81.0
+3661,Goksung,Do-won Kwak,81.0
+3662,Goksung,Woo-hee Chun,81.0
+3663,The Expendables 2,Sylvester Stallone,51.0
+3664,The Expendables 2,Liam Hemsworth,51.0
+3665,The Expendables 2,Randy Couture,51.0
+3666,The Expendables 2,Jean-Claude Van Damme,51.0
+3667,The Girl Next Door,William Atherton,29.0
+3668,The Girl Next Door,Blythe Auffarth,29.0
+3669,The Girl Next Door,Blanche Baker,29.0
+3670,The Girl Next Door,Kevin Chamberlin,29.0
+3671,Perfume: The Story of a Murderer,Ben Whishaw,56.0
+3672,Perfume: The Story of a Murderer,Dustin Hoffman,56.0
+3673,Perfume: The Story of a Murderer,Alan Rickman,56.0
+3674,Perfume: The Story of a Murderer,Francesc Albiol,56.0
+3675,The Golden Compass,Nicole Kidman,51.0
+3676,The Golden Compass,Daniel Craig,51.0
+3677,The Golden Compass,Dakota Blue Richards,51.0
+3678,The Golden Compass,Ben Walker,51.0
+3679,Centurion,Michael Fassbender,62.0
+3680,Centurion,Dominic West,62.0
+3681,Centurion,Olga Kurylenko,62.0
+3682,Centurion,Andreas Wisniewski,62.0
+3683,Scouts Guide to the Zombie Apocalypse,Tye Sheridan,32.0
+3684,Scouts Guide to the Zombie Apocalypse,Logan Miller,32.0
+3685,Scouts Guide to the Zombie Apocalypse,Joey Morgan,32.0
+3686,Scouts Guide to the Zombie Apocalypse,Sarah Dumont,32.0
+3687,17 Again,Zac Efron,48.0
+3688,17 Again,Matthew Perry,48.0
+3689,17 Again,Leslie Mann,48.0
+3690,17 Again,Thomas Lennon,48.0
+3691,No Escape,Lake Bell,38.0
+3692,No Escape,Pierce Brosnan,38.0
+3693,No Escape,Owen Wilson,38.0
+3694,No Escape,Chatchawai Kamonsakpitak,38.0
+3695,Superman Returns,Brandon Routh,72.0
+3696,Superman Returns,Kevin Spacey,72.0
+3697,Superman Returns,Kate Bosworth,72.0
+3698,Superman Returns,James Marsden,72.0
+3699,The Twilight Saga: Breaking Dawn - Part 1,Kristen Stewart,45.0
+3700,The Twilight Saga: Breaking Dawn - Part 1,Robert Pattinson,45.0
+3701,The Twilight Saga: Breaking Dawn - Part 1,Taylor Lautner,45.0
+3702,The Twilight Saga: Breaking Dawn - Part 1,Gil Birmingham,45.0
+3703,Precious,Gabourey Sidibe,79.0
+3704,Precious,Mo'Nique,79.0
+3705,Precious,Paula Patton,79.0
+3706,Precious,Mariah Carey,79.0
+3707,The Sea of Trees,Matthew McConaughey,23.0
+3708,The Sea of Trees,Naomi Watts,23.0
+3709,The Sea of Trees,Ken Watanabe,23.0
+3710,The Sea of Trees,Ryoko Seta,23.0
+3711,Good Kids,Zoey Deutch,86.0
+3712,Good Kids,Nicholas Braun,86.0
+3713,Good Kids,Mateo Arias,86.0
+3714,Good Kids,Israel Broussard,86.0
+3715,The Master,Philip Seymour Hoffman,
+3716,The Master,Joaquin Phoenix,
+3717,The Master,Amy Adams,
+3718,The Master,Jesse Plemons,
+3719,Footloose,Kenny Wormald,58.0
+3720,Footloose,Julianne Hough,58.0
+3721,Footloose,Dennis Quaid,58.0
+3722,Footloose,Andie MacDowell,58.0
+3723,If I Stay,Chloë Grace Moretz,46.0
+3724,If I Stay,Mireille Enos,46.0
+3725,If I Stay,Jamie Blackley,46.0
+3726,If I Stay,Joshua Leonard,46.0
+3727,The Ticket,Dan Stevens,52.0
+3728,The Ticket,Malin Akerman,52.0
+3729,The Ticket,Oliver Platt,52.0
+3730,The Ticket,Kerry Bishé,52.0
+3731,Detour,Tye Sheridan,46.0
+3732,Detour,Emory Cohen,46.0
+3733,Detour,Bel Powley,46.0
+3734,Detour,Stephen Moyer,46.0
+3735,The Love Witch,Samantha Robinson,82.0
+3736,The Love Witch,Jeffrey Vincent Parise,82.0
+3737,The Love Witch,Laura Waddell,82.0
+3738,The Love Witch,Gian Keys,82.0
+3739,Talladega Nights: The Ballad of Ricky Bobby,Will Ferrell,66.0
+3740,Talladega Nights: The Ballad of Ricky Bobby,John C. Reilly,66.0
+3741,Talladega Nights: The Ballad of Ricky Bobby,Sacha Baron Cohen,66.0
+3742,Talladega Nights: The Ballad of Ricky Bobby,Gary Cole,66.0
+3743,The Human Centipede (First Sequence),Dieter Laser,33.0
+3744,The Human Centipede (First Sequence),Ashley C. Williams,33.0
+3745,The Human Centipede (First Sequence),Ashlynn Yennie,33.0
+3746,The Human Centipede (First Sequence),Akihiro Kitamura,33.0
+3747,Super,Rainn Wilson,50.0
+3748,Super,Ellen Page,50.0
+3749,Super,Liv Tyler,50.0
+3750,Super,Kevin Bacon,50.0
+3751,The Siege of Jadotville,Jamie Dornan,83.0
+3752,The Siege of Jadotville,Mark Strong,83.0
+3753,The Siege of Jadotville,Jason O'Mara,83.0
+3754,The Siege of Jadotville,Michael McElhatton,83.0
+3755,Up in the Air,George Clooney,
+3756,Up in the Air,Vera Farmiga,
+3757,Up in the Air,Anna Kendrick,
+3758,Up in the Air,Jason Bateman,
+3759,The Midnight Meat Train,Vinnie Jones,58.0
+3760,The Midnight Meat Train,Bradley Cooper,58.0
+3761,The Midnight Meat Train,Leslie Bibb,58.0
+3762,The Midnight Meat Train,Brooke Shields,58.0
+3763,The Twilight Saga: Eclipse,Kristen Stewart,58.0
+3764,The Twilight Saga: Eclipse,Robert Pattinson,58.0
+3765,The Twilight Saga: Eclipse,Taylor Lautner,58.0
+3766,The Twilight Saga: Eclipse,Xavier Samuel,58.0
+3767,Transpecos,Johnny Simmons,73.0
+3768,Transpecos,Gabriel Luna,73.0
+3769,Transpecos,Clifton Collins Jr.,73.0
+3770,Transpecos,David Acord,73.0
+3771,What's Your Number?,Anna Faris,35.0
+3772,What's Your Number?,Chris Evans,35.0
+3773,What's Your Number?,Ari Graynor,35.0
+3774,What's Your Number?,Blythe Danner,35.0
+3775,Riddick,Vin Diesel,49.0
+3776,Riddick,Karl Urban,49.0
+3777,Riddick,Katee Sackhoff,49.0
+3778,Riddick,Jordi Mollà,49.0
+3779,Triangle,Melissa George,66.0
+3780,Triangle,Joshua McIvor,66.0
+3781,Triangle,Jack Taylor,66.0
+3782,Triangle,Michael Dorman,66.0
+3783,The Butler,Forest Whitaker,
+3784,The Butler,Oprah Winfrey,
+3785,The Butler,John Cusack,
+3786,The Butler,Jane Fonda,
+3787,King Cobra,Garrett Clayton,48.0
+3788,King Cobra,Christian Slater,48.0
+3789,King Cobra,Molly Ringwald,48.0
+3790,King Cobra,James Kelley,48.0
+3791,After Earth,Jaden Smith,33.0
+3792,After Earth,David Denman,33.0
+3793,After Earth,Will Smith,33.0
+3794,After Earth,Sophie Okonedo,33.0
+3795,Kicks,Jahking Guillory,69.0
+3796,Kicks,Christopher Jordan Wallace,69.0
+3797,Kicks,Christopher Meyer,69.0
+3798,Kicks,Kofi Siriboe,69.0
+3799,Me and Earl and the Dying Girl,Thomas Mann,74.0
+3800,Me and Earl and the Dying Girl,RJ Cyler,74.0
+3801,Me and Earl and the Dying Girl,Olivia Cooke,74.0
+3802,Me and Earl and the Dying Girl,Nick Offerman,74.0
+3803,The Descendants,George Clooney,84.0
+3804,The Descendants,Shailene Woodley,84.0
+3805,The Descendants,Amara Miller,84.0
+3806,The Descendants,Nick Krause,84.0
+3807,Sex and the City 2,Sarah Jessica Parker,27.0
+3808,Sex and the City 2,Kim Cattrall,27.0
+3809,Sex and the City 2,Kristin Davis,27.0
+3810,Sex and the City 2,Cynthia Nixon,27.0
+3811,The Kings of Summer,Nick Robinson,61.0
+3812,The Kings of Summer,Gabriel Basso,61.0
+3813,The Kings of Summer,Moises Arias,61.0
+3814,The Kings of Summer,Nick Offerman,61.0
+3815,Death Race,Jason Statham,43.0
+3816,Death Race,Joan Allen,43.0
+3817,Death Race,Tyrese Gibson,43.0
+3818,Death Race,Ian McShane,43.0
+3819,That Awkward Moment,Zac Efron,36.0
+3820,That Awkward Moment,Michael B. Jordan,36.0
+3821,That Awkward Moment,Miles Teller,36.0
+3822,That Awkward Moment,Imogen Poots,36.0
+3823,Legion,Paul Bettany,32.0
+3824,Legion,Dennis Quaid,32.0
+3825,Legion,Charles S. Dutton,32.0
+3826,Legion,Lucas Black,32.0
+3827,End of Watch,Jake Gyllenhaal,68.0
+3828,End of Watch,Michael Peña,68.0
+3829,End of Watch,Anna Kendrick,68.0
+3830,End of Watch,America Ferrera,68.0
+3831,3 Days to Kill,Kevin Costner,40.0
+3832,3 Days to Kill,Hailee Steinfeld,40.0
+3833,3 Days to Kill,Connie Nielsen,40.0
+3834,3 Days to Kill,Amber Heard,40.0
+3835,Lucky Number Slevin,Josh Hartnett,53.0
+3836,Lucky Number Slevin,Ben Kingsley,53.0
+3837,Lucky Number Slevin,Morgan Freeman,53.0
+3838,Lucky Number Slevin,Lucy Liu,53.0
+3839,Trance,James McAvoy,61.0
+3840,Trance,Rosario Dawson,61.0
+3841,Trance,Vincent Cassel,61.0
+3842,Trance,Danny Sapani,61.0
+3843,Into the Forest,Ellen Page,59.0
+3844,Into the Forest,Evan Rachel Wood,59.0
+3845,Into the Forest,Max Minghella,59.0
+3846,Into the Forest,Callum Keith Rennie,59.0
+3847,The Other Boleyn Girl,Natalie Portman,50.0
+3848,The Other Boleyn Girl,Scarlett Johansson,50.0
+3849,The Other Boleyn Girl,Eric Bana,50.0
+3850,The Other Boleyn Girl,Jim Sturgess,50.0
+3851,I Spit on Your Grave,Sarah Butler,27.0
+3852,I Spit on Your Grave,Jeff Branson,27.0
+3853,I Spit on Your Grave,Andrew Howard,27.0
+3854,I Spit on Your Grave,Daniel Franzese,27.0
+3855,Custody,Viola Davis,72.0
+3856,Custody,Hayden Panettiere,72.0
+3857,Custody,Catalina Sandino Moreno,72.0
+3858,Custody,Ellen Burstyn,72.0
+3859,Inland Empire,Laura Dern,
+3860,Inland Empire,Jeremy Irons,
+3861,Inland Empire,Justin Theroux,
+3862,Inland Empire,Karolina Gruszka,
+3863,L'odyssée,Lambert Wilson,70.0
+3864,L'odyssée,Pierre Niney,70.0
+3865,L'odyssée,Audrey Tautou,70.0
+3866,L'odyssée,Laurent Lucas,70.0
+3867,The Walk,Joseph Gordon-Levitt,
+3868,The Walk,Charlotte Le Bon,
+3869,The Walk,Guillaume Baillargeon,
+3870,The Walk,Émilie Leclerc,
+3871,Wrecker,Anna Hutchison,37.0
+3872,Wrecker,Andrea Whitburn,37.0
+3873,Wrecker,Jennifer Koenig,37.0
+3874,Wrecker,Michael Dickson,37.0
+3875,The Lone Ranger,Johnny Depp,
+3876,The Lone Ranger,Armie Hammer,
+3877,The Lone Ranger,William Fichtner,
+3878,The Lone Ranger,Tom Wilkinson,
+3879,Texas Chainsaw 3D,Alexandra Daddario,62.0
+3880,Texas Chainsaw 3D,Tania Raymonde,62.0
+3881,Texas Chainsaw 3D,Scott Eastwood,62.0
+3882,Texas Chainsaw 3D,Trey Songz,62.0
+3883,Disturbia,Shia LaBeouf,
+3884,Disturbia,David Morse,
+3885,Disturbia,Carrie-Anne Moss,
+3886,Disturbia,Sarah Roemer,
+3887,Rock of Ages,Julianne Hough,47.0
+3888,Rock of Ages,Diego Boneta,47.0
+3889,Rock of Ages,Tom Cruise,47.0
+3890,Rock of Ages,Alec Baldwin,47.0
+3891,Scream 4,Neve Campbell,52.0
+3892,Scream 4,Courteney Cox,52.0
+3893,Scream 4,David Arquette,52.0
+3894,Scream 4,Lucy Hale,52.0
+3895,Queen of Katwe,Madina Nalwanga,73.0
+3896,Queen of Katwe,David Oyelowo,73.0
+3897,Queen of Katwe,Lupita Nyong'o,73.0
+3898,Queen of Katwe,Martin Kabanza,73.0
+3899,My Big Fat Greek Wedding 2,Nia Vardalos,37.0
+3900,My Big Fat Greek Wedding 2,John Corbett,37.0
+3901,My Big Fat Greek Wedding 2,Michael Constantine,37.0
+3902,My Big Fat Greek Wedding 2,Lainie Kazan,37.0
+3903,Dark Places,Charlize Theron,39.0
+3904,Dark Places,Nicholas Hoult,39.0
+3905,Dark Places,Christina Hendricks,39.0
+3906,Dark Places,Chloë Grace Moretz,39.0
+3907,Amateur Night,Jason Biggs,38.0
+3908,Amateur Night,Janet Montgomery,38.0
+3909,Amateur Night,Ashley Tisdale,38.0
+3910,Amateur Night,Bria L. Murphy,38.0
+3911,It's Only the End of the World,Nathalie Baye,48.0
+3912,It's Only the End of the World,Vincent Cassel,48.0
+3913,It's Only the End of the World,Marion Cotillard,48.0
+3914,It's Only the End of the World,Léa Seydoux,48.0
+3915,The Skin I Live In,Antonio Banderas,70.0
+3916,The Skin I Live In,Elena Anaya,70.0
+3917,The Skin I Live In,Jan Cornet,70.0
+3918,The Skin I Live In,Marisa Paredes,70.0
+3919,Miracles from Heaven,Jennifer Garner,44.0
+3920,Miracles from Heaven,Kylie Rogers,44.0
+3921,Miracles from Heaven,Martin Henderson,44.0
+3922,Miracles from Heaven,Brighton Sharbino,44.0
+3923,Annie,Quvenzhané Wallis,33.0
+3924,Annie,Cameron Diaz,33.0
+3925,Annie,Jamie Foxx,33.0
+3926,Annie,Rose Byrne,33.0
+3927,Across the Universe,Evan Rachel Wood,56.0
+3928,Across the Universe,Jim Sturgess,56.0
+3929,Across the Universe,Joe Anderson,56.0
+3930,Across the Universe,Dana Fuchs,56.0
+3931,Let's Be Cops,Jake Johnson,30.0
+3932,Let's Be Cops,Damon Wayans Jr.,30.0
+3933,Let's Be Cops,Rob Riggle,30.0
+3934,Let's Be Cops,Nina Dobrev,30.0
+3935,Max,Thomas Haden Church,47.0
+3936,Max,Josh Wiggins,47.0
+3937,Max,Luke Kleintank,47.0
+3938,Max,Lauren Graham,47.0
+3939,Your Highness,Danny McBride,31.0
+3940,Your Highness,Natalie Portman,31.0
+3941,Your Highness,James Franco,31.0
+3942,Your Highness,Rasmus Hardiker,31.0
+3943,Final Destination 5,Nicholas D'Agosto,50.0
+3944,Final Destination 5,Emma Bell,50.0
+3945,Final Destination 5,Arlen Escarpeta,50.0
+3946,Final Destination 5,Miles Fisher,50.0
+3947,Endless Love,Gabriella Wilde,30.0
+3948,Endless Love,Alex Pettyfer,30.0
+3949,Endless Love,Bruce Greenwood,30.0
+3950,Endless Love,Robert Patrick,30.0
+3951,Martyrs,Morjana Alaoui,89.0
+3952,Martyrs,Mylène Jampanoï,89.0
+3953,Martyrs,Catherine Bégin,89.0
+3954,Martyrs,Robert Toupin,89.0
+3955,Selma,David Oyelowo,
+3956,Selma,Carmen Ejogo,
+3957,Selma,Tim Roth,
+3958,Selma,Lorraine Toussaint,
+3959,Underworld: Rise of the Lycans,Rhona Mitra,44.0
+3960,Underworld: Rise of the Lycans,Michael Sheen,44.0
+3961,Underworld: Rise of the Lycans,Bill Nighy,44.0
+3962,Underworld: Rise of the Lycans,Steven Mackintosh,44.0
+3963,Taare Zameen Par,Darsheel Safary,42.0
+3964,Taare Zameen Par,Aamir Khan,42.0
+3965,Taare Zameen Par,Tanay Chheda,42.0
+3966,Taare Zameen Par,Sachet Engineer,42.0
+3967,Take Me Home Tonight,Topher Grace,
+3968,Take Me Home Tonight,Anna Faris,
+3969,Take Me Home Tonight,Dan Fogler,
+3970,Take Me Home Tonight,Teresa Palmer,
+3971,Resident Evil: Afterlife,Milla Jovovich,37.0
+3972,Resident Evil: Afterlife,Ali Larter,37.0
+3973,Resident Evil: Afterlife,Wentworth Miller,37.0
+3974,Resident Evil: Afterlife,Kim Coates,37.0
+3975,Project X,Thomas Mann,48.0
+3976,Project X,Oliver Cooper,48.0
+3977,Project X,Jonathan Daniel Brown,48.0
+3978,Project X,Dax Flame,48.0
+3979,Secret in Their Eyes,Chiwetel Ejiofor,45.0
+3980,Secret in Their Eyes,Nicole Kidman,45.0
+3981,Secret in Their Eyes,Julia Roberts,45.0
+3982,Secret in Their Eyes,Dean Norris,45.0
+3983,Hostel: Part II,Lauren German,46.0
+3984,Hostel: Part II,Heather Matarazzo,46.0
+3985,Hostel: Part II,Bijou Phillips,46.0
+3986,Hostel: Part II,Roger Bart,46.0
+3987,Step Up 2: The Streets,Robert Hoffman,50.0
+3988,Step Up 2: The Streets,Briana Evigan,50.0
+3989,Step Up 2: The Streets,Cassie Ventura,50.0
+3990,Step Up 2: The Streets,Adam G. Sevani,50.0
+3991,Search Party,Adam Pally,22.0
+3992,Search Party,T.J. Miller,22.0
+3993,Search Party,Thomas Middleditch,22.0
+3994,Search Party,Shannon Woodward,22.0
+3995,Nine Lives,Kevin Spacey,11.0
+3996,Nine Lives,Jennifer Garner,11.0
+3997,Nine Lives,Robbie Amell,11.0
+3998,Nine Lives,Cheryl Hines,11.0
